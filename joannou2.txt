@@ -1,0 +1,114 @@
+Content-Type: text/enriched
+Text-Width: 70
+
+<bold>Meta</bold>
+
+
+Nestle 1904 Greek New Testament
+http://sites.google.com/site/nestle1904
+Version 2.16
+
+Based on the 1904 (http://www.archive.org/details/biblentgreektext00nestuoft)
+
+and 1913 (www.archive.org/details/hkainediathekete00lond) editions
+
+of the Eberhard Nestle's Greek New Testament.
+
+Edited by Diego Santos
+License: Public domain
+
+
+<bold>2J</bold>
+
+
++---
+
+1 Ὁ πρεσβύτερος <x-color><param>red</param>ἐκλεκτῇ</x-color> κυρίᾳ καὶ τοῖς <x-color><param>magenta</param>τέκνοις</x-color> αὐτῆς,
+
+
+οὓς ἐγὼ ἀγαπῶ ἐν <x-color><param>green</param>ἀληθείᾳ</x-color>,
+
+καὶ οὐκ ἐγὼ μόνος
+
+ἀλλὰ καὶ πάντες οἱ ἐγνωκότες τὴν <x-color><param>green</param>ἀλήθειαν</x-color>,
+
+
+2 διὰ τὴν <x-color><param>green</param>ἀλήθειαν</x-color> τὴν μένουσαν ἐν ἡμῖν,
+
+    καὶ <x-color><param>dark orange</param>μεθ’ ἡμῶν ἔσται</x-color> εἰς τὸν αἰῶνα.
+    3 <x-color><param>dark orange</param>ἔσται μεθ’ ἡμῶν</x-color> χάρις ἔλεος εἰρήνη
+
+    <x-color><param>red</param>παρὰ</x-color> Θεοῦ Πατρός,
+
+    καὶ <x-color><param>red</param>παρὰ</x-color> Ἰησοῦ Χριστοῦ τοῦ Υἱοῦ τοῦ Πατρός,
+
+ἐν <x-color><param>green</param>ἀληθείᾳ</x-color> καὶ ἀγάπῃ.
+
+
+4 Ἐχάρην λίαν   ὅτι   εὕρηκα
+
+ἐκ τῶν τέκνων σου <x-color><param>dodger blue</param>περιπατοῦντας</x-color> ἐν <x-color><param>green</param>ἀληθείᾳ</x-color>,
+
+καθὼς <x-color><param>cyan</param>ἐντολὴν</x-color> ἐλάβομεν παρὰ τοῦ Πατρός.
+
+
+5 καὶ νῦν ἐρωτῶ σε, κυρία,
+
+    οὐχ ὡς <x-color><param>cyan</param>ἐντολὴν</x-color> γράφων σοι καινὴν,
+
+    ἀλλὰ ἣν εἴχαμεν <x-color><param>dark orange</param>ἀπ’ ἀρχῆς</x-color>,
+
+ἵνα ἀγαπῶμεν ἀλλήλους.
+
+
+6 καὶ αὕτη ἐστὶν ἡ ἀγάπη,
+
+ἵνα <x-color><param>dodger blue</param>περιπατῶμεν</x-color> κατὰ τὰς <x-color><param>cyan</param>ἐντολὰς</x-color> αὐτοῦ
+
+αὕτη ἡ <x-color><param>cyan</param>ἐντολή</x-color> ἐστιν, καθὼς ἠκούσατε <x-color><param>dark orange</param>ἀπ’ ἀρχῆς</x-color>,
+
+ἵνα ἐν αὐτῇ <x-color><param>dodger blue</param>περιπατῆτε</x-color>.
+
+
+7 ὅτι πολλοὶ <x-color><param>dark violet</param>πλάνοι</x-color> ἐξῆλθον εἰς τὸν κόσμον,
+
+οἱ μὴ ὁμολογοῦντες Ἰησοῦν Χριστὸν ἐρχόμενον ἐν σαρκί
+
+οὗτός ἐστιν ὁ <x-color><param>dark violet</param>πλάνος</x-color> καὶ ὁ ἀντίχριστος.
+
+
+8 βλέπετε ἑαυτούς,
+
+ἵνα μὴ <x-color><param>blue</param>ἀπολέσητε</x-color> ἃ ἠργασάμεθα,
+
+ἀλλὰ μισθὸν πλήρη <x-color><param>blue</param>ἀπολάβητε</x-color>.
+
+
+9 πᾶς ὁ <x-color><param>dodger blue</param>προάγων</x-color> καὶ μὴ <x-color><param>forest green</param>μένων ἐν τῇ διδαχῇ</x-color> τοῦ Χριστοῦ Θεὸν οὐκ <x-color><param>forest green</param>ἔχει</x-color>
+
+ὁ <x-color><param>forest green</param>μένων ἐν τῇ διδαχῇ</x-color>, οὗτος καὶ τὸν Πατέρα καὶ τὸν Υἱὸν <x-color><param>forest green</param>ἔχει</x-color>.
+
+
+10 εἴ τις <x-color><param>dodger blue</param>ἔρχεται</x-color> πρὸς ὑμᾶς καὶ ταύτην τὴν <x-color><param>forest green</param>διδαχὴν</x-color> οὐ φέρει,
+
+μὴ λαμβάνετε αὐτὸν εἰς οἰκίαν,
+
+καὶ <x-color><param>magenta</param>χαίρειν</x-color> αὐτῷ μὴ <x-color><param>magenta</param>λέγετε</x-color>
+11 ὁ <x-color><param>magenta</param>λέγων</x-color> γὰρ αὐτῷ <x-color><param>magenta</param>χαίρειν</x-color>
+
+κοινωνεῖ τοῖς ἔργοις αὐτοῦ τοῖς πονηροῖς.
+
+
+12 Πολλὰ ἔχων ὑμῖν γράφειν οὐκ ἐβουλήθην διὰ χάρτου καὶ μέλανος,
+
+ἀλλὰ ἐλπίζω γενέσθαι πρὸς ὑμᾶς
+
+καὶ στόμα πρὸς στόμα λαλῆσαι,
+
+ἵνα ἡ χαρὰ ἡμῶν πεπληρωμένη ᾖ.
+
+
+13 Ἀσπάζεταί σε τὰ <x-color><param>magenta</param>τέκνα</x-color> τῆς ἀδελφῆς σου τῆς <x-color><param>red</param>ἐκλεκτῆς</x-color>.
+
++---
+
