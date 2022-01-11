@@ -35,7 +35,7 @@ Michał Wilk
 
     Ἰδοὺ ἀποστέλλω τὸν <x-color><param>magenta</param>ἄγγελόν</x-color> μου πρὸ προσώπου σου,
 
-    ὃς <x-color><param>forest green</param>κατασκευάσει</x-color> <x-display><param>(disable-eval (disable-eval (disable-eval (disable-eval (height 0.5)))))</param>przygotuje</x-display> <x-color><param>forest green</param>τὴν ὁδόν</x-color> <x-color><param>green</param>σου</x-color>
+    ὃς <x-color><param>forest green</param>κατασκευάσει</x-color> <x-display><param>(disable-eval (disable-eval (disable-eval (disable-eval (disable-eval (height 0.5))))))</param>przygotuje</x-display> <x-color><param>forest green</param>τὴν ὁδόν</x-color> <x-color><param>green</param>σου</x-color>
         +---
 
         3 <x-color><param>blue</param>φωνὴ</x-color> βοῶντος ἐν τῇ ἐρήμῳ
@@ -415,20 +415,19 @@ Michał Wilk
 
 9 καὶ εἶπεν τοῖς μαθηταῖς αὐτοῦ
 
-ἵνα πλοιάριον προσκαρτερῇ αὐτῷ διὰ τὸν ὄχλον,
+ἵνα πλοιάριον προσκαρτερῇ αὐτῷ διὰ τὸν <x-color><param>green</param>ὄχλον</x-color>,
 
-ἵνα <x-color><param>cyan</param>μὴ θλίβωσιν αὐτόν</x-color>
----
+ἵνα μὴ θλίβωσιν αὐτόν
+...
 
 10 πολλοὺς γὰρ ἐθεράπευσεν,
 
-ὥστε ἐπιπίπτειν αὐτῷ ἵνα αὐτοῦ ἅψωνται ὅσοι εἶχον μάστιγας.
+ὥστε <x-color><param>dark orange</param>ἐπιπίπτειν</x-color> αὐτῷ ἵνα αὐτοῦ ἅψωνται ὅσοι εἶχον μάστιγας.
 
 
 11 καὶ τὰ πνεύματα τὰ ἀκάθαρτα, ὅταν αὐτὸν ἐθεώρουν,
 
-προσέπιπτον αὐτῷ καὶ ἔκραζον λέγοντα ὅτι Σὺ εἶ ὁ Υἱὸς τοῦ Θεοῦ.
-
+<x-color><param>dark orange</param>προσέπιπτον</x-color> αὐτῷ καὶ ἔκραζον λέγοντα ὅτι Σὺ εἶ ὁ Υἱὸς τοῦ Θεοῦ.
 
 12 καὶ πολλὰ ἐπετίμα αὐτοῖς ἵνα μὴ αὐτὸν φανερὸν ποιήσωσιν.
     +---
