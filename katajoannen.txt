@@ -1,7 +1,7 @@
 Content-Type: text/enriched
 Text-Width: 70
 
-<bold>Meta</bold>
+* Meta
 
 
 Nestle 1904 Greek New Testament
@@ -17,7 +17,6 @@ License: Public domain
 
 
 * J1,1-1,14 Prolog
-
 
 +---
 
@@ -99,52 +98,61 @@ License: Public domain
 
 +---
 
-
-* J1,15-J5 struktura
-
+* J1,15-J5,47 A1 B1 C1 D1 E1 A2 B2 C2 D2 E2 A3
 
 +---
 
-A1 J1,15-1,36
+    +---
 
-<x-color><param>cyan</param>Ἰωάνης</x-color>
+    A1 J1,15-1,36
 
-<x-color><param>red</param>μαρτυρεῖ μαρτυρία ἐμαρτύρησεν μεμαρτύρηκα</x-color>
+    <x-color><param>cyan</param>Ἰωάνης</x-color>
 
-20 <x-color><param>blue</param>Ἐγὼ οὐκ εἰμὶ ὁ Χριστός</x-color>
+    <x-color><param>red</param>μαρτυρεῖ μαρτυρία ἐμαρτύρησεν μεμαρτύρηκα</x-color>
 
-28 <x-color><param>magenta</param>πέραν τοῦ Ἰορδάνου</x-color>,
+    20 <x-color><param>blue</param>Ἐγὼ οὐκ εἰμὶ ὁ Χριστός</x-color>
 
-32 <x-color><param>dodger blue</param>ἐξ οὐρανοῦ</x-color>
+    28 <x-color><param>magenta</param>πέραν τοῦ Ἰορδάνου</x-color>,
 
----
+    32 <x-color><param>dodger blue</param>ἐξ οὐρανοῦ</x-color>
+
+    +---
+
+    +---
+
+    A2 J3,22-4,3a
+
+    <x-color><param>cyan</param>Ἰωάνης</x-color>
+
+    5 x <x-color><param>red</param>μεμαρτύρηκας μαρτυρεῖτε μαρτυρεῖ μαρτυρίαν μαρτυρίαν</x-color>
+
+    26 <x-color><param>magenta</param>πέραν τοῦ Ἰορδάνου</x-color>
+    27 <x-color><param>dodger blue</param>ἐκ τοῦ οὐρανοῦ</x-color>
+    28 <x-color><param>blue</param>Οὐκ εἰμὶ ἐγὼ ὁ Χριστός</x-color>
+
+    +---
+
+    +---
+
+    J4,3b-4,43
+
+    6 ὥρα ἦν ὡς ἕκτη
+
+    +---
+
+    +---
+
+    A3 J5,31-47
+
+    <x-color><param>cyan</param>Ἰωάνην</x-color> <x-color><param>cyan</param>Ἰωάνου</x-color>
+
+    <x-color><param>red</param>μαρτυρῶ μαρτυρία μαρτυρῶν μαρτυρία μαρτυρεῖ μαρτυρίαν μαρτυρεῖ</x-color>    
+
+    +---
 
 +---
 
-
-+---
-
-B1 J3,22-4,3a
-
-<x-color><param>cyan</param>Ἰωάνης</x-color>
-
-5 x <x-color><param>red</param>μεμαρτύρηκας μαρτυρεῖτε μαρτυρεῖ μαρτυρίαν μαρτυρίαν</x-color>
-
-26 <x-color><param>magenta</param>πέραν τοῦ Ἰορδάνου</x-color>
-27 <x-color><param>dodger blue</param>ἐκ τοῦ οὐρανοῦ</x-color>
-28 <x-color><param>blue</param>Οὐκ εἰμὶ ἐγὼ ὁ Χριστός</x-color>
-
----
-
-J4,3b-4,43
-
-6 ὥρα ἦν ὡς ἕκτη
-
-+---
-
-
-* J1,15-1,36 A1 Świadectwo Jana
-
+** J1,15-1,36 A1 Świadectwo Jana
 
 15 Ἰωάνης <x-color><param>red</param><bold>μαρτυρεῖ</bold></x-color> περὶ αὐτοῦ καὶ κέκραγεν λέγων
 
@@ -164,12 +172,12 @@ J4,3b-4,43
     καὶ <x-color><param>dodger blue</param>χάριν</x-color> ἀντὶ <x-color><param>dodger blue</param>χάριτος</x-color>
 
 
-    17 <x-color><param>cyan</param>ὅτι</x-color> ὁ νόμος διὰ Μωϋσέως ἐδόθη,
+    17 <x-color><param>cyan</param>ὅτι</x-color> ὁ νόμος διὰ <bold>Μωϋσέως</bold> ἐδόθη,
 
     ἡ <x-color><param>dodger blue</param>χάρις</x-color> καὶ ἡ ἀλήθεια διὰ Ἰησοῦ Χριστοῦ ἐγένετο.
 
 
-    18 Θεὸν οὐδεὶς ἑώρακεν πώποτε
+    18 Θεὸν οὐδεὶς <bold>ἑώρακεν πώποτε</bold>
 
     μονογενὴς Θεὸς ὁ ὢν εἰς τὸν κόλπον τοῦ Πατρὸς, ἐκεῖνος ἐξηγήσατο.
 
@@ -252,9 +260,7 @@ J4,3b-4,43
 
 +---
 
-
-* J1,37-51
-
+** J1,37-51 B1 Filip Natanael
 
 +---
 
@@ -269,7 +275,7 @@ J4,3b-4,43
 ἦλθαν οὖν καὶ εἶδαν ποῦ μένει, καὶ παρ’ αὐτῷ ἔμειναν τὴν ἡμέραν ἐκείνην
 
 ὥρα ἦν ὡς δεκάτη.
-40 Ἦν <x-color><param>cyan</param>Ἀνδρέας</x-color> ὁ ἀδελφὸς Σίμωνος <x-color><param>cyan</param>Πέτρου</x-color> εἷς ἐκ τῶν δύο τῶν ἀκουσάντων παρὰ Ἰωάνου καὶ <x-color><param>blue</param>ἀκολουθησάντων</x-color> αὐτῷ
+40 Ἦν <x-color><param>cyan</param>Ἀνδρέας</x-color> ὁ ἀδελφὸς Σίμωνος <x-color><param>cyan</param>Πέτρου</x-color> εἷς ἐκ τῶν δύο τῶν ἀκουσάντων παρὰ Ἰωάνου καὶ ἀκολουθησάντων αὐτῷ
 
 
 41 <x-color><param>red</param>εὑρίσκει</x-color>       οὗτος πρῶτον τὸν ἀδελφὸν τὸν ἴδιον Σίμωνα
@@ -329,9 +335,7 @@ J4,3b-4,43
 ὄψεσθε τὸν οὐρανὸν ἀνεῳγότα καὶ τοὺς ἀγγέλους τοῦ Θεοῦ ἀναβαίνοντας καὶ καταβαίνοντας ἐπὶ τὸν Υἱὸν τοῦ ἀνθρώπου.
 +---
 
-
-* J2,1-2,12 A3 Pierwszy znak w Kanie
-
+** J2,1-2,12 C1 Pierwszy znak w Kanie
 
 +---
 
@@ -415,7 +419,7 @@ J4,3b-4,43
 +---
 
 
-* J2,13-2,23 A4 Oczyszczenie świątyni
+** J2,13-2,23 D1 Oczyszczenie świątyni
 
 
 +---
@@ -476,7 +480,7 @@ J4,3b-4,43
 +---
 
 
-* J2,24-3,21 A5 Nikodem
+** J2,24-3,21 E1 Nikodem
 
 
 +---
@@ -548,8 +552,7 @@ J4,3b-4,43
 +---
 
 
-* J3,22-4,3a B1 Jan o Jezusie
-
+** J3,22-4,3a A2 Jan o Jezusie
 
 +---
 
@@ -563,20 +566,20 @@ J4,3b-4,43
 
     +---
 
-    23 ἦν δὲ καὶ <x-color><param>cyan</param>Ἰωάνης βαπτίζων</x-color> ἐν Αἰνὼν ἐγγὺς τοῦ Σαλείμ,
+    23 ἦν δὲ καὶ <x-color><param>cyan</param><bold>Ἰωάνης</bold> βαπτίζων</x-color> ἐν Αἰνὼν ἐγγὺς τοῦ Σαλείμ,
 
     ὅτι ὕδατα πολλὰ ἦν ἐκεῖ,    καὶ παρεγίνοντο     καὶ ἐβαπτίζοντο
 
 
-    24 οὔπω γὰρ ἦν βεβλημένος εἰς τὴν φυλακὴν Ἰωάνης.
+    24 οὔπω γὰρ ἦν βεβλημένος εἰς τὴν φυλακὴν <bold>Ἰωάνης</bold>.
 
 
-    25 Ἐγένετο οὖν ζήτησις    ἐκ τῶν μαθητῶν Ἰωάνου μετὰ Ἰουδαίου    περὶ καθαρισμοῦ.
+    25 Ἐγένετο οὖν ζήτησις    ἐκ τῶν μαθητῶν <bold>Ἰωάνου</bold> μετὰ Ἰουδαίου    περὶ καθαρισμοῦ.
 
 
-    26 καὶ ἦλθον πρὸς τὸν Ἰωάνην καὶ εἶπαν αὐτῷ
+    26 καὶ ἦλθον πρὸς τὸν <x-color><param>cyan</param><bold>Ἰωάνην</bold></x-color> καὶ εἶπαν αὐτῷ
 
-    Ῥαββεί, ὃς ἦν μετὰ σοῦ <bold><italic>πέραν τοῦ Ἰορδάνου</italic></bold>, ᾧ σὺ <x-color><param>red</param>μεμαρτύρηκας</x-color>,
+    Ῥαββεί, ὃς ἦν μετὰ σοῦ <bold><italic>πέραν τοῦ Ἰορδάνου</italic></bold>, ᾧ σὺ <x-color><param>red</param><bold>μεμαρτύρηκας</bold></x-color>,
 
     ἴδε οὗτος <x-color><param>cyan</param>βαπτίζει</x-color>
 
@@ -588,7 +591,7 @@ J4,3b-4,43
         Οὐ δύναται ἄνθρωπος λαμβάνειν οὐδὲν
 
            ἐὰν μὴ ᾖ δεδομένον αὐτῷ <bold>ἐκ τοῦ οὐρανοῦ</bold>.
-        28 αὐτοὶ ὑμεῖς μοι <x-color><param>red</param>μαρτυρεῖτε</x-color>
+        28 αὐτοὶ ὑμεῖς μοι <x-color><param>red</param><bold>μαρτυρεῖτε</bold></x-color>
 
            ὅτι εἶπον   <bold>Οὐκ εἰμὶ ἐγὼ ὁ Χριστός</bold>,
 
@@ -655,7 +658,7 @@ J4,3b-4,43
 
     +---
 
-2 καίτοιγε <x-display><param>(disable-eval (disable-eval (disable-eval (disable-eval (disable-eval (disable-eval (disable-eval (height 0.5))))))))</param>chociaż</x-display> <x-color><param>dark violet</param>Ἰησοῦς</x-color> αὐτὸς
+2 καίτοιγε <x-display><param>(disable-eval (disable-eval (disable-eval (height 0.5))))</param>chociaż</x-display> <x-color><param>dark violet</param>Ἰησοῦς</x-color> αὐτὸς
 
 οὐκ <x-color><param>dark violet</param>ἐβάπτιζεν</x-color>
 
@@ -664,8 +667,7 @@ J4,3b-4,43
 
 +---
 
-
-* J4,3b-4,43 W Samarii+
+** J4,3b-4,43 B2 W Samarii+
 
 
 +---
@@ -825,8 +827,7 @@ J4,3b-4,43
 +---
 
 
-* J4,44-5,1 B3 Drugi znak w Kanie uzdrowienie
-
+** J4,44-5,1 C2 Drugi znak w Kanie uzdrowienie
 
 44 αὐτὸς γὰρ Ἰησοῦς ἐμαρτύρησεν
 
@@ -893,8 +894,7 @@ J4,3b-4,43
 1 Μετὰ ταῦτα ἦν ἑορτὴ τῶν Ἰουδαίων, καὶ ἀνέβη Ἰησοῦς εἰς Ἱεροσόλυμα.
 
 
-* J5,2-5,15 B4 Uzdrowienie koło sadzawki
-
+** J5,2-5,15 D2 Uzdrowienie koło sadzawki
 
 2 Ἔστιν δὲ ἐν τοῖς Ἱεροσολύμοις ἐπὶ τῇ προβατικῇ κολυμβήθρα, ἡ ἐπιλεγομένη Ἑβραϊστὶ Βηθζαθά, πέντε στοὰς ἔχουσα.
 3 ἐν ταύταις κατέκειτο πλῆθος τῶν ἀσθενούντων, τυφλῶν, χωλῶν, ξηρῶν<<, ἐκδεχομένων τὴν τοῦ ὕδατος κίνησιν.
@@ -932,8 +932,7 @@ J4,3b-4,43
 15 ἀπῆλθεν ὁ ἄνθρωπος καὶ εἶπεν τοῖς Ἰουδαίοις ὅτι Ἰησοῦς ἐστιν ὁ ποιήσας αὐτὸν ὑγιῆ.
 
 
-* J5,16-5,47 B5 Mowa Jezusa
-
+** J5,16-5,30 E2 Mowa Jezusa
 
 +---
 
@@ -950,7 +949,6 @@ J4,3b-4,43
 ἴσον ἑαυτὸν ποιῶν <x-color><param>red</param>τῷ Θεῷ</x-color>.
 
 +---
-
 
 +---
 
@@ -988,7 +986,6 @@ J4,3b-4,43
 
 +---
 
-
 +---
 
 24 <x-color><param>blue</param>ἀμὴν ἀμὴν λέγω ὑμῖν</x-color>
@@ -1002,7 +999,6 @@ J4,3b-4,43
 ἀλλὰ μεταβέβηκεν ἐκ τοῦ θανάτου εἰς τὴν <x-color><param>blue</param>ζωήν</x-color>.
 
 +---
-
 
 +---
 
@@ -1047,39 +1043,42 @@ J4,3b-4,43
 
 καὶ ἡ <x-color><param>red</param>κρίσις</x-color> ἡ ἐμὴ δικαία ἐστίν,
 
-+---
-
-
-+---
 
 ὅτι οὐ ζητῶ <x-color><param>saddle brown</param>τὸ θέλημα</x-color> τὸ ἐμὸν
 
 ἀλλὰ <x-color><param>saddle brown</param>τὸ θέλημα</x-color> τοῦ πέμψαντός με.
 
++---
 
-31 Ἐὰν ἐγὼ <x-color><param>forest green</param>μαρτυρῶ</x-color> περὶ ἐμαυτοῦ,
+** J5,31-47 A3 Dalsza mowa
 
-ἡ <x-color><param>forest green</param>μαρτυρία</x-color> μου οὐκ <x-color><param>blue</param>ἔστιν ἀληθής</x-color>
-32 ἄλλος ἐστὶν ὁ <x-color><param>forest green</param>μαρτυρῶν</x-color> περὶ ἐμοῦ,
++---
 
-καὶ οἶδα ὅτι <x-color><param>blue</param>ἀληθής ἐστιν</x-color> ἡ <x-color><param>forest green</param>μαρτυρία</x-color> ἣν <x-color><param>forest green</param>μαρτυρεῖ</x-color> περὶ ἐμοῦ.
+31 Ἐὰν ἐγὼ <x-color><param>red</param><bold>μαρτυρῶ</bold></x-color> περὶ ἐμαυτοῦ,
+
+ἡ <x-color><param>red</param><bold>μαρτυρία</bold></x-color> μου οὐκ <x-color><param>blue</param>ἔστιν ἀληθής</x-color>
+32 ἄλλος ἐστὶν ὁ <x-color><param>red</param><bold>μαρτυρῶν</bold></x-color> περὶ ἐμοῦ,
+
+καὶ οἶδα ὅτι <x-color><param>blue</param>ἀληθής ἐστιν</x-color> ἡ <x-color><param>red</param><bold>μαρτυρία</bold></x-color> ἣν <x-color><param>red</param><bold>μαρτυρεῖ</bold></x-color> περὶ ἐμοῦ.
 
 
-33 ὑμεῖς ἀπεστάλκατε πρὸς Ἰωάνην, καὶ μεμαρτύρηκεν τῇ ἀληθείᾳ
-34 ἐγὼ δὲ οὐ παρὰ ἀνθρώπου τὴν μαρτυρίαν λαμβάνω, ἀλλὰ ταῦτα λέγω ἵνα ὑμεῖς σωθῆτε.
-35 ἐκεῖνος ἦν ὁ λύχνος ὁ καιόμενος καὶ φαίνων, ὑμεῖς δὲ ἠθελήσατε ἀγαλλιαθῆναι πρὸς ὥραν ἐν τῷ φωτὶ αὐτοῦ.
-36 ἐγὼ δὲ ἔχω τὴν <x-color><param>forest green</param>μαρτυρίαν</x-color> μείζω τοῦ Ἰωάνου τὰ γὰρ <x-color><param>green</param>ἔργα</x-color> ἃ δέδωκέν μοι <x-color><param>magenta</param>ὁ Πατὴρ</x-color> ἵνα τελειώσω αὐτά,
+33 ὑμεῖς ἀπεστάλκατε πρὸς <x-color><param>cyan</param><bold>Ἰωάνην</bold></x-color>, καὶ μεμαρτύρηκεν τῇ ἀληθείᾳ
+34 ἐγὼ δὲ οὐ παρὰ ἀνθρώπου τὴν <bold><x-color><param>red</param>μαρτυρίαν</x-color></bold> λαμβάνω, ἀλλὰ ταῦτα λέγω ἵνα ὑμεῖς σωθῆτε.
+35 ἐκεῖνος ἦν ὁ λύχνος ὁ καιόμενος καὶ φαίνων,
 
-αὐτὰ τὰ <x-color><param>green</param>ἔργα</x-color> ἃ ποιῶ, <x-color><param>forest green</param>μαρτυρεῖ</x-color> περὶ ἐμοῦ
+ὑμεῖς δὲ ἠθελήσατε ἀγαλλιαθῆναι πρὸς ὥραν ἐν τῷ φωτὶ αὐτοῦ.
+36 ἐγὼ δὲ ἔχω τὴν <x-color><param>red</param><bold>μαρτυρίαν</bold></x-color> μείζω τοῦ <x-color><param>cyan</param><bold>Ἰωάνου</bold></x-color> τὰ γὰρ <x-color><param>green</param>ἔργα</x-color> ἃ δέδωκέν μοι <x-color><param>magenta</param>ὁ Πατὴρ</x-color> ἵνα τελειώσω αὐτά,
+
+αὐτὰ τὰ <x-color><param>green</param>ἔργα</x-color> ἃ ποιῶ, <x-color><param>red</param><bold>μαρτυρεῖ</bold></x-color> περὶ ἐμοῦ
 
 ὅτι <x-color><param>magenta</param>ὁ Πατήρ</x-color> με ἀπέσταλκεν.
-37 καὶ ὁ πέμψας <x-color><param>magenta</param>με Πατὴρ</x-color>, ἐκεῖνος <x-color><param>forest green</param>μεμαρτύρηκεν</x-color> περὶ ἐμοῦ.
+37 καὶ ὁ πέμψας <x-color><param>magenta</param>με Πατὴρ</x-color>, ἐκεῖνος <x-color><param>red</param><bold>μεμαρτύρηκεν</bold></x-color> περὶ ἐμοῦ.
 
 οὔτε <bold>φωνὴν αὐτοῦ πώποτε ἀκηκόατε οὔτε εἶδος αὐτοῦ ἑωράκατε</bold>,
 38 καὶ τὸν λόγον αὐτοῦ οὐκ ἔχετε ἐν ὑμῖν μένοντα,
 
 ὅτι ὃν ἀπέστειλεν ἐκεῖνος, τούτῳ ὑμεῖς οὐ πιστεύετε.
-39 ἐραυνᾶτε τὰς γραφάς, ὅτι ὑμεῖς δοκεῖτε ἐν αὐταῖς ζωὴν αἰώνιον ἔχειν καὶ ἐκεῖναί εἰσιν αἱ <x-color><param>forest green</param>μαρτυροῦσαι</x-color> περὶ ἐμοῦ
+39 ἐραυνᾶτε τὰς γραφάς, ὅτι ὑμεῖς δοκεῖτε ἐν αὐταῖς ζωὴν αἰώνιον ἔχειν καὶ ἐκεῖναί εἰσιν αἱ <x-color><param>red</param><bold>μαρτυροῦσαι</bold></x-color> περὶ ἐμοῦ
 40 καὶ οὐ θέλετε ἐλθεῖν πρός με ἵνα ζωὴν ἔχητε.
 41 Δόξαν παρὰ ἀνθρώπων οὐ λαμβάνω,
 42 ἀλλὰ ἔγνωκα ὑμᾶς ὅτι τὴν ἀγάπην τοῦ Θεοῦ οὐκ ἔχετε ἐν ἑαυτοῖς.
@@ -1089,7 +1088,7 @@ J4,3b-4,43
 44 πῶς δύνασθε ὑμεῖς πιστεῦσαι, δόξαν παρὰ ἀλλήλων λαμβάνοντες,
 
 καὶ τὴν δόξαν τὴν παρὰ τοῦ μόνου Θεοῦ οὐ ζητεῖτε;
-45 μὴ δοκεῖτε ὅτι ἐγὼ κατηγορήσω ὑμῶν πρὸς <x-color><param>magenta</param>τὸν Πατέρα</x-color> ἔστιν ὁ κατηγορῶν ὑμῶν <x-color><param>magenta</param>Μωϋσῆς</x-color>, εἰς ὃν ὑμεῖς ἠλπίκατε.
+45 μὴ δοκεῖτε ὅτι ἐγὼ κατηγορήσω ὑμῶν πρὸς <x-color><param>magenta</param>τὸν Πατέρα</x-color> ἔστιν ὁ κατηγορῶν ὑμῶν <bold>Μωϋσῆς</bold>, εἰς ὃν ὑμεῖς ἠλπίκατε.
 46 εἰ γὰρ ἐπιστεύετε <x-color><param>magenta</param>Μωϋσεῖ</x-color>, ἐπιστεύετε ἂν ἐμοί περὶ γὰρ ἐμοῦ ἐκεῖνος ἔγραψεν.
 47 εἰ δὲ τοῖς ἐκείνου γράμμασιν οὐ πιστεύετε, πῶς τοῖς ἐμοῖς ῥήμασιν πιστεύσετε;
 
