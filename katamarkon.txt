@@ -34,7 +34,7 @@ Michał Wilk
 
     Ἰδοὺ ἀποστέλλω τὸν <x-color><param>magenta</param>ἄγγελόν</x-color> μου πρὸ προσώπου σου,
 
-    ὃς <x-color><param>forest green</param>κατασκευάσει</x-color> <x-display><param>(disable-eval (disable-eval (disable-eval (disable-eval (disable-eval (disable-eval (disable-eval (height 0.5))))))))</param>przygotuje</x-display> <x-color><param>forest green</param>τὴν ὁδόν</x-color> <x-color><param>green</param>σου</x-color>
+    ὃς <x-color><param>forest green</param>κατασκευάσει</x-color> <x-display><param>(height 0.5)</param>przygotuje</x-display> <x-color><param>forest green</param>τὴν ὁδόν</x-color> <x-color><param>green</param>σου</x-color>
         +---
 
         3 <x-color><param>blue</param>φωνὴ</x-color> βοῶντος ἐν τῇ ἐρήμῳ
@@ -104,35 +104,136 @@ Michał Wilk
 μετανοεῖτε καὶ πιστεύετε ἐν τῷ <x-color><param>red</param>εὐαγγελίῳ</x-color>.
 +---
 
-* Mk1,16-3,14
+* Mk1,16-20…Mk2,14…Mk3,7-3,14
 
-** Mk1,16-20
-
-+---
++---Mk1,16-20
 
 16 <x-color><param>magenta</param>Καὶ παράγων παρὰ τὴν θάλασσαν τῆς Γαλιλαίας</x-color>
 
-<x-color><param>dodger blue</param>εἶδεν</x-color> Σίμωνα καὶ Ἀνδρέαν τὸν ἀδελφὸν Σίμωνος
+<x-color><param>dodger blue</param>εἶδεν</x-color> <x-color><param>red</param><bold>Σίμωνα</bold></x-color> καὶ <x-color><param>red</param><bold>Ἀνδρέαν τὸν ἀδελφὸν Σίμωνος</bold></x-color>
 
 ἀμφιβάλλοντας ἐν τῇ θαλάσσῃ  ἦσαν γὰρ <x-color><param>green</param>ἁλεεῖς</x-color>.
 17 καὶ εἶπεν αὐτοῖς ὁ Ἰησοῦς
 
-    Δεῦτε ὀπίσω μου, καὶ ποιήσω ὑμᾶς γενέσθαι <x-color><param>green</param>ἁλεεῖς</x-color> ἀνθρώπων.
-18 καὶ <x-color><param>saddle brown</param>εὐθὺς</x-color> <x-color><param>red</param>ἀφέντες τὰ δίκτυα</x-color> <x-color><param>cyan</param>ἠκολούθησαν αὐτῷ</x-color>.
+    <x-color><param>cyan</param><bold>Δεῦτε ὀπίσω μου</bold></x-color>, καὶ ποιήσω ὑμᾶς γενέσθαι <x-color><param>green</param>ἁλεεῖς</x-color> ἀνθρώπων.
+18 καὶ <x-color><param>saddle brown</param>εὐθὺς</x-color> <x-color><param>forest green</param>ἀφέντες τὰ δίκτυα</x-color> <x-color><param>cyan</param><bold>ἠκολούθησαν αὐτῷ</bold></x-color>.
 ---
 
 19 <x-color><param>magenta</param>Καὶ προβὰς ὀλίγον</x-color>
 
-<x-color><param>dodger blue</param>εἶδεν</x-color> Ἰάκωβον τὸν τοῦ Ζεβεδαίου καὶ Ἰωάνην τὸν ἀδελφὸν αὐτοῦ,
+<x-color><param>dodger blue</param>εἶδεν</x-color> <x-color><param>red</param><bold>Ἰάκωβον τὸν τοῦ Ζεβεδαίου</bold></x-color> καὶ <x-color><param>red</param><bold>Ἰωάνην τὸν ἀδελφὸν αὐτοῦ</bold></x-color>,
 
 καὶ αὐτοὺς ἐν τῷ πλοίῳ καταρτίζοντας τὰ δίκτυα,
-20 καὶ <x-color><param>saddle brown</param>εὐθὺς</x-color> ἐκάλεσεν αὐτούς
+20 καὶ <x-color><param>saddle brown</param>εὐθὺς</x-color> <x-color><param>cyan</param><bold>ἐκάλεσεν αὐτούς</bold></x-color>
 
-καὶ <x-color><param>red</param>ἀφέντες τὸν πατέρα αὐτῶν Ζεβεδαῖον ἐν τῷ πλοίῳ μετὰ τῶν μισθωτῶν</x-color> <x-color><param>cyan</param>ἀπῆλθον ὀπίσω αὐτοῦ</x-color>.
+καὶ <x-color><param>forest green</param>ἀφέντες τὸν πατέρα αὐτῶν Ζεβεδαῖον ἐν τῷ πλοίῳ μετὰ τῶν μισθωτῶν</x-color> <x-color><param>cyan</param><bold>ἀπῆλθον ὀπίσω αὐτοῦ</bold></x-color>.
 
 +---
 
-** Mk1,21-2,13
+    +---
+
+    Mk1,21-2,13…
+
+    +---
+
++---Mk2,14
+
+14 καὶ παράγων εἶδεν <x-color><param>red</param><bold>Λευεὶν τὸν τοῦ Ἀλφαίου</bold></x-color> <x-color><param>magenta</param>καθήμενον</x-color> ἐπὶ <x-color><param>green</param>τὸ τελώνιον</x-color>,
+
+καὶ λέγει αὐτῷ <x-color><param>cyan</param><bold>Ἀκολούθει</bold></x-color> μοι.
+
+καὶ ἀναστὰς <x-color><param>cyan</param><bold>ἠκολούθησεν</bold></x-color> αὐτῷ.
+
++---
+
+    +---
+
+    Mk2,15-3,6…
+
+    +---
+
++---Mk3,7-3,14
+
+7 Καὶ ὁ Ἰησοῦς μετὰ τῶν μαθητῶν αὐτοῦ
+
+<x-color><param>magenta</param>ἀνεχώρησεν πρὸς τὴν θάλασσαν</x-color>
+
+καὶ <x-color><param>green</param>πολὺ πλῆθος</x-color> ἀπὸ τῆς Γαλιλαίας ἠκολούθησεν
+
+            καὶ ἀπὸ τῆς Ἰουδαίας
+            8 καὶ ἀπὸ Ἱεροσολύμων
+
+            καὶ ἀπὸ τῆς Ἰδουμαίας
+
+            καὶ πέραν τοῦ Ἰορδάνου
+
+            καὶ περὶ Τύρον
+
+            καὶ Σιδῶνα,
+
+    <x-color><param>green</param>πλῆθος πολύ</x-color>,
+
+    ἀκούοντες ὅσα ποιεῖ, <x-color><param>dodger blue</param>ἦλθον πρὸς αὐτόν</x-color>.
+
+
+9 καὶ εἶπεν τοῖς μαθηταῖς αὐτοῦ
+
+ἵνα πλοιάριον προσκαρτερῇ αὐτῷ διὰ τὸν <x-color><param>green</param>ὄχλον</x-color>,
+
+ἵνα <x-color><param>dodger blue</param>μὴ θλίβωσιν αὐτόν</x-color>
+...
+
+10 πολλοὺς γὰρ ἐθεράπευσεν,
+
+ὥστε <x-color><param>dark orange</param>ἐπιπίπτειν</x-color> αὐτῷ ἵνα αὐτοῦ ἅψωνται ὅσοι εἶχον μάστιγας.
+
+
+11 καὶ τὰ πνεύματα τὰ ἀκάθαρτα, ὅταν αὐτὸν ἐθεώρουν,
+
+<x-color><param>dark orange</param>προσέπιπτον</x-color> αὐτῷ καὶ ἔκραζον λέγοντα ὅτι Σὺ εἶ ὁ Υἱὸς τοῦ Θεοῦ.
+
+12 καὶ πολλὰ ἐπετίμα αὐτοῖς ἵνα μὴ αὐτὸν φανερὸν ποιήσωσιν.
+    +---
+
+    13 Καὶ <x-color><param>magenta</param>ἀναβαίνει εἰς τὸ ὄρος</x-color>,
+
+    καὶ <x-color><param>green</param>προσκαλεῖται οὓς ἤθελεν αὐτός</x-color>,
+
+    καὶ <x-color><param>dodger blue</param>ἀπῆλθον πρὸς αὐτόν</x-color>.
+    ...
+
+    14 <x-color><param>blue</param>καὶ ἐποίησεν δώδεκα</x-color> ἵνα <x-color><param>cyan</param><bold>ὦσιν μετ’ αὐτοῦ</bold></x-color>,
+
+        καὶ ἵνα ἀποστέλλῃ αὐτοὺς κηρύσσειν
+        15 καὶ ἔχειν ἐξουσίαν ἐκβάλλειν τὰ δαιμόνια
+    16 <x-color><param>blue</param>καὶ ἐποίησεν τοὺς δώδεκα</x-color>,
+
+    ...
+
+    <x-color><param>dark orange</param>καὶ ἐπέθηκεν ὄνομα</x-color> τῷ <x-color><param>red</param><bold>Σίμωνι Πέτρον</bold></x-color>
+        17 καὶ <x-color><param>red</param><bold>Ἰάκωβον τὸν τοῦ Ζεβεδαίου</bold></x-color> καὶ <x-color><param>red</param><bold>Ἰωάνην τὸν ἀδελφὸν τοῦ Ἰακώβου</bold></x-color>,
+
+    <x-color><param>dark orange</param>καὶ ἐπέθηκεν</x-color> αὐτοῖς <x-color><param>dark orange</param>ὄνομα</x-color> Βοανηργές, ὅ ἐστιν Υἱοὶ Βροντῆς
+        18 καὶ <x-color><param>red</param><bold>Ἀνδρέαν</bold></x-color>
+
+        καὶ <x-color><param>red</param><bold>Φίλιππον</bold></x-color> καὶ <x-color><param>red</param><bold>Βαρθολομαῖον</bold></x-color>
+
+        καὶ <bold><x-color><param>red</param>Μαθθαῖον</x-color></bold> καὶ <x-color><param>red</param><bold>Θωμᾶν</bold></x-color>
+
+        καὶ <x-color><param>red</param><bold>Ἰάκωβον τὸν τοῦ Ἁλφαίου</bold></x-color> καὶ <x-color><param>red</param><bold>Θαδδαῖον</bold></x-color>
+
+        καὶ <x-color><param>red</param><bold>Σίμωνα τὸν Καναναῖον</bold></x-color> 19 καὶ <x-color><param>red</param><bold>Ἰούδαν Ἰσκαριώθ</bold></x-color>, ὃς καὶ παρέδωκεν αὐτόν.
+
+    +---
+
+20 Καὶ <x-color><param>magenta</param>ἔρχεται εἰς οἶκον</x-color>
+
+καὶ <x-color><param>green</param>συνέρχεται πάλιν ὁ ὄχλος</x-color>,
+
+ὥστε <x-color><param>dodger blue</param>μὴ δύνασθαι αὐτοὺς μηδὲ ἄρτον φαγεῖν</x-color>.
++---
+
+* Mk1,21-2,13
 
 +---
 
@@ -264,22 +365,7 @@ Michał Wilk
 
 +---
 
-** Mk2,14
-
-
-+---
-
-14 καὶ παράγων εἶδεν Λευεὶν τὸν τοῦ Ἀλφαίου <x-color><param>magenta</param>καθήμενον</x-color> ἐπὶ <x-color><param>green</param>τὸ τελώνιον</x-color>,
-
-καὶ λέγει αὐτῷ <x-color><param>cyan</param>Ἀκολούθει</x-color> μοι.
-
-καὶ ἀναστὰς <x-color><param>cyan</param>ἠκολούθησεν</x-color> αὐτῷ.
-
-+---
-
-
-** Mk2,15-3,6
-
+* Mk2,15-3,6
 
 15 Καὶ γίνεται <x-color><param>magenta</param>κατακεῖσθαι</x-color> αὐτὸν ἐν τῇ οἰκίᾳ αὐτοῦ,
 
@@ -402,88 +488,6 @@ Michał Wilk
     συμβούλιον ἐδίδουν κατ’ αὐτοῦ,
 
     ὅπως αὐτὸν ἀπολέσωσιν.
-
-
-** Mk3,7-3,14
-
-+---
-
-7 Καὶ ὁ Ἰησοῦς μετὰ τῶν μαθητῶν αὐτοῦ
-
-<x-color><param>magenta</param>ἀνεχώρησεν πρὸς τὴν θάλασσαν</x-color>
-
-καὶ <x-color><param>green</param>πολὺ πλῆθος</x-color> ἀπὸ τῆς Γαλιλαίας ἠκολούθησεν
-
-            καὶ ἀπὸ τῆς Ἰουδαίας
-            8 καὶ ἀπὸ Ἱεροσολύμων
-
-            καὶ ἀπὸ τῆς Ἰδουμαίας
-
-            καὶ πέραν τοῦ Ἰορδάνου
-
-            καὶ περὶ Τύρον
-
-            καὶ Σιδῶνα,
-
-    <x-color><param>green</param>πλῆθος πολύ</x-color>,
-
-    ἀκούοντες ὅσα ποιεῖ, ἦλθον πρὸς αὐτόν.
-
-
-9 καὶ εἶπεν τοῖς μαθηταῖς αὐτοῦ
-
-ἵνα πλοιάριον προσκαρτερῇ αὐτῷ διὰ τὸν <x-color><param>green</param>ὄχλον</x-color>,
-
-ἵνα μὴ θλίβωσιν αὐτόν
-...
-
-10 πολλοὺς γὰρ ἐθεράπευσεν,
-
-ὥστε <x-color><param>dark orange</param>ἐπιπίπτειν</x-color> αὐτῷ ἵνα αὐτοῦ ἅψωνται ὅσοι εἶχον μάστιγας.
-
-
-11 καὶ τὰ πνεύματα τὰ ἀκάθαρτα, ὅταν αὐτὸν ἐθεώρουν,
-
-<x-color><param>dark orange</param>προσέπιπτον</x-color> αὐτῷ καὶ ἔκραζον λέγοντα ὅτι Σὺ εἶ ὁ Υἱὸς τοῦ Θεοῦ.
-
-12 καὶ πολλὰ ἐπετίμα αὐτοῖς ἵνα μὴ αὐτὸν φανερὸν ποιήσωσιν.
-    +---
-
-    13 Καὶ <x-color><param>magenta</param>ἀναβαίνει εἰς τὸ ὄρος</x-color>,
-
-    καὶ <x-color><param>green</param>προσκαλεῖται οὓς ἤθελεν αὐτός</x-color>,
-
-    καὶ ἀπῆλθον πρὸς αὐτόν.
-    ...
-
-    14 <x-color><param>dodger blue</param>καὶ ἐποίησεν δώδεκα</x-color> ἵνα ὦσιν μετ’ αὐτοῦ,
-
-        καὶ ἵνα ἀποστέλλῃ αὐτοὺς κηρύσσειν
-        15 καὶ ἔχειν ἐξουσίαν ἐκβάλλειν τὰ δαιμόνια
-    16 <x-color><param>dodger blue</param>καὶ ἐποίησεν τοὺς δώδεκα</x-color>,
-
-    ...
-
-    <x-color><param>dark orange</param>καὶ ἐπέθηκεν ὄνομα</x-color> τῷ Σίμωνι Πέτρον
-        17 καὶ Ἰάκωβον τὸν τοῦ Ζεβεδαίου καὶ Ἰωάνην τὸν ἀδελφὸν τοῦ Ἰακώβου,
-
-    <x-color><param>dark orange</param>καὶ ἐπέθηκεν</x-color> αὐτοῖς <x-color><param>dark orange</param>ὄνομα</x-color> Βοανηργές, ὅ ἐστιν Υἱοὶ Βροντῆς
-        18 καὶ Ἀνδρέαν καὶ Φίλιππον καὶ Βαρθολομαῖον
-
-        καὶ Μαθθαῖον καὶ Θωμᾶν
-
-        καὶ Ἰάκωβον τὸν τοῦ Ἁλφαίου καὶ Θαδδαῖον
-
-        καὶ Σίμωνα τὸν Καναναῖον 19 καὶ Ἰούδαν Ἰσκαριώθ, ὃς καὶ παρέδωκεν αὐτόν.
-
-    +---
-
-20 Καὶ <x-color><param>magenta</param>ἔρχεται εἰς οἶκον</x-color>
-
-καὶ <x-color><param>green</param>συνέρχεται πάλιν ὁ ὄχλος</x-color>,
-
-ὥστε <x-color><param>cyan</param>μὴ δύνασθαι αὐτοὺς μηδὲ ἄρτον φαγεῖν</x-color>.
-+---
 
 * Mk3,21-3,35
 
