@@ -226,7 +226,7 @@ License: Public domain
 
 εἰς <x-color><param>dark violet</param>τὴν Ἰουδαίαν</x-color> γῆν,
 
-καὶ ἐκεῖ διέτριβεν <x-display><param>(disable-eval (disable-eval (disable-eval (disable-eval (height 0.5)))))</param>przebywał</x-display> μετ’ αὐτῶν καὶ <x-color><param>dark violet</param>ἐβάπτιζεν</x-color>.
+καὶ ἐκεῖ διέτριβεν <x-display><param>(height 0.5)</param>przebywał</x-display> μετ’ αὐτῶν καὶ <x-color><param>dark violet</param>ἐβάπτιζεν</x-color>.
 
     +---
 
@@ -322,7 +322,7 @@ License: Public domain
 
     +---
 
-2 καίτοιγε <x-display><param>(disable-eval (disable-eval (disable-eval (disable-eval (height 0.5)))))</param>chociaż</x-display> <x-color><param>dark violet</param>Ἰησοῦς</x-color> αὐτὸς
+2 καίτοιγε <x-display><param>(height 0.5)</param>chociaż</x-display> <x-color><param>dark violet</param>Ἰησοῦς</x-color> αὐτὸς
 
 οὐκ <x-color><param>dark violet</param>ἐβάπτιζεν</x-color>
 
@@ -381,7 +381,7 @@ License: Public domain
 
 +---
 
-* J1,37-51…4,3b-4,43 ὥρα ἦν ὡς δεκάτη/ἕκτη
+* <bold>J1,37-51…4,3b-4,43 ὥρα ἦν ὡς δεκάτη/ἕκτη</bold>
 
 +---J1,37-51 B1 ὥρα ἦν ὡς δεκάτη
 
