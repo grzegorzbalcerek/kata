@@ -32,7 +32,7 @@ Michał Wilk
 
     Ἰδοὺ ἀποστέλλω τὸν <x-color><param>magenta</param>ἄγγελόν</x-color> μου πρὸ προσώπου σου,
 
-    ὃς <x-color><param>forest green</param>κατασκευάσει</x-color> <x-display><param>(disable-eval (disable-eval (disable-eval (disable-eval (disable-eval (disable-eval (height 0.5)))))))</param>przygotuje</x-display> <x-color><param>forest green</param>τὴν ὁδόν</x-color> <x-color><param>green</param>σου</x-color>
+    ὃς <x-color><param>forest green</param>κατασκευάσει</x-color> <x-display><param>(disable-eval (disable-eval (disable-eval (disable-eval (disable-eval (disable-eval (disable-eval (height 0.5))))))))</param>przygotuje</x-display> <x-color><param>forest green</param>τὴν ὁδόν</x-color> <x-color><param>green</param>σου</x-color>
         +---
 
         3 <x-color><param>blue</param>φωνὴ</x-color> βοῶντος ἐν τῇ ἐρήμῳ
@@ -94,7 +94,7 @@ Michał Wilk
 μετανοεῖτε καὶ πιστεύετε ἐν τῷ <x-color><param>red</param>εὐαγγελίῳ</x-color>.
 * <bold>Mk1,16-3,19</bold>
 
-+---<italic>Mk1,16-20 Pierwsze powołania</italic>
++---<italic>Mk1,16-20 Powołanie Szymona, Andrzeja, Jakuba i Jana</italic>
 
 16 <x-color><param>magenta</param>Καὶ παράγων παρὰ τὴν θάλασσαν τῆς Γαλιλαίας</x-color>
 
@@ -116,7 +116,7 @@ Michał Wilk
 
 καὶ <x-color><param>forest green</param>ἀφέντες τὸν πατέρα αὐτῶν Ζεβεδαῖον ἐν τῷ πλοίῳ μετὰ τῶν μισθωτῶν</x-color> <x-color><param>cyan</param><bold>ἀπῆλθον ὀπίσω αὐτοῦ</bold></x-color>.
 
-    +===Mk1,21-2,31
+    +===<italic>Mk1,21-2,28 Nauczanie i uzdrowienie opętanego w synagodze</italic>
 
     21 Καὶ <x-color><param>magenta</param><bold>εἰσπορεύονται εἰς Καφαρναούμ</bold></x-color> καὶ εὐθὺς τοῖς σάββασιν εἰσελθὼν εἰς τὴν συναγωγὴν ἐδίδασκεν.
     22 καὶ <x-color><param>blue</param>ἐξεπλήσσοντο</x-color> ἐπὶ τῇ διδαχῇ αὐτοῦ ἦν γὰρ διδάσκων αὐτοὺς ὡς ἐξουσίαν ἔχων, καὶ οὐχ ὡς οἱ γραμματεῖς.
@@ -124,10 +124,12 @@ Michał Wilk
     24 λέγων Τί ἡμῖν καὶ σοί, Ἰησοῦ Ναζαρηνέ; ἦλθες ἀπολέσαι ἡμᾶς. οἶδά σε τίς εἶ, ὁ Ἅγιος τοῦ Θεοῦ.
     25 καὶ ἐπετίμησεν αὐτῷ ὁ Ἰησοῦς Φιμώθητι καὶ ἔξελθε ἐξ αὐτοῦ.
     26 καὶ σπαράξαν αὐτὸν τὸ πνεῦμα τὸ ἀκάθαρτον καὶ φωνῆσαν φωνῇ μεγάλῃ ἐξῆλθεν ἐξ αὐτοῦ.
-    27 καὶ <x-color><param>blue</param>ἐθαμβήθησαν</x-color> ἅπαντες, ὥστε συνζητεῖν αὐτοὺς λέγοντας Τί ἐστιν τοῦτο; διδαχὴ καινή κατ’ ἐξουσίαν καὶ τοῖς πνεύμασι τοῖς ἀκαθάρτοις ἐπιτάσσει, καὶ ὑπακούουσιν αὐτῷ.
-    28 καὶ ἐξῆλθεν ἡ ἀκοὴ αὐτοῦ εὐθὺς πανταχοῦ εἰς ὅλην τὴν περίχωρον τῆς Γαλιλαίας.
+    27 καὶ <x-color><param>blue</param>ἐθαμβήθησαν</x-color> ἅπαντες, ὥστε συνζητεῖν αὐτοὺς λέγοντας Τί ἐστιν τοῦτο;
 
-    ---
+    διδαχὴ καινή κατ’ ἐξουσίαν καὶ τοῖς πνεύμασι τοῖς ἀκαθάρτοις ἐπιτάσσει, καὶ ὑπακούουσιν αὐτῷ.
+    28 καὶ ἐξῆλθεν ἡ ἀκοὴ αὐτοῦ εὐθὺς πανταχοῦ εἰς <x-color><param>red</param><bold>ὅλην τὴν περίχωρον τῆς Γαλιλαίας</bold></x-color>.
+
+    +===<italic>Mk1,29-2,31 Uzdrowienie teściowej w domu Szymona i Andrzeja</italic>
 
     29 Καὶ εὐθὺς ἐκ τῆς συναγωγῆς ἐξελθόντες
 
@@ -137,7 +139,7 @@ Michał Wilk
 
     καὶ <x-color><param>forest green</param>ἀφῆκεν</x-color> αὐτὴν ὁ πυρετός, καὶ διηκόνει αὐτοῖς.
 
-        #===Mk1,32-1,39
+        #===<italic>Mk1,32-1,34 Uzdrowienia w domu</italic>
 
         32 <x-color><param>magenta</param>Ὀψίας δὲ γενομένης, ὅτε ἔδυσεν ὁ ἥλιος</x-color>,
 
@@ -147,7 +149,7 @@ Michał Wilk
 
         <x-color><param>green</param>καὶ δαιμόνια πολλὰ ἐξέβαλεν</x-color>, καὶ <x-color><param>dark violet</param>οὐκ ἤφιεν λαλεῖν τὰ δαιμόνια, ὅτι ᾔδεισαν αὐτόν</x-color>.
 
-        ---
+        #===<italic>Mk1,35-1,39 Na miejscu pustynnym</italic>
 
         35 Καὶ <x-color><param>magenta</param>πρωῒ ἔννυχα λίαν</x-color>
 
@@ -159,9 +161,9 @@ Michał Wilk
         ἵνα καὶ ἐκεῖ <x-color><param>dark orange</param>κηρύξω</x-color> εἰς τοῦτο γὰρ ἐξῆλθον.
         39 καὶ ἦλθεν <x-color><param>dark orange</param>κηρύσσων</x-color> εἰς τὰς συναγωγὰς αὐτῶν
 
-        <x-color><param>blue</param>εἰς ὅλην τὴν Γαλιλαίαν</x-color> <x-color><param>green</param>καὶ τὰ δαιμόνια ἐκβάλλων</x-color>.
+        εἰς <x-color><param>red</param><bold>ὅλην τὴν Γαλιλαίαν</bold></x-color> <x-color><param>green</param>καὶ τὰ δαιμόνια ἐκβάλλων</x-color>.
 
-    +===Mk1,40-2,13
+    +===<italic>Mk1,40-1,45 Uzdrowienie trędowatego</italic>
 
     40 Καὶ ἔρχεται πρὸς αὐτὸν λεπρὸς παρακαλῶν αὐτὸν καὶ γονυπετῶν
 
@@ -180,9 +182,9 @@ Michał Wilk
 
     ὥστε μηκέτι αὐτὸν δύνασθαι φανερῶς <x-color><param>blue</param>εἰς πόλιν εἰσελθεῖν</x-color>,
 
-    ἀλλ’ <x-color><param>blue</param>ἔξω ἐπ’ ἐρήμοις τόποις ἦν</x-color> καὶ <x-color><param>blue</param><bold>ἤρχοντο πρὸς αὐτὸν πάντοθεν</bold></x-color>.
+    ἀλλ’ <x-color><param>blue</param>ἔξω ἐπ’ ἐρήμοις τόποις ἦν</x-color> καὶ <bold><x-color><param>red</param>ἤρχοντο πρὸς αὐτὸν πάντοθεν</x-color></bold>.
 
-    ---
+    +===<italic>Mk2,1-2,13 Uzdrowienie paralityka w Kafarnaum</italic>
 
     1 <x-color><param>magenta</param><bold>Καὶ εἰσελθὼν πάλιν εἰς Καφαρναοὺμ</bold></x-color> δι’ ἡμερῶν ἠκούσθη ὅτι ἐν οἴκῳ ἐστίν.
     2 καὶ συνήχθησαν πολλοὶ, ὥστε μηκέτι χωρεῖν μηδὲ τὰ πρὸς τὴν θύραν,
@@ -234,7 +236,7 @@ Michał Wilk
 
     <x-color><param>forest green</param>καὶ ἐδίδασκεν αὐτούς</x-color>.
 
-+---Mk2,14-2,17
++---<italic>Mk2,14-2,17 Powołanie Lewiego, w domu z celnikami</italic>
 
 14 καὶ παράγων εἶδεν <x-color><param>red</param><bold>Λευεὶν τὸν τοῦ Ἀλφαίου</bold></x-color> <x-color><param>magenta</param>καθήμενον</x-color> ἐπὶ <x-color><param>green</param>τὸ τελώνιον</x-color>,
 
@@ -273,7 +275,7 @@ Michał Wilk
 
 <x-color><param>cyan</param>οὐκ</x-color> ἦλθον καλέσαι δικαίους                <x-color><param>cyan</param>ἀλλὰ</x-color> ἁμαρτωλούς.
 
-    +~~~Mk2,18-2,22
+    +~~~<italic>Mk2,18-2,22 Sprawa postów</italic>
 
     18 Καὶ ἦσαν <x-color><param>magenta</param>οἱ μαθηταὶ Ἰωάνου</x-color> καὶ οἱ <x-color><param>dark violet</param>Φαρισαῖοι</x-color> <x-color><param>blue</param>νηστεύοντες</x-color>.
 
@@ -313,27 +315,34 @@ Michał Wilk
 
        καὶ ὁ οἶνος ἀπόλλυται καὶ οἱ <x-color><param>cyan</param>ἀσκοί</x-color>. ἀλλὰ οἶνον νέον εἰς <x-color><param>cyan</param>ἀσκοὺς</x-color> <x-color><param>blue</param>καινούς</x-color>.
 
-    +~~~Mk2,23-3,6
+    +~~~<italic>Mk2,23-2,28 Łuskanie kłosów w szabat, przykład Dawida</italic>
 
     23 Καὶ ἐγένετο αὐτὸν ἐν τοῖς <x-color><param>red</param>σάββασιν</x-color> παραπορεύεσθαι διὰ τῶν σπορίμων,
 
     καὶ οἱ μαθηταὶ αὐτοῦ ἤρξαντο ὁδὸν ποιεῖν τίλλοντες τοὺς στάχυας.
     24 καὶ οἱ Φαρισαῖοι <x-color><param>green</param>ἔλεγον αὐτῷ</x-color> Ἴδε τί ποιοῦσιν τοῖς <x-color><param>red</param>σάββασιν</x-color> <x-color><param>cyan</param>ὃ οὐκ ἔξεστιν</x-color>;
+
+
     25 καὶ <x-color><param>green</param>λέγει αὐτοῖς</x-color> Οὐδέποτε ἀνέγνωτε τί ἐποίησεν Δαυείδ,
 
     ὅτε χρείαν ἔσχεν καὶ ἐπείνασεν αὐτὸς καὶ <x-color><param>magenta</param>οἱ μετ’ αὐτοῦ</x-color>;
     26 πῶς εἰσῆλθεν εἰς τὸν οἶκον τοῦ Θεοῦ ἐπὶ Ἀβιαθὰρ ἀρχιερέως
 
-    καὶ τοὺς ἄρτους τῆς προθέσεως ἔφαγεν, <x-color><param>cyan</param>οὓς οὐκ ἔξεστιν</x-color> φαγεῖν εἰ μὴ τοὺς ἱερεῖς,
+    καὶ τοὺς ἄρτους τῆς προθέσεως ἔφαγεν,
+
+    <x-color><param>cyan</param>οὓς οὐκ ἔξεστιν</x-color> φαγεῖν εἰ μὴ τοὺς ἱερεῖς,
 
     καὶ ἔδωκεν <x-color><param>magenta</param>καὶ τοῖς σὺν αὐτῷ</x-color> οὖσιν;
+
+
     27 καὶ ἔλεγεν αὐτοῖς
 
-       Τὸ σάββατον διὰ τὸν ἄνθρωπον ἐγένετο,
+        Τὸ <x-color><param>red</param>σάββατον</x-color> διὰ τὸν <x-color><param>dodger blue</param>ἄνθρωπον</x-color> ἐγένετο,
 
-       καὶ οὐχ ὁ ἄνθρωπος διὰ τὸ <x-color><param>red</param>σάββατον</x-color>
-    28 ὥστε κύριός ἐστιν ὁ Υἱὸς τοῦ ἀνθρώπου καὶ τοῦ <x-color><param>red</param>σαββάτου</x-color>.
+        καὶ οὐχ ὁ <x-color><param>dodger blue</param>ἄνθρωπος</x-color> διὰ τὸ <x-color><param>red</param>σάββατον</x-color>
+    28 ὥστε κύριός ἐστιν ὁ Υἱὸς τοῦ <x-color><param>dodger blue</param>ἀνθρώπου</x-color> καὶ τοῦ <x-color><param>red</param>σαββάτου</x-color>.
 
+    +~~~<italic>Mk3,1-3,6 Uzdrowienie człowieka z usniętą ręką w szabat</italic>
 
     1 Καὶ εἰσῆλθεν πάλιν εἰς συναγωγήν, καὶ ἦν ἐκεῖ ἄνθρωπος ἐξηραμμένην ἔχων τὴν χεῖρα
 
@@ -365,7 +374,7 @@ Michał Wilk
 
         ὅπως αὐτὸν ἀπολέσωσιν.
 
-+---Mk3,7-3,19
++---<italic>Mk3,7-3,19 Napływ tłumów, wybór dwunastu</italic>
 
 7 Καὶ ὁ Ἰησοῦς μετὰ τῶν μαθητῶν αὐτοῦ
 
