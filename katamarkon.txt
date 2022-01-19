@@ -32,14 +32,12 @@ Michał Wilk
 
     Ἰδοὺ ἀποστέλλω τὸν <x-color><param>magenta</param>ἄγγελόν</x-color> μου πρὸ προσώπου σου,
 
-    ὃς <x-color><param>forest green</param>κατασκευάσει</x-color> <x-display><param>(disable-eval (disable-eval (disable-eval (disable-eval (disable-eval (disable-eval (disable-eval (height 0.5))))))))</param>przygotuje</x-display> <x-color><param>forest green</param>τὴν ὁδόν</x-color> <x-color><param>green</param>σου</x-color>
+    ὃς κατασκευάσει przygotuje τὴν ὁδόν σου
         +---
 
         3 <x-color><param>blue</param>φωνὴ</x-color> βοῶντος ἐν τῇ ἐρήμῳ
 
-        <x-color><param>cyan</param>Ἑτοιμάσατε τὴν ὁδὸν Κυρίου,</x-color>
-
-        <x-color><param>cyan</param>εὐθείας ποιεῖτε τὰς τρίβους αὐτοῦ,</x-color>
+        <x-color><param>cyan</param>Ἑτοιμάσατε τὴν ὁδὸν Κυρίου,</x-color> <x-color><param>cyan</param>εὐθείας ποιεῖτε τὰς τρίβους αὐτοῦ,</x-color>
             +---
 
             4 ἐγένετο <x-color><param>dark orange</param>Ἰωάνης ὁ βαπτίζων</x-color> ἐν τῇ ἐρήμῳ
@@ -100,21 +98,19 @@ Michał Wilk
 
 <x-color><param>dodger blue</param>εἶδεν</x-color> <x-color><param>red</param><bold>Σίμωνα</bold></x-color> καὶ <x-color><param>red</param><bold>Ἀνδρέαν τὸν ἀδελφὸν Σίμωνος</bold></x-color>
 
-ἀμφιβάλλοντας ἐν τῇ θαλάσσῃ  ἦσαν γὰρ <x-color><param>green</param>ἁλεεῖς</x-color>.
-17 καὶ εἶπεν αὐτοῖς ὁ Ἰησοῦς
-
-    <x-color><param>cyan</param><bold>Δεῦτε ὀπίσω μου</bold></x-color>, καὶ ποιήσω ὑμᾶς γενέσθαι <x-color><param>green</param>ἁλεεῖς</x-color> ἀνθρώπων.
-18 καὶ <x-color><param>saddle brown</param>εὐθὺς</x-color> <x-color><param>forest green</param>ἀφέντες τὰ δίκτυα</x-color> <x-color><param>cyan</param><bold>ἠκολούθησαν αὐτῷ</bold></x-color>.
+ἀμφιβάλλοντας ἐν τῇ θαλάσσῃ  ἦσαν γὰρ <x-color><param>dark violet</param>ἁλεεῖς</x-color>.
+17 καὶ <x-color><param>cyan</param><bold>εἶπεν αὐτοῖς ὁ Ἰησοῦς Δεῦτε ὀπίσω μου</bold></x-color>, καὶ ποιήσω ὑμᾶς γενέσθαι <x-color><param>dark violet</param>ἁλεεῖς</x-color> ἀνθρώπων.
+18 καὶ <x-color><param>saddle brown</param>εὐθὺς</x-color> <x-color><param>forest green</param>ἀφέντες</x-color> <x-color><param>dark orange</param>τὰ δίκτυα</x-color> <x-color><param>cyan</param><bold>ἠκολούθησαν αὐτῷ</bold></x-color>.
 ---
 
 19 <x-color><param>magenta</param>Καὶ προβὰς ὀλίγον</x-color>
 
 <x-color><param>dodger blue</param>εἶδεν</x-color> <x-color><param>red</param><bold>Ἰάκωβον τὸν τοῦ Ζεβεδαίου</bold></x-color> καὶ <x-color><param>red</param><bold>Ἰωάνην τὸν ἀδελφὸν αὐτοῦ</bold></x-color>,
 
-καὶ αὐτοὺς ἐν τῷ πλοίῳ καταρτίζοντας τὰ δίκτυα,
+καὶ αὐτοὺς <x-color><param>dark violet</param>ἐν τῷ πλοίῳ</x-color> καταρτίζοντας <x-color><param>dark orange</param>τὰ δίκτυα</x-color>,
 20 καὶ <x-color><param>saddle brown</param>εὐθὺς</x-color> <x-color><param>cyan</param><bold>ἐκάλεσεν αὐτούς</bold></x-color>
 
-καὶ <x-color><param>forest green</param>ἀφέντες τὸν πατέρα αὐτῶν Ζεβεδαῖον ἐν τῷ πλοίῳ μετὰ τῶν μισθωτῶν</x-color> <x-color><param>cyan</param><bold>ἀπῆλθον ὀπίσω αὐτοῦ</bold></x-color>.
+καὶ <x-color><param>forest green</param>ἀφέντες</x-color> τὸν πατέρα αὐτῶν Ζεβεδαῖον <x-color><param>dark violet</param>ἐν τῷ πλοίῳ</x-color> μετὰ τῶν μισθωτῶν <x-color><param>cyan</param><bold>ἀπῆλθον ὀπίσω αὐτοῦ</bold></x-color>.
 
     +===<italic>Mk1,21-2,28 Nauczanie i uzdrowienie opętanego w synagodze</italic>
 
