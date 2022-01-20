@@ -40,7 +40,7 @@ Michał Wilk
         <x-color><param>cyan</param>Ἑτοιμάσατε τὴν ὁδὸν Κυρίου,</x-color> <x-color><param>cyan</param>εὐθείας ποιεῖτε τὰς τρίβους αὐτοῦ,</x-color>
             +---
 
-            4 ἐγένετο <x-color><param>dark orange</param>Ἰωάνης ὁ βαπτίζων</x-color> ἐν τῇ ἐρήμῳ
+            4 ἐγένετο <x-color><param>orange</param>Ἰωάνης ὁ βαπτίζων</x-color> ἐν τῇ ἐρήμῳ
 
             κηρύσσων <x-color><param>forest green</param>βάπτισμα</x-color> μετανοίας εἰς ἄφεσιν ἁμαρτιῶν.
             5 καὶ ἐξεπορεύετο πρὸς αὐτὸν πᾶσα ἡ Ἰουδαία χώρα καὶ οἱ Ἱεροσολυμεῖται πάντες,
@@ -63,7 +63,7 @@ Michał Wilk
                 8 <x-color><param>red</param>ἐγὼ </x-color><x-color><param>forest green</param>ἐβάπτισα</x-color><x-color><param>red</param> ὑμᾶς ὕδατι</x-color>,
 
                 <x-color><param>red</param>αὐτὸς δὲ </x-color><x-color><param>forest green</param>βαπτίσει</x-color><x-color><param>red</param> ὑμᾶς Πνεύματι Ἁγίῳ</x-color>.
-            9 Καὶ ἐγένετο ἐν ἐκείναις ταῖς ἡμέραις ἦλθεν <x-color><param>dark orange</param>Ἰησοῦς ἀπὸ Ναζαρὲτ</x-color> τῆς Γαλιλαίας
+            9 Καὶ ἐγένετο ἐν ἐκείναις ταῖς ἡμέραις ἦλθεν <x-color><param>orange</param>Ἰησοῦς ἀπὸ Ναζαρὲτ</x-color> τῆς Γαλιλαίας
 
             καὶ <x-color><param>forest green</param>ἐβαπτίσθη</x-color> εἰς τὸν Ἰορδάνην ὑπὸ Ἰωάνου.
 
@@ -100,81 +100,91 @@ Michał Wilk
 
 ἀμφιβάλλοντας ἐν τῇ θαλάσσῃ  ἦσαν γὰρ <x-color><param>dark violet</param>ἁλεεῖς</x-color>.
 17 καὶ <x-color><param>cyan</param><bold>εἶπεν αὐτοῖς ὁ Ἰησοῦς Δεῦτε ὀπίσω μου</bold></x-color>, καὶ ποιήσω ὑμᾶς γενέσθαι <x-color><param>dark violet</param>ἁλεεῖς</x-color> ἀνθρώπων.
-18 καὶ <x-color><param>saddle brown</param>εὐθὺς</x-color> <x-color><param>forest green</param>ἀφέντες</x-color> <x-color><param>dark orange</param>τὰ δίκτυα</x-color> <x-color><param>cyan</param><bold>ἠκολούθησαν αὐτῷ</bold></x-color>.
+18 καὶ <x-color><param>saddle brown</param>εὐθὺς</x-color> <x-color><param>forest green</param>ἀφέντες</x-color> <x-color><param>orange</param>τὰ δίκτυα</x-color> <x-color><param>cyan</param><bold>ἠκολούθησαν αὐτῷ</bold></x-color>.
 ---
 
 19 <x-color><param>magenta</param>Καὶ προβὰς ὀλίγον</x-color>
 
 <x-color><param>dodger blue</param>εἶδεν</x-color> <x-color><param>red</param><bold>Ἰάκωβον τὸν τοῦ Ζεβεδαίου</bold></x-color> καὶ <x-color><param>red</param><bold>Ἰωάνην τὸν ἀδελφὸν αὐτοῦ</bold></x-color>,
 
-καὶ αὐτοὺς <x-color><param>dark violet</param>ἐν τῷ πλοίῳ</x-color> καταρτίζοντας <x-color><param>dark orange</param>τὰ δίκτυα</x-color>,
+καὶ αὐτοὺς <x-color><param>dark violet</param>ἐν τῷ πλοίῳ</x-color> καταρτίζοντας <x-color><param>orange</param>τὰ δίκτυα</x-color>,
 20 καὶ <x-color><param>saddle brown</param>εὐθὺς</x-color> <x-color><param>cyan</param><bold>ἐκάλεσεν αὐτούς</bold></x-color>
 
 καὶ <x-color><param>forest green</param>ἀφέντες</x-color> τὸν πατέρα αὐτῶν Ζεβεδαῖον <x-color><param>dark violet</param>ἐν τῷ πλοίῳ</x-color> μετὰ τῶν μισθωτῶν <x-color><param>cyan</param><bold>ἀπῆλθον ὀπίσω αὐτοῦ</bold></x-color>.
 
     +===<italic>Mk1,21-2,28 Nauczanie i uzdrowienie opętanego w synagodze</italic>
 
-    21 Καὶ <x-color><param>magenta</param><bold>εἰσπορεύονται εἰς Καφαρναούμ</bold></x-color> καὶ εὐθὺς τοῖς σάββασιν εἰσελθὼν εἰς τὴν συναγωγὴν ἐδίδασκεν.
-    22 καὶ <x-color><param>blue</param>ἐξεπλήσσοντο</x-color> ἐπὶ τῇ διδαχῇ αὐτοῦ ἦν γὰρ διδάσκων αὐτοὺς ὡς ἐξουσίαν ἔχων, καὶ οὐχ ὡς οἱ γραμματεῖς.
-    23 Καὶ εὐθὺς ἦν ἐν τῇ συναγωγῇ αὐτῶν ἄνθρωπος ἐν πνεύματι ἀκαθάρτῳ, καὶ ἀνέκραξεν
-    24 λέγων Τί ἡμῖν καὶ σοί, Ἰησοῦ Ναζαρηνέ; ἦλθες ἀπολέσαι ἡμᾶς. οἶδά σε τίς εἶ, ὁ Ἅγιος τοῦ Θεοῦ.
-    25 καὶ ἐπετίμησεν αὐτῷ ὁ Ἰησοῦς Φιμώθητι καὶ ἔξελθε ἐξ αὐτοῦ.
-    26 καὶ σπαράξαν αὐτὸν τὸ πνεῦμα τὸ ἀκάθαρτον καὶ φωνῆσαν φωνῇ μεγάλῃ ἐξῆλθεν ἐξ αὐτοῦ.
-    27 καὶ <x-color><param>blue</param>ἐθαμβήθησαν</x-color> ἅπαντες, ὥστε συνζητεῖν αὐτοὺς λέγοντας Τί ἐστιν τοῦτο;
+    21 Καὶ εἰσπορεύονται <x-color><param>magenta</param><bold>εἰς Καφαρναούμ</bold></x-color> καὶ εὐθὺς τοῖς σάββασιν <underline>εἰσελθὼν</underline> εἰς τὴν συναγωγὴν <x-color><param>saddle brown</param><bold>ἐδίδασκεν</bold></x-color>.
+    22 καὶ <x-color><param>blue</param>ἐξεπλήσσοντο</x-color> ἐπὶ τῇ <x-color><param>saddle brown</param>διδαχῇ</x-color> αὐτοῦ
 
-    διδαχὴ καινή κατ’ ἐξουσίαν καὶ τοῖς πνεύμασι τοῖς ἀκαθάρτοις ἐπιτάσσει, καὶ ὑπακούουσιν αὐτῷ.
-    28 καὶ ἐξῆλθεν ἡ ἀκοὴ αὐτοῦ εὐθὺς πανταχοῦ εἰς <x-color><param>red</param><bold>ὅλην τὴν περίχωρον τῆς Γαλιλαίας</bold></x-color>.
+    ἦν γὰρ <x-color><param>saddle brown</param>διδάσκων</x-color> αὐτοὺς ὡς <bold>ἐξουσίαν</bold> ἔχων,
 
-    +===<italic>Mk1,29-2,31 Uzdrowienie teściowej w domu Szymona i Andrzeja</italic>
+    καὶ οὐχ ὡς οἱ γραμματεῖς.
+    23 Καὶ εὐθὺς ἦν ἐν τῇ συναγωγῇ αὐτῶν ἄνθρωπος ἐν <x-color><param>cyan</param><bold><italic>πνεύματι ἀκαθάρτῳ</italic></bold></x-color><bold>,</bold> καὶ ἀνέκραξεν
+    24 λέγων Τί ἡμῖν καὶ σοί, <x-color><param>dark violet</param><bold>Ἰησοῦ Ναζαρηνέ</bold></x-color>; ἦλθες ἀπολέσαι ἡμᾶς.
+
+    οἶδά σε τίς εἶ, <x-color><param>dark violet</param><bold>ὁ Ἅγιος τοῦ Θεοῦ</bold></x-color>.
+    25 καὶ ἐπετίμησεν αὐτῷ ὁ Ἰησοῦς <x-color><param>forest green</param><bold><italic>Φιμώθητι</italic></bold></x-color><bold> </bold>καὶ <x-color><param>dodger blue</param><bold>ἔξελθε</bold></x-color> ἐξ αὐτοῦ.
+    26 καὶ σπαράξαν αὐτὸν <x-color><param>cyan</param><bold><italic>τὸ πνεῦμα τὸ ἀκάθαρτον</italic></bold></x-color><bold> </bold>καὶ φωνῆσαν φωνῇ μεγάλῃ ἐξῆλθεν ἐξ αὐτοῦ.
+    27 <x-color><param>blue</param>καὶ ἐθαμβήθησαν ἅπαντες</x-color>,
+
+    ὥστε συνζητεῖν αὐτοὺς λέγοντας Τί ἐστιν τοῦτο;
+
+    <x-color><param>saddle brown</param>διδαχὴ</x-color> καινή κατ’ <bold>ἐξουσίαν</bold> καὶ τοῖς <x-color><param>cyan</param><bold><italic>πνεύμασι τοῖς ἀκαθάρτοις</italic></bold></x-color><bold> </bold>ἐπιτάσσει, καὶ ὑπακούουσιν αὐτῷ.
+    28 καὶ ἐξῆλθεν ἡ ἀκοὴ αὐτοῦ εὐθὺς <x-color><param>red</param><bold>πανταχοῦ εἰς ὅλην τὴν περίχωρον τῆς Γαλιλαίας</bold></x-color>.
+
+    +===<italic>Mk1,29-2,31 Uzdrowienie<x-color><param>forest green</param> </x-color>teściowej w domu Szymona i Andrzeja</italic>
 
     29 Καὶ εὐθὺς ἐκ τῆς συναγωγῆς ἐξελθόντες
 
-    ἦλθον εἰς τὴν οἰκίαν Σίμωνος καὶ Ἀνδρέου μετὰ Ἰακώβου καὶ Ἰωάνου.
-    30 ἡ δὲ πενθερὰ Σίμωνος κατέκειτο πυρέσσουσα, καὶ εὐθὺς λέγουσιν αὐτῷ περὶ αὐτῆς.
-    31 καὶ προσελθὼν <x-color><param>forest green</param>ἤγειρεν</x-color> αὐτὴν κρατήσας τῆς χειρός
+    <underline>ἦλθον</underline> εἰς τὴν <bold><x-color><param>tomato</param>οἰκίαν</x-color></bold> <bold><x-color><param>firebrick</param>Σίμωνος</x-color></bold> καὶ <bold><x-color><param>firebrick</param>Ἀνδρέου</x-color></bold> μετὰ <bold><x-color><param>firebrick</param>Ἰακώβου</x-color></bold> καὶ <bold><x-color><param>firebrick</param>Ἰωάνου</x-color></bold>.
+    30 ἡ δὲ πενθερὰ Σίμωνος <x-color><param>dark khaki</param><bold>κατέκειτο</bold></x-color> πυρέσσουσα, καὶ εὐθὺς λέγουσιν αὐτῷ περὶ αὐτῆς.
+    31 καὶ προσελθὼν <x-color><param>dodger blue</param><bold>ἤγειρεν</bold></x-color> αὐτὴν <x-color><param>dodger blue</param><bold>κρατήσας</bold></x-color> τῆς χειρός
 
-    καὶ <x-color><param>forest green</param>ἀφῆκεν</x-color> αὐτὴν ὁ πυρετός, καὶ διηκόνει αὐτοῖς.
+    καὶ <x-color><param>yellow green</param><bold>ἀφῆκεν</bold></x-color> αὐτὴν ὁ πυρετός, καὶ διηκόνει αὐτοῖς.
 
         #===<italic>Mk1,32-1,34 Uzdrowienia w domu</italic>
 
-        32 <x-color><param>magenta</param>Ὀψίας δὲ γενομένης, ὅτε ἔδυσεν ὁ ἥλιος</x-color>,
+        32 <x-color><param>orange</param><bold>Ὀψίας δὲ γενομένης, ὅτε ἔδυσεν ὁ ἥλιος</bold></x-color>,
 
         ἔφερον πρὸς αὐτὸν πάντας τοὺς κακῶς ἔχοντας καὶ τοὺς δαιμονιζομένους
-        33 καὶ ἦν <x-color><param>blue</param>ὅλη ἡ πόλις</x-color> ἐπισυνηγμένη πρὸς τὴν θύραν.
+        33 καὶ ἦν <x-color><param>blue</param><bold>ὅλη ἡ πόλις</bold></x-color> ἐπισυνηγμένη πρὸς τὴν θύραν.
         34 καὶ ἐθεράπευσεν πολλοὺς κακῶς ἔχοντας ποικίλαις νόσοις,
 
-        <x-color><param>green</param>καὶ δαιμόνια πολλὰ ἐξέβαλεν</x-color>, καὶ <x-color><param>dark violet</param>οὐκ ἤφιεν λαλεῖν τὰ δαιμόνια, ὅτι ᾔδεισαν αὐτόν</x-color>.
+        <x-color><param>green</param><bold>καὶ δαιμόνια πολλὰ ἐξέβαλεν</bold></x-color>,
+
+        καὶ οὐκ ἤφιεν λαλεῖν τὰ <x-color><param>green</param>δαιμόνια</x-color>, ὅτι ᾔδεισαν αὐτόν.
 
         #===<italic>Mk1,35-1,39 Na miejscu pustynnym</italic>
 
-        35 Καὶ <x-color><param>magenta</param>πρωῒ ἔννυχα λίαν</x-color>
+        35 Καὶ <x-color><param>orange</param><bold>πρωῒ ἔννυχα λίαν</bold></x-color>
 
-        ἀναστὰς ἐξῆλθεν καὶ ἀπῆλθεν <x-color><param>blue</param>εἰς ἔρημον τόπον</x-color>, κἀκεῖ προσηύχετο.
+        ἀναστὰς ἐξῆλθεν καὶ ἀπῆλθεν εἰς <x-color><param>blue</param><bold>ἔρημον τόπον</bold></x-color>, κἀκεῖ προσηύχετο.
         36 καὶ κατεδίωξεν αὐτὸν Σίμων καὶ οἱ μετ’ αὐτοῦ,
         37 καὶ εὗρον αὐτὸν καὶ λέγουσιν αὐτῷ ὅτι Πάντες ζητοῦσίν σε.
-        38 καὶ λέγει αὐτοῖς Ἄγωμεν ἀλλαχοῦ <x-color><param>blue</param>εἰς τὰς ἐχομένας κωμοπόλεις</x-color>,
+        38 καὶ λέγει αὐτοῖς Ἄγωμεν ἀλλαχοῦ εἰς τὰς ἐχομένας κωμοπόλεις,
 
-        ἵνα καὶ ἐκεῖ <x-color><param>dark orange</param>κηρύξω</x-color> εἰς τοῦτο γὰρ ἐξῆλθον.
-        39 καὶ ἦλθεν <x-color><param>dark orange</param>κηρύσσων</x-color> εἰς τὰς συναγωγὰς αὐτῶν
+        ἵνα καὶ ἐκεῖ κηρύξω εἰς τοῦτο γὰρ ἐξῆλθον.
+        39 καὶ ἦλθεν κηρύσσων εἰς τὰς συναγωγὰς αὐτῶν
 
-        εἰς <x-color><param>red</param><bold>ὅλην τὴν Γαλιλαίαν</bold></x-color> <x-color><param>green</param>καὶ τὰ δαιμόνια ἐκβάλλων</x-color>.
+        εἰς <x-color><param>red</param><bold>ὅλην τὴν Γαλιλαίαν</bold></x-color> <x-color><param>green</param><bold>καὶ τὰ δαιμόνια ἐκβάλλων</bold></x-color>.
 
     +===<italic>Mk1,40-1,45 Uzdrowienie trędowatego</italic>
 
-    40 Καὶ ἔρχεται πρὸς αὐτὸν λεπρὸς παρακαλῶν αὐτὸν καὶ γονυπετῶν
+    40 Καὶ <underline>ἔρχεται</underline> πρὸς αὐτὸν λεπρὸς παρακαλῶν αὐτὸν καὶ γονυπετῶν
 
-        <x-color><param>green</param>λέγων αὐτῷ</x-color> ὅτι <x-color><param>saddle brown</param>Ἐὰν θέλῃς</x-color> δύνασαί με <x-color><param>red</param>καθαρίσαι</x-color>.
-    41 καὶ σπλαγχνισθεὶς ἐκτείνας τὴν χεῖρα αὐτοῦ ἥψατο
+        <x-color><param>green</param>λέγων αὐτῷ</x-color> ὅτι <x-color><param>saddle brown</param>Ἐὰν θέλῃς</x-color> δύνασαί με <x-color><param>cyan</param><bold><italic>καθαρίσαι</italic></bold></x-color><bold>.</bold>
+    41 καὶ σπλαγχνισθεὶς <x-color><param>dodger blue</param><bold>ἐκτείνας</bold></x-color> τὴν χεῖρα αὐτοῦ <x-color><param>dodger blue</param><bold>ἥψατο</bold></x-color>
 
-        καὶ <x-color><param>green</param>λέγει αὐτῷ</x-color> <x-color><param>saddle brown</param>Θέλω</x-color>, <x-color><param>red</param>καθαρίσθητι</x-color>.
-    42 καὶ <x-color><param>dark orange</param>εὐθὺς</x-color> ἀπῆλθεν ἀπ’ αὐτοῦ ἡ λέπρα, καὶ <x-color><param>red</param>ἐκαθερίσθη</x-color>.
-    43 καὶ ἐμβριμησάμενος αὐτῷ <x-color><param>dark orange</param>εὐθὺς</x-color> ἐξέβαλεν αὐτόν,
-    44 καὶ λέγει αὐτῷ <x-color><param>dark violet</param>Ὅρα μηδενὶ μηδὲν εἴπῃς</x-color>,
+        καὶ <x-color><param>green</param>λέγει αὐτῷ</x-color> <x-color><param>saddle brown</param>Θέλω</x-color>, <x-color><param>cyan</param><bold><italic>καθαρίσθητι</italic></bold></x-color><bold>.</bold>
+    42 καὶ εὐθὺς ἀπῆλθεν ἀπ’ αὐτοῦ ἡ λέπρα, καὶ <x-color><param>cyan</param><bold>ἐκαθερίσθη</bold></x-color>.
+    43 καὶ ἐμβριμησάμενος αὐτῷ εὐθὺς ἐξέβαλεν αὐτόν,
+    44 καὶ λέγει αὐτῷ Ὅρα <x-color><param>forest green</param><bold><italic>μηδενὶ μηδὲν εἴπῃς</italic></bold></x-color><bold>,</bold>
 
     ἀλλὰ ὕπαγε σεαυτὸν δεῖξον τῷ ἱερεῖ
 
-    καὶ προσένεγκε περὶ τοῦ <x-color><param>red</param>καθαρισμοῦ</x-color> σου ἃ προσέταξεν Μωϋσῆς εἰς μαρτύριον αὐτοῖς.
-    45 ὁ δὲ ἐξελθὼν <x-color><param>forest green</param>ἤρξατο κηρύσσειν πολλὰ καὶ διαφημίζειν τὸν λόγον</x-color>,
+    καὶ προσένεγκε περὶ τοῦ <x-color><param>cyan</param><bold>καθαρισμοῦ</bold></x-color> σου ἃ προσέταξεν Μωϋσῆς εἰς μαρτύριον αὐτοῖς.
+    45 ὁ δὲ ἐξελθὼν ἤρξατο κηρύσσειν πολλὰ καὶ διαφημίζειν τὸν λόγον,
 
     ὥστε μηκέτι αὐτὸν δύνασθαι φανερῶς <x-color><param>blue</param>εἰς πόλιν εἰσελθεῖν</x-color>,
 
@@ -182,55 +192,57 @@ Michał Wilk
 
     +===<italic>Mk2,1-2,13 Uzdrowienie paralityka w Kafarnaum</italic>
 
-    1 <x-color><param>magenta</param><bold>Καὶ εἰσελθὼν πάλιν εἰς Καφαρναοὺμ</bold></x-color> δι’ ἡμερῶν ἠκούσθη ὅτι ἐν οἴκῳ ἐστίν.
+    1 Καὶ <underline>εἰσελθὼν</underline> πάλιν <x-color><param>magenta</param><bold>εἰς Καφαρναοὺμ</bold></x-color> δι’ ἡμερῶν ἠκούσθη ὅτι ἐν <bold><x-color><param>tomato</param>οἴκῳ</x-color></bold> ἐστίν.
     2 καὶ συνήχθησαν πολλοὶ, ὥστε μηκέτι χωρεῖν μηδὲ τὰ πρὸς τὴν θύραν,
 
 
-    <x-color><param>forest green</param>καὶ ἐλάλει αὐτοῖς τὸν λόγον</x-color>.
+    καὶ ἐλάλει αὐτοῖς τὸν λόγον.
 
         +===
 
-        3 καὶ ἔρχονται φέροντες πρὸς αὐτὸν παραλυτικὸν <x-color><param>magenta</param>αἰρόμενον</x-color> ὑπὸ τεσσάρων.
-        4 καὶ μὴ δυνάμενοι προσενέγκαι αὐτῷ διὰ τὸν ὄχλον ἀπεστέγασαν τὴν στέγην ὅπου ἦν,
+        3 καὶ ἔρχονται φέροντες πρὸς αὐτὸν παραλυτικὸν <x-color><param>magenta</param>αἰρόμενον</x-color> ὑπὸ <bold><x-color><param>firebrick</param>τεσσάρων</x-color></bold>.
+        4 καὶ μὴ δυνάμενοι προσενέγκαι αὐτῷ διὰ τὸν ὄχλον
 
-        καὶ ἐξορύξαντες χαλῶσι <x-color><param>magenta</param>τὸν κράβαττον</x-color> ὅπου ὁ <x-color><param>red</param>παραλυτικὸς</x-color> κατέκειτο.
+        ἀπεστέγασαν τὴν στέγην ὅπου ἦν,
+
+        καὶ ἐξορύξαντες χαλῶσι <x-color><param>magenta</param>τὸν κράβαττον</x-color> ὅπου ὁ <x-color><param>red</param>παραλυτικὸς</x-color> <x-color><param>dark khaki</param><bold>κατέκειτο</bold></x-color>.
         5 καὶ ἰδὼν ὁ Ἰησοῦς τὴν πίστιν αὐτῶν
 
             +===
 
-            <x-color><param>forest green</param>λέγει τῷ παραλυτικῷ</x-color> Τέκνον, <x-color><param>cyan</param>ἀφίενταί σου αἱ ἁμαρτίαι</x-color>.
+            <x-color><param>forest green</param>λέγει τῷ παραλυτικῷ</x-color> Τέκνον, <x-color><param>yellow green</param><bold>ἀφίενταί</bold></x-color> σου αἱ ἁμαρτίαι.
             6 ἦσαν δέ τινες τῶν γραμματέων ἐκεῖ καθήμενοι
 
-            καὶ <x-color><param>dodger blue</param>διαλογιζόμενοι ἐν ταῖς καρδίαις αὐτῶν</x-color>
+            καὶ <x-color><param>orange</param>διαλογιζόμενοι</x-color> ἐν ταῖς καρδίαις αὐτῶν
             7 Τί οὗτος <x-color><param>green</param>οὕτως</x-color> λαλεῖ; βλασφημεῖ
 
                 +===
 
-                τίς δύναται ἀφιέναι ἁμαρτίας <x-color><param>dark orange</param>εἰ μὴ εἷς ὁ Θεός</x-color>;
-                8 καὶ εὐθὺς <x-color><param>dark orange</param>ἐπιγνοὺς ὁ Ἰησοῦς τῷ πνεύματι αὐτοῦ</x-color>
+                τίς δύναται ἀφιέναι ἁμαρτίας <bold><x-color><param>dark violet</param>εἰ μὴ εἷς ὁ Θεός</x-color></bold>;
+                8 καὶ εὐθὺς ἐπιγνοὺς ὁ Ἰησοῦς τῷ πνεύματι αὐτοῦ
 
-            ὅτι <x-color><param>green</param>οὕτως</x-color> διαλογίζονται ἐν ἑαυτοῖς,
+            ὅτι <x-color><param>green</param>οὕτως</x-color> <x-color><param>orange</param>διαλογίζονται</x-color> ἐν ἑαυτοῖς,
 
-            λέγει αὐτοῖς Τί ταῦτα <x-color><param>dodger blue</param>διαλογίζεσθε ἐν ταῖς καρδίαις ὑμῶν</x-color>;
+            λέγει αὐτοῖς Τί ταῦτα <x-color><param>orange</param>διαλογίζεσθε</x-color> ἐν ταῖς καρδίαις ὑμῶν;
             9 τί ἐστιν εὐκοπώτερον,
 
             <x-color><param>forest green</param>εἰπεῖν τῷ παραλυτικῷ</x-color> <x-color><param>cyan</param>Ἀφίενταί σου αἱ ἁμαρτίαι</x-color>,
 
         ἢ εἰπεῖν <x-color><param>red</param>Ἔγειρε</x-color> καὶ <x-color><param>magenta</param>ἆρον τὸν κράβαττόν</x-color> σου καὶ περιπάτει;
-        10 ἵνα δὲ εἰδῆτε ὅτι ἐξουσίαν ἔχει ὁ Υἱὸς τοῦ ἀνθρώπου
+        10 ἵνα δὲ εἰδῆτε ὅτι <bold>ἐξουσίαν</bold> ἔχει ὁ <bold><x-color><param>dark violet</param>Υἱὸς τοῦ ἀνθρώπου</x-color></bold>
 
         ἀφιέναι ἁμαρτίας ἐπὶ τῆς γῆς,— λέγει τῷ <x-color><param>red</param>παραλυτικῷ</x-color>
-        11 Σοὶ λέγω, <x-color><param>red</param>ἔγειρε</x-color> <x-color><param>magenta</param>ἆρον τὸν κράβαττόν</x-color> σου καὶ ὕπαγε εἰς τὸν οἶκόν σου.
+        11 Σοὶ λέγω, <x-color><param>dodger blue</param><bold>ἔγειρε<bold> </bold>ἆρον</bold></x-color><x-color><param>magenta</param> τὸν κράβαττόν</x-color> σου καὶ <x-color><param>dodger blue</param><bold>ὕπαγε</bold></x-color> εἰς τὸν οἶκόν σου.
         12 καὶ <x-color><param>red</param>ἠγέρθη</x-color> καὶ εὐθὺς <x-color><param>magenta</param>ἄρας τὸν κράβαττον</x-color> ἐξῆλθεν ἔμπροσθεν πάντων,
 
         ὥστε ἐξίστασθαι πάντας καὶ δοξάζειν τὸν Θεὸν λέγοντας ὅτι Οὕτως οὐδέποτε εἴδαμεν.
 
-    13 <x-color><param>dark violet</param>Καὶ ἐξῆλθεν πάλιν</x-color> παρὰ τὴν θάλασσαν
+    13 <x-color><param>magenta</param><bold>Καὶ ἐξῆλθεν πάλιν παρὰ τὴν θάλασσαν</bold></x-color>
 
     καὶ πᾶς ὁ ὄχλος ἤρχετο πρὸς αὐτόν,
 
 
-    <x-color><param>forest green</param>καὶ ἐδίδασκεν αὐτούς</x-color>.
+    καὶ <bold><x-color><param>saddle brown</param>ἐδίδασκεν</x-color></bold> αὐτούς.
 
 +---<italic>Mk2,14-2,17 Powołanie Lewiego, w domu z celnikami</italic>
 
@@ -255,14 +267,14 @@ Michał Wilk
 
     <x-color><param>magenta</param>ὅτι ἐσθίει μετὰ τῶν ἁμαρτωλῶν καὶ τελωνῶν</x-color>,
 
-        <x-color><param>dark orange</param>ἔλεγον</x-color> <x-color><param>cyan</param>τοῖς μαθηταῖς αὐτοῦ</x-color>
+        <x-color><param>orange</param>ἔλεγον</x-color> <x-color><param>cyan</param>τοῖς μαθηταῖς αὐτοῦ</x-color>
 
 
 <x-color><param>magenta</param>Ὅτι μετὰ τῶν τελωνῶν καὶ ἁμαρτωλῶν ἐσθίει</x-color>;
 
     17 καὶ <x-color><param>forest green</param>ἀκούσας</x-color> <x-color><param>cyan</param>ὁ Ἰησοῦς</x-color>
 
-        <x-color><param>dark orange</param>λέγει</x-color> <x-color><param>cyan</param>αὐτοῖς</x-color>
+        <x-color><param>orange</param>λέγει</x-color> <x-color><param>cyan</param>αὐτοῖς</x-color>
 
 ...
 
@@ -340,13 +352,13 @@ Michał Wilk
 
     +~~~<italic>Mk3,1-3,6 Uzdrowienie człowieka z usniętą ręką w szabat</italic>
 
-    1 Καὶ εἰσῆλθεν πάλιν εἰς συναγωγήν, καὶ ἦν ἐκεῖ ἄνθρωπος ἐξηραμμένην ἔχων τὴν χεῖρα
+    1 Καὶ <x-color><param>magenta</param>εἰσῆλθεν πάλιν εἰς συναγωγήν</x-color>,
 
-    2 καὶ παρετήρουν αὐτὸν εἰ τοῖς <x-color><param>red</param>σάββασιν</x-color> θεραπεύσει αὐτόν,
+    καὶ ἦν ἐκεῖ ἄνθρωπος <x-color><param>orange</param>ἐξηραμμένην ἔχων τὴν χεῖρα</x-color>
 
-    ἵνα κατηγορήσωσιν αὐτοῦ.
-    3 καὶ <x-color><param>green</param>λέγει τῷ ἀνθρώπῳ</x-color> τῷ τὴν χεῖρα ἔχοντι ξηράν Ἔγειρε εἰς τὸ μέσον.
-    4 καὶ λέγει αὐτοῖς Ἔξεστιν τοῖς <x-color><param>red</param>σάββασιν</x-color>
+    2 καὶ παρετήρουν αὐτὸν εἰ τοῖς <x-color><param>red</param>σάββασιν</x-color> θεραπεύσει αὐτόν, ἵνα κατηγορήσωσιν αὐτοῦ.
+    3 καὶ <x-color><param>green</param>λέγει τῷ ἀνθρώπῳ</x-color> <x-color><param>orange</param>τῷ τὴν χεῖρα ἔχοντι ξηράν</x-color> <x-color><param>cyan</param>Ἔγειρε εἰς τὸ μέσον</x-color>.
+    4 καὶ <x-color><param>green</param>λέγει αὐτοῖς</x-color> Ἔξεστιν τοῖς <x-color><param>red</param>σάββασιν</x-color>
 
         ἀγαθὸν ποιῆσαι ἢ κακοποιῆσαι,
 
@@ -357,7 +369,9 @@ Michał Wilk
 
         συνλυπούμενος ἐπὶ τῇ πωρώσει τῆς καρδίας αὐτῶν,
 
-        <x-color><param>green</param>λέγει τῷ ἀνθρώπῳ</x-color> Ἔκτεινον τὴν χεῖρα.
+    
+
+    <x-color><param>green</param>λέγει τῷ ἀνθρώπῳ</x-color> <x-color><param>cyan</param>Ἔκτεινον τὴν χεῖρα</x-color>.
 
         καὶ ἐξέτεινεν,
 
@@ -403,12 +417,12 @@ Michał Wilk
 
 10 πολλοὺς γὰρ ἐθεράπευσεν,
 
-ὥστε <x-color><param>dark orange</param>ἐπιπίπτειν</x-color> αὐτῷ ἵνα αὐτοῦ ἅψωνται ὅσοι εἶχον μάστιγας.
+ὥστε <x-color><param>orange</param>ἐπιπίπτειν</x-color> αὐτῷ ἵνα αὐτοῦ ἅψωνται ὅσοι εἶχον μάστιγας.
 
 
 11 καὶ τὰ πνεύματα τὰ ἀκάθαρτα, ὅταν αὐτὸν ἐθεώρουν,
 
-<x-color><param>dark orange</param>προσέπιπτον</x-color> αὐτῷ καὶ ἔκραζον λέγοντα ὅτι Σὺ εἶ ὁ Υἱὸς τοῦ Θεοῦ.
+<x-color><param>orange</param>προσέπιπτον</x-color> αὐτῷ καὶ ἔκραζον λέγοντα ὅτι Σὺ εἶ ὁ Υἱὸς τοῦ Θεοῦ.
 
 12 καὶ πολλὰ ἐπετίμα αὐτοῖς ἵνα μὴ αὐτὸν φανερὸν ποιήσωσιν.
 ---
@@ -428,10 +442,10 @@ Michał Wilk
 
 ...
 
-<x-color><param>dark orange</param>καὶ ἐπέθηκεν ὄνομα</x-color> τῷ <x-color><param>red</param><bold>Σίμωνι Πέτρον</bold></x-color>
+<x-color><param>orange</param>καὶ ἐπέθηκεν ὄνομα</x-color> τῷ <x-color><param>red</param><bold>Σίμωνι Πέτρον</bold></x-color>
     17 καὶ <x-color><param>red</param><bold>Ἰάκωβον τὸν τοῦ Ζεβεδαίου</bold></x-color> καὶ <x-color><param>red</param><bold>Ἰωάνην τὸν ἀδελφὸν τοῦ Ἰακώβου</bold></x-color>,
 
-<x-color><param>dark orange</param>καὶ ἐπέθηκεν</x-color> αὐτοῖς <x-color><param>dark orange</param>ὄνομα</x-color> Βοανηργές, ὅ ἐστιν Υἱοὶ Βροντῆς
+<x-color><param>orange</param>καὶ ἐπέθηκεν</x-color> αὐτοῖς <x-color><param>orange</param>ὄνομα</x-color> Βοανηργές, ὅ ἐστιν Υἱοὶ Βροντῆς
     18 καὶ <x-color><param>red</param><bold>Ἀνδρέαν</bold></x-color>
 
     καὶ <x-color><param>red</param><bold>Φίλιππον</bold></x-color> καὶ <x-color><param>red</param><bold>Βαρθολομαῖον</bold></x-color>
@@ -453,7 +467,7 @@ Michał Wilk
 ὥστε μὴ δύνασθαι αὐτοὺς μηδὲ ἄρτον φαγεῖν.
 
 
-21 καὶ ἀκούσαντες <x-color><param>dark orange</param>οἱ παρ’ αὐτοῦ</x-color>
+21 καὶ ἀκούσαντες <x-color><param>orange</param>οἱ παρ’ αὐτοῦ</x-color>
 
 <x-color><param>green</param>ἐξῆλθον κρατῆσαι αὐτόν</x-color>
     +---
@@ -496,19 +510,19 @@ Michał Wilk
 
 
     30 <x-color><param>dark violet</param>ὅτι ἔλεγον Πνεῦμα ἀκάθαρτον ἔχει</x-color>.
-31 Καὶ ἔρχονται <x-color><param>dark orange</param>ἡ μήτηρ αὐτοῦ καὶ οἱ ἀδελφοὶ αὐτοῦ</x-color>,
+31 Καὶ ἔρχονται <x-color><param>orange</param>ἡ μήτηρ αὐτοῦ καὶ οἱ ἀδελφοὶ αὐτοῦ</x-color>,
 
 καὶ ἔξω στήκοντες <x-color><param>green</param>ἀπέστειλαν πρὸς αὐτὸν καλοῦντες αὐτόν</x-color>.
 
 
 32 καὶ ἐκάθητο περὶ αὐτὸν ὄχλος,
 
-καὶ λέγουσιν αὐτῷ Ἰδοὺ <x-color><param>dark orange</param>ἡ μήτηρ σου καὶ οἱ ἀδελφοί σου καὶ αἱ ἀδελφαί σου</x-color> ἔξω ζητοῦσίν σε.
+καὶ λέγουσιν αὐτῷ Ἰδοὺ <x-color><param>orange</param>ἡ μήτηρ σου καὶ οἱ ἀδελφοί σου καὶ αἱ ἀδελφαί σου</x-color> ἔξω ζητοῦσίν σε.
 
 
 33 καὶ ἀποκριθεὶς αὐτοῖς λέγει
 
-Τίς ἐστιν <x-color><param>dark orange</param>ἡ μήτηρ μου καὶ οἱ ἀδελφοί</x-color>;
+Τίς ἐστιν <x-color><param>orange</param>ἡ μήτηρ μου καὶ οἱ ἀδελφοί</x-color>;
 34 καὶ περιβλεψάμενος τοὺς περὶ αὐτὸν κύκλῳ καθημένους λέγει Ἴδε ἡ μήτηρ μου καὶ οἱ ἀδελφοί μου.
 35 ὃς ἂν ποιήσῃ τὸ θέλημα τοῦ Θεοῦ, οὗτος ἀδελφός μου καὶ ἀδελφὴ καὶ μήτηρ ἐστίν.
     +~~~Mk4,1-20 Nauka wewnątrz nauki

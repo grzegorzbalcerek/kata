@@ -26,9 +26,9 @@ License: Public domain
 2 Οὗτος ἦν ἐν ἀρχῇ <x-color><param>green</param>πρὸς τὸν Θεόν</x-color>.
 
 
-3 πάντα δι’ <x-color><param>dark orange</param>αὐτοῦ ἐγένετο</x-color>,
+3 πάντα δι’ <x-color><param>orange</param>αὐτοῦ ἐγένετο</x-color>,
 
-καὶ χωρὶς <x-color><param>dark orange</param>αὐτοῦ ἐγένετο</x-color> οὐδὲ ἕν ὃ γέγονεν.
+καὶ χωρὶς <x-color><param>orange</param>αὐτοῦ ἐγένετο</x-color> οὐδὲ ἕν ὃ γέγονεν.
 
 
 4 ἐν αὐτῷ <x-color><param>dodger blue</param>ζωὴ ἦν</x-color>,
@@ -51,9 +51,9 @@ License: Public domain
 8 οὐκ ἦν ἐκεῖνος τὸ φῶς,
 
 ἀλλ’ ἵνα <x-color><param>forest green</param>μαρτυρήσῃ</x-color> περὶ τοῦ φωτός.
-9 Ἦν τὸ <x-color><param>dark orange</param>φῶς</x-color> τὸ ἀληθινὸν,
+9 Ἦν τὸ <x-color><param>orange</param>φῶς</x-color> τὸ ἀληθινὸν,
 
-ὃ <x-color><param>dark orange</param>φωτίζει</x-color> πάντα ἄνθρωπον,
+ὃ <x-color><param>orange</param>φωτίζει</x-color> πάντα ἄνθρωπον,
 
 
 ἐρχόμενον εἰς τὸν <x-color><param>magenta</param>κόσμον</x-color>.
@@ -130,7 +130,7 @@ License: Public domain
 
         +---
 
-        ὅτε <x-color><param>green</param>ἀπέστειλαν</x-color> πρὸς αὐτὸν οἱ Ἰουδαῖοι ἐξ Ἱεροσολύμων <x-color><param>dark orange</param>ἱερεῖς καὶ Λευείτας</x-color> ἵνα <x-color><param>magenta</param>ἐρωτήσωσιν</x-color> αὐτόν
+        ὅτε <x-color><param>green</param>ἀπέστειλαν</x-color> πρὸς αὐτὸν οἱ Ἰουδαῖοι ἐξ Ἱεροσολύμων <x-color><param>orange</param>ἱερεῖς καὶ Λευείτας</x-color> ἵνα <x-color><param>magenta</param>ἐρωτήσωσιν</x-color> αὐτόν
 
         Σὺ τίς εἶ; 20 καὶ ὡμολόγησεν καὶ οὐκ ἠρνήσατο, καὶ ὡμολόγησεν ὅτι <bold><x-color><param>red</param>Ἐγὼ οὐκ εἰμὶ ὁ Χριστός</x-color></bold>.
         21 καὶ ἠρώτησαν αὐτόν Τί οὖν; σὺ <x-color><param>forest green</param>Ἡλείας</x-color> εἶ; καὶ λέγει Οὐκ εἰμί.
@@ -144,7 +144,7 @@ License: Public domain
         Ἐγὼ φωνὴ βοῶντος ἐν τῇ ἐρήμῳ Εὐθύνατε τὴν ὁδὸν Κυρίου, καθὼς εἶπεν Ἡσαΐας ὁ προφήτης.
 
          ---
-        24 Καὶ <x-color><param>green</param>ἀπεσταλμένοι</x-color> ἦσαν ἐκ τῶν <x-color><param>dark orange</param>Φαρισαίων</x-color>. 25 καὶ <x-color><param>magenta</param>ἠρώτησαν</x-color> αὐτὸν καὶ εἶπαν αὐτῷ
+        24 Καὶ <x-color><param>green</param>ἀπεσταλμένοι</x-color> ἦσαν ἐκ τῶν <x-color><param>orange</param>Φαρισαίων</x-color>. 25 καὶ <x-color><param>magenta</param>ἠρώτησαν</x-color> αὐτὸν καὶ εἶπαν αὐτῷ
         Τί οὖν βαπτίζεις εἰ σὺ οὐκ εἶ ὁ <x-color><param>forest green</param>Χριστὸς</x-color> οὐδὲ <x-color><param>forest green</param>Ἡλείας</x-color> οὐδὲ ὁ <x-color><param>forest green</param>προφήτης</x-color>;
         26 <italic>ἀπεκρίθη</italic> αὐτοῖς ὁ Ἰωάνης λέγων Ἐγὼ βαπτίζω ἐν ὕδατι μέσος ὑμῶν στήκει ὃν ὑμεῖς οὐκ οἴδατε,
         27 ὁ ὀπίσω μου ἐρχόμενος, οὗ οὐκ εἰμὶ ἐγὼ ἄξιος ἵνα λύσω αὐτοῦ τὸν ἱμάντα τοῦ ὑποδήματος.
@@ -180,7 +180,7 @@ License: Public domain
 
         ὅτι <x-color><param>dodger blue</param>Τεθέαμαι τὸ Πνεῦμα καταβαῖνον</x-color> ὡς περιστερὰν <bold><x-color><param>red</param>ἐξ οὐρανοῦ</x-color>,</bold>
 
-        <x-color><param>dark orange</param>καὶ ἔμεινεν ἐπ’ αὐτόν.</x-color>
+        <x-color><param>orange</param>καὶ ἔμεινεν ἐπ’ αὐτόν.</x-color>
          ...
 
         33 <x-color><param>cyan</param>κἀγὼ οὐκ ᾔδειν αὐτόν,</x-color>
@@ -189,7 +189,7 @@ License: Public domain
 
         Ἐφ’ ὃν ἂν <x-color><param>dodger blue</param>ἴδῃς τὸ Πνεῦμα καταβαῖνον</x-color>
 
-        <x-color><param>dark orange</param>καὶ μένον ἐπ’ αὐτόν,</x-color> οὗτός ἐστιν ὁ βαπτίζων ἐν Πνεύματι Ἁγίῳ.
+        <x-color><param>orange</param>καὶ μένον ἐπ’ αὐτόν,</x-color> οὗτός ἐστιν ὁ βαπτίζων ἐν Πνεύματι Ἁγίῳ.
         34 κἀγὼ ἑώρακα, καὶ <x-color><param>red</param><bold>μεμαρτύρηκα</bold></x-color> ὅτι οὗτός ἐστιν ὁ Υἱὸς τοῦ Θεοῦ.
 
 
@@ -210,7 +210,7 @@ License: Public domain
         38 στραφεὶς δὲ ὁ Ἰησοῦς καὶ θεασάμενος αὐτοὺς ἀκολουθοῦντας λέγει αὐτοῖς <x-color><param>red</param>Τί ζητεῖτε</x-color>;
 
 
-        οἱ δὲ εἶπαν αὐτῷ Ῥαββεί, (ὃ λέγεται μεθερμηνευόμενον Διδάσκαλε,)    <x-color><param>dark orange</param>ποῦ μένεις</x-color>;
+        οἱ δὲ εἶπαν αὐτῷ Ῥαββεί, (ὃ λέγεται μεθερμηνευόμενον Διδάσκαλε,)    <x-color><param>orange</param>ποῦ μένεις</x-color>;
         39 <x-color><param>blue</param>λέγει αὐτοῖς Ἔρχεσθε καὶ ὄψεσθε</x-color>.
 
 
@@ -250,7 +250,7 @@ License: Public domain
         <x-color><param>red</param>εὑρήκαμεν</x-color>,        Ἰησοῦν           υἱὸν τοῦ Ἰωσὴφ τὸν ἀπὸ Ναζαρέτ.
 
 
-        46 καὶ εἶπεν αὐτῷ Ναθαναήλ            <x-color><param>dark orange</param>Ἐκ Ναζαρὲτ</x-color>              δύναταί τι ἀγαθὸν εἶναι;
+        46 καὶ εἶπεν αὐτῷ Ναθαναήλ            <x-color><param>orange</param>Ἐκ Ναζαρὲτ</x-color>              δύναταί τι ἀγαθὸν εἶναι;
 
         <x-color><param>blue</param>λέγει αὐτῷ ὁ Φίλιππος Ἔρχου καὶ ἴδε.</x-color>
 
@@ -278,7 +278,7 @@ License: Public domain
 
     1 Καὶ τῇ <x-color><param>red</param>ἡμέρᾳ</x-color> τῇ τρίτῃ
 
-    γάμος ἐγένετο <x-color><param>dark orange</param>ἐν Κανὰ τῆς Γαλιλαίας</x-color>,
+    γάμος ἐγένετο <x-color><param>orange</param>ἐν Κανὰ τῆς Γαλιλαίας</x-color>,
 
     καὶ ἦν <x-color><param>forest green</param>ἡ μήτηρ τοῦ Ἰησοῦ</x-color> ἐκεῖ
 
@@ -342,7 +342,7 @@ License: Public domain
                             σὺ               τετήρηκας <x-color><param>green</param>τὸν καλὸν οἶνον</x-color> ἕως ἄρτι.
 
 
-    11 Ταύτην ἐποίησεν ἀρχὴν τῶν σημείων ὁ Ἰησοῦς <x-color><param>dark orange</param>ἐν Κανὰ τῆς Γαλιλαίας</x-color>
+    11 Ταύτην ἐποίησεν ἀρχὴν τῶν σημείων ὁ Ἰησοῦς <x-color><param>orange</param>ἐν Κανὰ τῆς Γαλιλαίας</x-color>
 
     καὶ ἐφανέρωσεν τὴν δόξαν αὐτοῦ, καὶ ἐπίστευσαν εἰς αὐτὸν <x-color><param>dodger blue</param>οἱ μαθηταὶ αὐτοῦ</x-color>.
 
@@ -354,7 +354,7 @@ License: Public domain
 
     +^^^<italic>J2,13-2,23 Ἱεροσόλυμα W Jerozolimie: oczyszczenie świątyni</italic>
 
-    13 Καὶ ἐγγὺς ἦν <x-color><param>dark orange</param>τὸ πάσχα τῶν Ἰουδαίων</x-color>, καὶ ἀνέβη εἰς <x-color><param>red</param>Ἱεροσόλυμα</x-color> ὁ Ἰησοῦς.
+    13 Καὶ ἐγγὺς ἦν <x-color><param>orange</param>τὸ πάσχα τῶν Ἰουδαίων</x-color>, καὶ ἀνέβη εἰς <x-color><param>red</param>Ἱεροσόλυμα</x-color> ὁ Ἰησοῦς.
 
         +^^^
 
@@ -403,7 +403,7 @@ License: Public domain
 
         καὶ ἐπίστευσαν τῇ γραφῇ καὶ τῷ λόγῳ ὃν εἶπεν ὁ Ἰησοῦς.
 
-    23 Ὡς δὲ ἦν ἐν τοῖς <x-color><param>red</param>Ἱεροσολύμοις</x-color> ἐν <x-color><param>dark orange</param>τῷ πάσχα ἐν τῇ ἑορτῇ</x-color>,
+    23 Ὡς δὲ ἦν ἐν τοῖς <x-color><param>red</param>Ἱεροσολύμοις</x-color> ἐν <x-color><param>orange</param>τῷ πάσχα ἐν τῇ ἑορτῇ</x-color>,
 
     +,,,<italic>J2,24-3,21 Ἀμὴν ἀμὴν λέγω σοι Zaprawdę powiadam Ci, Nikodem</italic>
 
@@ -435,9 +435,9 @@ License: Public domain
 
         4 λέγει πρὸς αὐτὸν ὁ <x-color><param>blue</param>Νικόδημος</x-color>
 
-        Πῶς δύναται ἄνθρωπος <x-color><param>dark orange</param>γεννηθῆναι</x-color> γέρων ὤν;
+        Πῶς δύναται ἄνθρωπος <x-color><param>orange</param>γεννηθῆναι</x-color> γέρων ὤν;
 
-        μὴ δύναται εἰς τὴν κοιλίαν τῆς μητρὸς αὐτοῦ δεύτερον εἰσελθεῖν καὶ <x-color><param>dark orange</param>γεννηθῆναι</x-color>;
+        μὴ δύναται εἰς τὴν κοιλίαν τῆς μητρὸς αὐτοῦ δεύτερον εἰσελθεῖν καὶ <x-color><param>orange</param>γεννηθῆναι</x-color>;
 
 
         5 <x-color><param>cyan</param>ἀπεκρίθη Ἰησοῦς</x-color>
@@ -512,7 +512,7 @@ License: Public domain
 
             +---
 
-            29 Ὁ ἔχων τὴν <x-color><param>green</param>νύμφην        </x-color> <x-color><param>dark orange</param>νυμφίος ἐστίν</x-color>
+            29 Ὁ ἔχων τὴν <x-color><param>green</param>νύμφην        </x-color> <x-color><param>orange</param>νυμφίος ἐστίν</x-color>
 
             ὁ δὲ φίλος τοῦ <x-color><param>green</param>νυμφίου      </x-color> ὁ ἑστηκὼς              καὶ ἀκούων αὐτοῦ,
 
@@ -553,9 +553,9 @@ License: Public domain
            καὶ πάντα δέδωκεν ἐν τῇ χειρὶ αὐτοῦ.
 
 
-        36 ὁ <x-color><param>dark orange</param>πιστεύων εἰς τὸν Υἱὸν  </x-color> <x-color><param>forest green</param>ἔχει ζωὴν αἰώνιον</x-color>
+        36 ὁ <x-color><param>orange</param>πιστεύων εἰς τὸν Υἱὸν  </x-color> <x-color><param>forest green</param>ἔχει ζωὴν αἰώνιον</x-color>
 
-        ὁ δὲ <x-color><param>dark orange</param>ἀπειθῶν τῷ Υἱῷ        </x-color>  <x-color><param>forest green</param>οὐκ ὄψεται ζωήν</x-color>,
+        ὁ δὲ <x-color><param>orange</param>ἀπειθῶν τῷ Υἱῷ        </x-color>  <x-color><param>forest green</param>οὐκ ὄψεται ζωήν</x-color>,
 
                                      ἀλλ’ ἡ ὀργὴ τοῦ Θεοῦ μένει ἐπ’ αὐτόν.
 
@@ -628,9 +628,9 @@ License: Public domain
 
                 <x-color><param>magenta</param>λέγει αὐτῇ ὁ Ἰησοῦς</x-color>
 
-                    <x-color><param>dark orange</param>Καλῶς εἶπες ὅτι Ἄνδρα οὐκ ἔχω</x-color> 18 <x-color><param>dark orange</param>πέντε γὰρ ἄνδρας ἔσχες</x-color>,
+                    <x-color><param>orange</param>Καλῶς εἶπες ὅτι Ἄνδρα οὐκ ἔχω</x-color> 18 <x-color><param>orange</param>πέντε γὰρ ἄνδρας ἔσχες</x-color>,
 
-                    <x-color><param>dark orange</param>καὶ νῦν ὃν ἔχεις οὐκ ἔστιν σου ἀνήρ τοῦτο ἀληθὲς εἴρηκας</x-color>.
+                    <x-color><param>orange</param>καὶ νῦν ὃν ἔχεις οὐκ ἔστιν σου ἀνήρ τοῦτο ἀληθὲς εἴρηκας</x-color>.
                 19 <x-color><param>magenta</param>λέγει αὐτῷ ἡ γυνή</x-color>
 
                     <x-color><param>dark violet</param>Κύριε, θεωρῶ ὅτι προφήτης εἶ σύ.</x-color>
@@ -656,12 +656,12 @@ License: Public domain
 
                     <x-color><param>red</param>ὅτε   </x-color> οἱ ἀληθινοὶ <x-color><param>red</param>προσκυνηταὶ                     </x-color><x-color><param>cyan</param>προσκυνήσουσιν τῷ Πατρὶ</x-color>
 
-                    <x-color><param>dark orange</param>ἐν πνεύματι καὶ ἀληθείᾳ</x-color>
+                    <x-color><param>orange</param>ἐν πνεύματι καὶ ἀληθείᾳ</x-color>
 
                     καὶ γὰρ ὁ Πατὴρ τοιούτους ζητεῖ τοὺς <x-color><param>red</param>προσκυνοῦντας</x-color> αὐτόν
                     24 Πνεῦμα ὁ Θεός, καὶ τοὺς <x-color><param>red</param>προσκυνοῦντας</x-color>
 
-                    <x-color><param>dark orange</param>ἐν πνεύματι καὶ ἀληθείᾳ</x-color> δεῖ <x-color><param>red</param>προσκυνεῖν</x-color>.
+                    <x-color><param>orange</param>ἐν πνεύματι καὶ ἀληθείᾳ</x-color> δεῖ <x-color><param>red</param>προσκυνεῖν</x-color>.
                 25 <x-color><param>magenta</param>λέγει αὐτῷ ἡ γυνή</x-color>
 
                     <x-color><param>red</param>Οἶδα ὅτι Μεσσίας ἔρχεται, ὁ λεγόμενος Χριστός ὅταν ἔλθῃ ἐκεῖνος, ἀναγγελεῖ ἡμῖν ἅπαντα</x-color>.
@@ -678,7 +678,7 @@ License: Public domain
             ...
 
             καὶ λέγει τοῖς ἀνθρώποις
-            29 Δεῦτε ἴδετε ἄνθρωπον ὃς <x-color><param>dark orange</param>εἶπέν μοι πάντα ἃ ἐποίησα</x-color> <x-color><param>dark violet</param>μήτι οὗτός ἐστιν ὁ Χριστός</x-color>;
+            29 Δεῦτε ἴδετε ἄνθρωπον ὃς <x-color><param>orange</param>εἶπέν μοι πάντα ἃ ἐποίησα</x-color> <x-color><param>dark violet</param>μήτι οὗτός ἐστιν ὁ Χριστός</x-color>;
             30 ἐξῆλθον ἐκ τῆς πόλεως καὶ ἤρχοντο πρὸς αὐτόν.
 
             ...
@@ -727,7 +727,7 @@ License: Public domain
     44 αὐτὸς γὰρ Ἰησοῦς ἐμαρτύρησεν
 
     ὅτι προφήτης ἐν τῇ ἰδίᾳ πατρίδι τιμὴν οὐκ ἔχει.
-    45 ὅτε οὖν <x-color><param>dark orange</param>ἦλθεν εἰς τὴν Γαλιλαίαν</x-color>,
+    45 ὅτε οὖν <x-color><param>orange</param>ἦλθεν εἰς τὴν Γαλιλαίαν</x-color>,
 
     ἐδέξαντο αὐτὸν οἱ Γαλιλαῖοι,
 
@@ -742,7 +742,7 @@ License: Public domain
 
 
     Καὶ ἦν τις βασιλικὸς οὗ ὁ υἱὸς ἠσθένει ἐν Καφαρναούμ
-    47 οὗτος ἀκούσας ὅτι Ἰησοῦς <x-color><param>dark orange</param>ἥκει ἐκ τῆς Ἰουδαίας εἰς τὴν Γαλιλαίαν</x-color>,
+    47 οὗτος ἀκούσας ὅτι Ἰησοῦς <x-color><param>orange</param>ἥκει ἐκ τῆς Ἰουδαίας εἰς τὴν Γαλιλαίαν</x-color>,
 
     ἀπῆλθεν πρὸς αὐτὸν καὶ ἠρώτα ἵνα καταβῇ καὶ ἰάσηται αὐτοῦ τὸν υἱόν ἤμελλεν γὰρ ἀποθνήσκειν.
     48 εἶπεν οὖν ὁ Ἰησοῦς πρὸς αὐτόν
@@ -783,7 +783,7 @@ License: Public domain
     54 Τοῦτο δὲ πάλιν δεύτερον <x-color><param>red</param>σημεῖον</x-color> ἐποίησεν ὁ Ἰησοῦς
 
 
-    <x-color><param>dark orange</param>ἐλθὼν ἐκ τῆς Ἰουδαίας εἰς τὴν Γαλιλαίαν</x-color>.
+    <x-color><param>orange</param>ἐλθὼν ἐκ τῆς Ἰουδαίας εἰς τὴν Γαλιλαίαν</x-color>.
 
 
     1 Μετὰ ταῦτα ἦν ἑορτὴ τῶν Ἰουδαίων, καὶ ἀνέβη Ἰησοῦς εἰς Ἱεροσόλυμα.
@@ -829,13 +829,13 @@ License: Public domain
 
         +,,,
 
-        16 καὶ διὰ τοῦτο ἐδίωκον οἱ Ἰουδαῖοι τὸν Ἰησοῦν, ὅτι ταῦτα ἐποίει ἐν <x-color><param>dark orange</param>σαββάτῳ</x-color>.
+        16 καὶ διὰ τοῦτο ἐδίωκον οἱ Ἰουδαῖοι τὸν Ἰησοῦν, ὅτι ταῦτα ἐποίει ἐν <x-color><param>orange</param>σαββάτῳ</x-color>.
         17 ὁ δὲ ἀπεκρίνατο αὐτοῖς <x-color><param>magenta</param>Ὁ Πατήρ</x-color> μου ἕως ἄρτι ἐργάζεται, κἀγὼ ἐργάζομαι
          ---
 
         18 διὰ τοῦτο οὖν μᾶλλον ἐζήτουν αὐτὸν οἱ Ἰουδαῖοι ἀποκτεῖναι,
 
-        ὅτι οὐ μόνον ἔλυεν τὸ <x-color><param>dark orange</param>σάββατον</x-color>,
+        ὅτι οὐ μόνον ἔλυεν τὸ <x-color><param>orange</param>σάββατον</x-color>,
 
         ἀλλὰ καὶ <x-color><param>magenta</param>Πατέρα</x-color> ἴδιον ἔλεγεν <x-color><param>blue</param>τὸν Θεόν</x-color>,
 
@@ -856,9 +856,9 @@ License: Public domain
         20 ὁ γὰρ <x-color><param>magenta</param>Πατὴρ</x-color> φιλεῖ <x-color><param>magenta</param>τὸν Υἱὸν</x-color> καὶ πάντα δείκνυσιν αὐτῷ ἃ αὐτὸς ποιεῖ, καὶ μείζονα τούτων δείξει αὐτῷ ἔργα, ἵνα ὑμεῖς θαυμάζητε.
 
 
-        21 <x-color><param>dark orange</param>ὥσπερ</x-color> γὰρ <x-color><param>magenta</param>ὁ Πατὴρ</x-color> ἐγείρει τοὺς νεκροὺς καὶ <x-color><param>dark orange</param>ζωοποιεῖ</x-color>,
+        21 <x-color><param>orange</param>ὥσπερ</x-color> γὰρ <x-color><param>magenta</param>ὁ Πατὴρ</x-color> ἐγείρει τοὺς νεκροὺς καὶ <x-color><param>orange</param>ζωοποιεῖ</x-color>,
 
-        <x-color><param>dark orange</param>οὕτως</x-color> καὶ <x-color><param>magenta</param>ὁ Υἱὸς</x-color> οὓς θέλει <x-color><param>dark orange</param>ζωοποιεῖ</x-color>.
+        <x-color><param>orange</param>οὕτως</x-color> καὶ <x-color><param>magenta</param>ὁ Υἱὸς</x-color> οὓς θέλει <x-color><param>orange</param>ζωοποιεῖ</x-color>.
 
 
         22 οὐδὲ γὰρ <x-color><param>magenta</param>ὁ Πατὴρ</x-color> <x-color><param>red</param>κρίνει</x-color> οὐδένα,
@@ -901,9 +901,9 @@ License: Public domain
         καὶ οἱ <x-color><param>dark violet</param>ἀκούσαντες</x-color> ζήσουσιν.
 
 
-        26 <x-color><param>dark orange</param>ὥσπερ</x-color> γὰρ <x-color><param>magenta</param>ὁ Πατὴρ</x-color> <x-color><param>forest green</param>ἔχει ζωὴν ἐν ἑαυτῷ</x-color>,
+        26 <x-color><param>orange</param>ὥσπερ</x-color> γὰρ <x-color><param>magenta</param>ὁ Πατὴρ</x-color> <x-color><param>forest green</param>ἔχει ζωὴν ἐν ἑαυτῷ</x-color>,
 
-        <x-color><param>dark orange</param>οὕτως</x-color> καὶ <x-color><param>magenta</param>τῷ Υἱῷ</x-color> ἔδωκεν <x-color><param>forest green</param>ζωὴν ἔχειν ἐν ἑαυτῷ</x-color>.
+        <x-color><param>orange</param>οὕτως</x-color> καὶ <x-color><param>magenta</param>τῷ Υἱῷ</x-color> ἔδωκεν <x-color><param>forest green</param>ζωὴν ἔχειν ἐν ἑαυτῷ</x-color>.
 
 
         27 καὶ ἐξουσίαν ἔδωκεν αὐτῷ <x-color><param>red</param>κρίσιν</x-color> ποιεῖν,
