@@ -246,7 +246,7 @@ Michał Wilk
 
 +---<italic>Mk2,14-2,17 Powołanie Lewiego, w domu z celnikami</italic>
 
-14 καὶ παράγων εἶδεν <x-color><param>red</param><bold>Λευεὶν τὸν τοῦ Ἀλφαίου</bold></x-color> <x-color><param>magenta</param>καθήμενον</x-color> ἐπὶ <x-color><param>green</param>τὸ τελώνιον</x-color>,
+14 καὶ παράγων εἶδεν <x-color><param>red</param><bold>Λευεὶν τὸν τοῦ Ἀλφαίου</bold></x-color> <x-color><param>magenta</param>καθήμενον</x-color> ἐπὶ τὸ τελώνιον,
 
 καὶ λέγει αὐτῷ <x-color><param>cyan</param><bold>Ἀκολούθει</bold></x-color> μοι.
 
@@ -255,33 +255,31 @@ Michał Wilk
 
 15 Καὶ γίνεται <x-color><param>magenta</param>κατακεῖσθαι</x-color> αὐτὸν ἐν τῇ οἰκίᾳ αὐτοῦ,
 
-καὶ πολλοὶ <x-color><param>green</param>τελῶναι</x-color> καὶ <x-color><param>cyan</param>ἁμαρτωλοὶ</x-color> συνανέκειντο
-
-τῷ Ἰησοῦ καὶ <x-color><param>dark violet</param>τοῖς μαθηταῖς αὐτοῦ</x-color>,
+καὶ πολλοὶ <x-color><param>green</param>τελῶναι καὶ ἁμαρτωλοὶ συνανέκειντο</x-color> τῷ Ἰησοῦ καὶ τοῖς μαθηταῖς αὐτοῦ,
 
 ἦσαν γὰρ πολλοὶ καὶ <x-color><param>cyan</param>ἠκολούθουν</x-color> αὐτῷ.
 
 ---
 
-16 καὶ <x-color><param>cyan</param>οἱ γραμματεῖς τῶν Φαρισαίων</x-color> <x-color><param>forest green</param>ἰδόντες</x-color>
+16 καὶ οἱ γραμματεῖς τῶν Φαρισαίων ἰδόντες
 
-    <x-color><param>magenta</param>ὅτι ἐσθίει μετὰ τῶν ἁμαρτωλῶν καὶ τελωνῶν</x-color>,
+    <x-color><param>green</param>ὅτι ἐσθίει μετὰ τῶν ἁμαρτωλῶν καὶ τελωνῶν</x-color>,
 
-        <x-color><param>orange</param>ἔλεγον</x-color> <x-color><param>cyan</param>τοῖς μαθηταῖς αὐτοῦ</x-color>
+        <x-color><param>orange</param>ἔλεγον</x-color> τοῖς μαθηταῖς αὐτοῦ
 
 
-<x-color><param>magenta</param>Ὅτι μετὰ τῶν τελωνῶν καὶ ἁμαρτωλῶν ἐσθίει</x-color>;
+<x-color><param>green</param>Ὅτι μετὰ τῶν τελωνῶν καὶ ἁμαρτωλῶν ἐσθίει</x-color>;
 
-    17 καὶ <x-color><param>forest green</param>ἀκούσας</x-color> <x-color><param>cyan</param>ὁ Ἰησοῦς</x-color>
+    17 καὶ ἀκούσας ὁ Ἰησοῦς
 
-        <x-color><param>orange</param>λέγει</x-color> <x-color><param>cyan</param>αὐτοῖς</x-color>
+        <x-color><param>orange</param>λέγει</x-color> αὐτοῖς
 
 ...
 
-<x-color><param>cyan</param>Οὐ</x-color> χρείαν ἔχουσιν οἱ ἰσχύοντες ἰατροῦ     <x-color><param>cyan</param>ἀλλ’</x-color> οἱ κακῶς ἔχοντες
+<x-color><param>blue</param>Οὐ</x-color> χρείαν ἔχουσιν οἱ ἰσχύοντες ἰατροῦ     <x-color><param>firebrick</param>ἀλλ’</x-color> οἱ κακῶς ἔχοντες
 
 
-<x-color><param>cyan</param>οὐκ</x-color> ἦλθον καλέσαι δικαίους                <x-color><param>cyan</param>ἀλλὰ</x-color> ἁμαρτωλούς.
+<x-color><param>blue</param>οὐκ</x-color> ἦλθον καλέσαι δικαίους                <x-color><param>firebrick</param>ἀλλὰ</x-color> ἁμαρτωλούς.
 
     +~~~<italic>Mk2,18-2,22 Sprawa postów</italic>
 
@@ -389,26 +387,22 @@ Michał Wilk
 
 +---<italic>Mk3,7-3,19 Napływ tłumów, wybór dwunastu</italic>
 
-7 Καὶ ὁ Ἰησοῦς μετὰ τῶν μαθητῶν αὐτοῦ
-
-<x-color><param>magenta</param>ἀνεχώρησεν πρὸς τὴν θάλασσαν</x-color>
+7 Καὶ ὁ Ἰησοῦς μετὰ τῶν μαθητῶν αὐτοῦ <x-color><param>magenta</param>ἀνεχώρησεν πρὸς τὴν θάλασσαν</x-color>
 
 καὶ <x-color><param>green</param>πολὺ πλῆθος</x-color> ἀπὸ τῆς Γαλιλαίας <x-color><param>cyan</param><bold>ἠκολούθησεν</bold></x-color>
 
-            καὶ ἀπὸ τῆς Ἰουδαίας
-            8 καὶ ἀπὸ Ἱεροσολύμων
+    καὶ ἀπὸ τῆς Ἰουδαίας
+    8 καὶ ἀπὸ Ἱεροσολύμων
 
-            καὶ ἀπὸ τῆς Ἰδουμαίας
+    καὶ ἀπὸ τῆς Ἰδουμαίας
 
-            καὶ πέραν τοῦ Ἰορδάνου
+    καὶ πέραν τοῦ Ἰορδάνου
 
-            καὶ περὶ Τύρον
+    καὶ περὶ Τύρον
 
-            καὶ Σιδῶνα,
+    καὶ Σιδῶνα,
 
-    <x-color><param>green</param>πλῆθος πολύ</x-color>,
-
-    ἀκούοντες ὅσα ποιεῖ, <x-color><param>dodger blue</param>ἦλθον πρὸς αὐτόν</x-color>.
+<x-color><param>green</param>πλῆθος πολύ</x-color>, ἀκούοντες ὅσα ποιεῖ, <x-color><param>dodger blue</param>ἦλθον πρὸς αὐτόν</x-color>.
 
 
 9 καὶ εἶπεν τοῖς μαθηταῖς αὐτοῦ
@@ -445,10 +439,10 @@ Michał Wilk
 
 ...
 
-<x-color><param>orange</param>καὶ ἐπέθηκεν ὄνομα</x-color> τῷ <x-color><param>red</param><bold>Σίμωνι Πέτρον</bold></x-color>
+<x-color><param>magenta</param>καὶ ἐπέθηκεν ὄνομα τῷ</x-color> <x-color><param>red</param><bold>Σίμωνι Πέτρον</bold></x-color>
     17 καὶ <x-color><param>red</param><bold>Ἰάκωβον τὸν τοῦ Ζεβεδαίου</bold></x-color> καὶ <x-color><param>red</param><bold>Ἰωάνην τὸν ἀδελφὸν τοῦ Ἰακώβου</bold></x-color>,
 
-<x-color><param>orange</param>καὶ ἐπέθηκεν</x-color> αὐτοῖς <x-color><param>orange</param>ὄνομα</x-color> Βοανηργές, ὅ ἐστιν Υἱοὶ Βροντῆς
+<x-color><param>magenta</param>καὶ ἐπέθηκεν αὐτοῖς ὄνομα</x-color> Βοανηργές, ὅ ἐστιν Υἱοὶ Βροντῆς
     18 καὶ <x-color><param>red</param><bold>Ἀνδρέαν</bold></x-color>
 
     καὶ <x-color><param>red</param><bold>Φίλιππον</bold></x-color> καὶ <x-color><param>red</param><bold>Βαρθολομαῖον</bold></x-color>
