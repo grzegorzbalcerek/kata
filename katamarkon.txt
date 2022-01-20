@@ -294,71 +294,74 @@ Michał Wilk
 
         οἱ δὲ σοὶ μαθηταὶ <x-color><param>blue</param>οὐ νηστεύουσιν</x-color>;
 
-    ---
+    ...
 
     19 καὶ εἶπεν αὐτοῖς ὁ Ἰησοῦς
 
 
-    Μὴ δύνανται οἱ υἱοὶ τοῦ <x-color><param>blue</param>νυμφῶνος</x-color> ἐν ᾧ ὁ νυμφίος μετ’ αὐτῶν ἐστιν <x-color><param>blue</param>νηστεύειν</x-color>;
+    Μὴ δύνανται οἱ υἱοὶ τοῦ <x-color><param>dodger blue</param>νυμφῶνος</x-color> ἐν ᾧ ὁ νυμφίος μετ’ αὐτῶν ἐστιν <x-color><param>blue</param>νηστεύειν</x-color>;
 
-    ὅσον χρόνον ἔχουσιν τὸν <x-color><param>blue</param>νυμφίον</x-color> μετ’ αὐτῶν, οὐ δύνανται <x-color><param>blue</param>νηστεύειν</x-color>.
+    ὅσον χρόνον ἔχουσιν τὸν <x-color><param>dodger blue</param>νυμφίον</x-color> μετ’ αὐτῶν, οὐ δύνανται <x-color><param>blue</param>νηστεύειν</x-color>.
 
 
-    20 ἐλεύσονται <x-color><param>magenta</param>δὲ ἡμέραι</x-color> ὅταν ἀπαρθῇ ἀπ’ αὐτῶν ὁ νυμφίος,
+    20 ἐλεύσονται <x-color><param>magenta</param>δὲ ἡμέραι</x-color> ὅταν ἀπαρθῇ ἀπ’ αὐτῶν ὁ <x-color><param>dodger blue</param>νυμφίος</x-color>,
 
-    καὶ τότε νηστεύσουσιν ἐν ἐκείνῃ <x-color><param>magenta</param>τῇ ἡμέρᾳ</x-color>.
+    καὶ τότε <x-color><param>blue</param>νηστεύσουσιν</x-color> ἐν ἐκείνῃ <x-color><param>magenta</param>τῇ ἡμέρᾳ</x-color>.
 
     ---
 
-    21 <x-color><param>green</param>Οὐδεὶς</x-color> ἐπίβλημα ῥάκους ἀγνάφου ἐπιράπτει ἐπὶ ἱμάτιον <x-color><param>magenta</param>παλαιόν</x-color>
+    21 <x-color><param>green</param>Οὐδεὶς</x-color> ἐπίβλημα ῥάκους ἀγνάφου ἐπιράπτει ἐπὶ ἱμάτιον <x-color><param>dark khaki</param>παλαιόν</x-color>
 
-    <x-color><param>cyan</param>εἰ δὲ μή</x-color>, αἴρει τὸ πλήρωμα ἀπ’ αὐτοῦ τὸ <x-color><param>blue</param>καινὸν</x-color> τοῦ <x-color><param>magenta</param>παλαιοῦ</x-color>,
+    <x-color><param>cyan</param>εἰ δὲ μή</x-color>, αἴρει τὸ πλήρωμα ἀπ’ αὐτοῦ τὸ <x-color><param>firebrick</param>καινὸν</x-color> τοῦ <x-color><param>dark khaki</param>παλαιοῦ</x-color>,
 
        καὶ χεῖρον σχίσμα γίνεται.
 
+    ...
 
-    22 καὶ <x-color><param>green</param>οὐδεὶς</x-color> βάλλει οἶνον νέον εἰς <x-color><param>cyan</param>ἀσκοὺς</x-color> <x-color><param>magenta</param>παλαιούς</x-color>
+    22 καὶ <x-color><param>green</param>οὐδεὶς</x-color> βάλλει οἶνον νέον εἰς ἀσκοὺς <x-color><param>dark khaki</param>παλαιούς</x-color>
 
-    <x-color><param>cyan</param>εἰ δὲ μή</x-color>, ῥήξει ὁ οἶνος τοὺς <x-color><param>cyan</param>ἀσκούς</x-color>,
+    <x-color><param>cyan</param>εἰ δὲ μή</x-color>, ῥήξει ὁ οἶνος τοὺς ἀσκούς,
 
-       καὶ ὁ οἶνος ἀπόλλυται καὶ οἱ <x-color><param>cyan</param>ἀσκοί</x-color>. ἀλλὰ οἶνον νέον εἰς <x-color><param>cyan</param>ἀσκοὺς</x-color> <x-color><param>blue</param>καινούς</x-color>.
+        καὶ ὁ οἶνος ἀπόλλυται καὶ οἱ ἀσκοί.
 
-    +~~~<italic>Mk2,23-2,28 Łuskanie kłosów w szabat, przykład Dawida</italic>
+        ἀλλὰ οἶνον νέον εἰς ἀσκοὺς <x-color><param>firebrick</param>καινούς</x-color>.
+
+    +~~~<italic>Mk2,23-3,6 Szabat</italic>
 
     23 Καὶ ἐγένετο αὐτὸν ἐν τοῖς <x-color><param>red</param>σάββασιν</x-color> παραπορεύεσθαι διὰ τῶν σπορίμων,
 
     καὶ οἱ μαθηταὶ αὐτοῦ ἤρξαντο ὁδὸν ποιεῖν τίλλοντες τοὺς στάχυας.
-    24 καὶ οἱ Φαρισαῖοι <x-color><param>green</param>ἔλεγον αὐτῷ</x-color> Ἴδε τί ποιοῦσιν τοῖς <x-color><param>red</param>σάββασιν</x-color> <x-color><param>cyan</param>ὃ οὐκ ἔξεστιν</x-color>;
+    24 καὶ οἱ <x-color><param>dark khaki</param>Φαρισαῖοι</x-color> <x-color><param>green</param>ἔλεγον αὐτῷ</x-color> Ἴδε τί ποιοῦσιν τοῖς <x-color><param>red</param>σάββασιν</x-color> <x-color><param>dark violet</param>ὃ οὐκ ἔξεστιν</x-color>;
 
 
     25 καὶ <x-color><param>green</param>λέγει αὐτοῖς</x-color> Οὐδέποτε ἀνέγνωτε τί ἐποίησεν Δαυείδ,
 
-    ὅτε χρείαν ἔσχεν καὶ ἐπείνασεν αὐτὸς καὶ <x-color><param>magenta</param>οἱ μετ’ αὐτοῦ</x-color>;
+    ὅτε χρείαν ἔσχεν καὶ ἐπείνασεν αὐτὸς καὶ οἱ μετ’ αὐτοῦ;
     26 πῶς εἰσῆλθεν εἰς τὸν οἶκον τοῦ Θεοῦ ἐπὶ Ἀβιαθὰρ ἀρχιερέως
 
     καὶ τοὺς ἄρτους τῆς προθέσεως ἔφαγεν,
 
-    <x-color><param>cyan</param>οὓς οὐκ ἔξεστιν</x-color> φαγεῖν εἰ μὴ τοὺς ἱερεῖς,
+    <x-color><param>dark violet</param>οὓς οὐκ ἔξεστιν</x-color> φαγεῖν εἰ μὴ τοὺς ἱερεῖς,
 
-    καὶ ἔδωκεν <x-color><param>magenta</param>καὶ τοῖς σὺν αὐτῷ</x-color> οὖσιν;
+    καὶ ἔδωκεν καὶ τοῖς σὺν αὐτῷ οὖσιν;
+
+        +~~~
+
+        27 καὶ ἔλεγεν αὐτοῖς
+
+            Τὸ <x-color><param>red</param>σάββατον</x-color> διὰ τὸν <x-color><param>dodger blue</param>ἄνθρωπον</x-color> ἐγένετο,
+
+            καὶ οὐχ ὁ <x-color><param>dodger blue</param>ἄνθρωπος</x-color> διὰ τὸ <x-color><param>red</param>σάββατον</x-color>
+        28 ὥστε κύριός ἐστιν ὁ Υἱὸς τοῦ <x-color><param>dodger blue</param>ἀνθρώπου</x-color> καὶ τοῦ <x-color><param>red</param>σαββάτου</x-color>.
 
 
-    27 καὶ ἔλεγεν αὐτοῖς
+    1 Καὶ εἰσῆλθεν πάλιν εἰς συναγωγήν,
 
-        Τὸ <x-color><param>red</param>σάββατον</x-color> διὰ τὸν <x-color><param>dodger blue</param>ἄνθρωπον</x-color> ἐγένετο,
-
-        καὶ οὐχ ὁ <x-color><param>dodger blue</param>ἄνθρωπος</x-color> διὰ τὸ <x-color><param>red</param>σάββατον</x-color>
-    28 ὥστε κύριός ἐστιν ὁ Υἱὸς τοῦ <x-color><param>dodger blue</param>ἀνθρώπου</x-color> καὶ τοῦ <x-color><param>red</param>σαββάτου</x-color>.
-
-    +~~~<italic>Mk3,1-3,6 Uzdrowienie człowieka z usniętą ręką w szabat</italic>
-
-    1 Καὶ <x-color><param>magenta</param>εἰσῆλθεν πάλιν εἰς συναγωγήν</x-color>,
-
-    καὶ ἦν ἐκεῖ ἄνθρωπος <x-color><param>orange</param>ἐξηραμμένην ἔχων τὴν χεῖρα</x-color>
+    καὶ ἦν ἐκεῖ ἄνθρωπος ἐξηραμμένην ἔχων τὴν χεῖρα
 
     2 καὶ παρετήρουν αὐτὸν εἰ τοῖς <x-color><param>red</param>σάββασιν</x-color> θεραπεύσει αὐτόν, ἵνα κατηγορήσωσιν αὐτοῦ.
-    3 καὶ <x-color><param>green</param>λέγει τῷ ἀνθρώπῳ</x-color> <x-color><param>orange</param>τῷ τὴν χεῖρα ἔχοντι ξηράν</x-color> <x-color><param>cyan</param>Ἔγειρε εἰς τὸ μέσον</x-color>.
-    4 καὶ <x-color><param>green</param>λέγει αὐτοῖς</x-color> Ἔξεστιν τοῖς <x-color><param>red</param>σάββασιν</x-color>
+    3 καὶ <x-color><param>green</param>λέγει τῷ ἀνθρώπῳ</x-color> τῷ τὴν χεῖρα ἔχοντι ξηράν Ἔγειρε εἰς τὸ μέσον.
+    4 καὶ <x-color><param>green</param>λέγει αὐτοῖς</x-color> <x-color><param>dark violet</param>Ἔξεστιν</x-color> τοῖς <x-color><param>red</param>σάββασιν</x-color>
 
         ἀγαθὸν ποιῆσαι ἢ κακοποιῆσαι,
 
@@ -369,16 +372,16 @@ Michał Wilk
 
         συνλυπούμενος ἐπὶ τῇ πωρώσει τῆς καρδίας αὐτῶν,
 
-    
 
-    <x-color><param>green</param>λέγει τῷ ἀνθρώπῳ</x-color> <x-color><param>cyan</param>Ἔκτεινον τὴν χεῖρα</x-color>.
+    <x-color><param>green</param>λέγει τῷ ἀνθρώπῳ</x-color> Ἔκτεινον τὴν χεῖρα.
 
         καὶ ἐξέτεινεν,
 
         καὶ ἀπεκατεστάθη ἡ χεὶρ αὐτοῦ.
 
+    ---
 
-    6 καὶ ἐξελθόντες οἱ Φαρισαῖοι εὐθὺς μετὰ τῶν Ἡρῳδιανῶν
+    6 καὶ ἐξελθόντες οἱ <x-color><param>dark khaki</param>Φαρισαῖοι</x-color> εὐθὺς μετὰ τῶν Ἡρῳδιανῶν
 
         συμβούλιον ἐδίδουν κατ’ αὐτοῦ,
 
