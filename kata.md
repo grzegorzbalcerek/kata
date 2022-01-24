@@ -12,5 +12,6 @@ alias eg='(evince out/gr$(basename -s .txt $E).pdf)'
 alias ep='(evince out/pl$(basename -s .txt $E).pdf)'
 alias ig='inkscape out/gr$(basename -s .txt $E).svg'
 alias ip='inkscape out/pl$(basename -s .txt pl/$E).svg'
+alias p='cp -vf out/*.png ~/img/kata/'
 alias c='rm -rf out'
 ```
