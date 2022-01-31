@@ -405,9 +405,9 @@ License: Public domain
 
     23 Ὡς δὲ ἦν ἐν τοῖς <x-color><param>red</param>Ἱεροσολύμοις</x-color> ἐν <x-color><param>orange</param>τῷ πάσχα ἐν τῇ ἑορτῇ</x-color>,
 
-    +,,,<italic>J2,24-3,21 Ἀμὴν ἀμὴν λέγω σοι Zaprawdę powiadam Ci, Nikodem</italic>
+    +***<italic>J2,24-3,21 Ἀμὴν ἀμὴν λέγω σοι Zaprawdę powiadam Ci, Nikodem</italic>
 
-        +,,,
+        +***
 
         πολλοὶ ἐπίστευσαν εἰς τὸ ὄνομα αὐτοῦ, θεωροῦντες αὐτοῦ <x-color><param>magenta</param>τὰ σημεῖα ἃ ἐποίει</x-color>
         24 αὐτὸς δὲ Ἰησοῦς οὐκ ἐπίστευεν αὑτὸν αὐτοῖς διὰ τὸ αὐτὸν γινώσκειν πάντας,
@@ -431,7 +431,7 @@ License: Public domain
         ἐὰν μή τις γεννηθῇ ἄνωθεν,
 
         οὐ δύναται ἰδεῖν τὴν βασιλείαν τοῦ Θεοῦ.
-        +,,,
+        +***
 
         4 λέγει πρὸς αὐτὸν ὁ <x-color><param>blue</param>Νικόδημος</x-color>
 
@@ -450,7 +450,7 @@ License: Public domain
         8 τὸ πνεῦμα ὅπου θέλει πνεῖ, καὶ τὴν φωνὴν αὐτοῦ ἀκούεις,
 
         ἀλλ’ οὐκ οἶδας πόθεν ἔρχεται καὶ ποῦ ὑπάγει οὕτως ἐστὶν πᾶς ὁ γεγεννημένος ἐκ τοῦ Πνεύματος.
-        +,,,
+        +***
 
         9 ἀπεκρίθη <x-color><param>blue</param>Νικόδημος</x-color> καὶ εἶπεν αὐτῷ Πῶς δύναται ταῦτα γενέσθαι;
         10 <x-color><param>cyan</param>ἀπεκρίθη Ἰησοῦς</x-color> καὶ εἶπεν αὐτῷ Σὺ εἶ ὁ διδάσκαλος τοῦ Ἰσραὴλ καὶ ταῦτα οὐ γινώσκεις;
@@ -475,7 +475,7 @@ License: Public domain
 
 εἰς <x-color><param>dark violet</param>τὴν Ἰουδαίαν</x-color> γῆν,
 
-καὶ ἐκεῖ διέτριβεν <x-display><param>(disable-eval (disable-eval (disable-eval (height 0.5))))</param>przebywał</x-display> μετ’ αὐτῶν καὶ <x-color><param>dark violet</param>ἐβάπτιζεν</x-color>.
+καὶ ἐκεῖ διέτριβεν <x-display><param>(disable-eval (disable-eval (disable-eval (disable-eval (height 0.5)))))</param>przebywał</x-display> μετ’ αὐτῶν καὶ <x-color><param>dark violet</param>ἐβάπτιζεν</x-color>.
 
     +---
 
@@ -569,7 +569,7 @@ License: Public domain
     καὶ <x-color><param>cyan</param>βαπτίζει ἢ Ἰωάνης</x-color>,
 
 
-2 καίτοιγε <x-display><param>(disable-eval (disable-eval (disable-eval (height 0.5))))</param>chociaż</x-display> <x-color><param>dark violet</param>Ἰησοῦς</x-color> αὐτὸς
+2 καίτοιγε <x-display><param>(disable-eval (disable-eval (disable-eval (disable-eval (height 0.5)))))</param>chociaż</x-display> <x-color><param>dark violet</param>Ἰησοῦς</x-color> αὐτὸς
 
 οὐκ <x-color><param>dark violet</param>ἐβάπτιζεν</x-color>
 
@@ -825,9 +825,9 @@ License: Public domain
     14 Μετὰ ταῦτα εὑρίσκει αὐτὸν ὁ Ἰησοῦς ἐν τῷ ἱερῷ καὶ εἶπεν αὐτῷ Ἴδε ὑγιὴς γέγονας μηκέτι ἁμάρτανε, ἵνα μὴ χεῖρόν σοί τι γένηται.
     15 ἀπῆλθεν ὁ ἄνθρωπος καὶ εἶπεν τοῖς Ἰουδαίοις ὅτι Ἰησοῦς ἐστιν ὁ ποιήσας αὐτὸν ὑγιῆ.
 
-    +,,,<italic>J5,16-5,30 Ἀμὴν ἀμὴν λέγω ὑμῖν Zaprawdę powiadam Wam</italic>
+    +***<italic>J5,16-5,30 Ἀμὴν ἀμὴν λέγω ὑμῖν Zaprawdę powiadam Wam</italic>
 
-        +,,,
+        +***
 
         16 καὶ διὰ τοῦτο ἐδίωκον οἱ Ἰουδαῖοι τὸν Ἰησοῦν, ὅτι ταῦτα ἐποίει ἐν <x-color><param>orange</param>σαββάτῳ</x-color>.
         17 ὁ δὲ ἀπεκρίνατο αὐτοῖς <x-color><param>magenta</param>Ὁ Πατήρ</x-color> μου ἕως ἄρτι ἐργάζεται, κἀγὼ ἐργάζομαι
@@ -841,7 +841,7 @@ License: Public domain
 
         ἴσον ἑαυτὸν ποιῶν <x-color><param>blue</param>τῷ Θεῷ</x-color>.
 
-        +,,,
+        +***
 
         19 Ἀπεκρίνατο οὖν ὁ Ἰησοῦς καὶ ἔλεγεν αὐτοῖς <x-color><param>red</param><bold>Ἀμὴν ἀμὴν λέγω ὑμῖν</bold></x-color>,
 
@@ -875,7 +875,7 @@ License: Public domain
 
         οὐ τιμᾷ <x-color><param>magenta</param>τὸν Πατέρα</x-color> τὸν πέμψαντα αὐτόν.
 
-        +,,,
+        +***
 
         24 <x-color><param>red</param><bold>ἀμὴν ἀμὴν λέγω ὑμῖν</bold></x-color>
 
@@ -887,7 +887,7 @@ License: Public domain
 
         ἀλλὰ μεταβέβηκεν ἐκ τοῦ θανάτου εἰς τὴν <x-color><param>blue</param>ζωήν</x-color>.
 
-        +,,,
+        +***
 
         25 <x-color><param>red</param><bold>ἀμὴν ἀμὴν λέγω ὑμῖν</bold></x-color>
 
