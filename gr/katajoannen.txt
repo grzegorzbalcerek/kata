@@ -14,16 +14,12 @@ and 1913 (www.archive.org/details/hkainediathekete00lond) editions of the Eberha
 Edited by Diego Santos
 License: Public domain
 
-* <bold>J1,1-1,14 Prolog</bold>
+* <bold>J1,1-14 Prolog</bold>
 
-+---
++---J1,1-14 <x-color><param>blue</param>Prolog</x-color>
+1 Ἐν ἀρχῇ ἦν <x-color><param>cyan</param>ὁ Λόγος</x-color>,        καὶ ὁ Λόγος ἦν <x-color><param>green</param>πρὸς τὸν Θεόν</x-color>,
 
-1 Ἐν ἀρχῇ ἦν <x-color><param>cyan</param>ὁ Λόγος</x-color>,
-
-καὶ ὁ Λόγος ἦν <x-color><param>green</param>πρὸς τὸν Θεόν</x-color>,
-
-καὶ Θεὸς ἦν <x-color><param>cyan</param>ὁ Λόγος</x-color>.
-2 Οὗτος ἦν ἐν ἀρχῇ <x-color><param>green</param>πρὸς τὸν Θεόν</x-color>.
+καὶ Θεὸς ἦν <x-color><param>cyan</param>ὁ Λόγος</x-color>.         2 Οὗτος ἦν ἐν ἀρχῇ <x-color><param>green</param>πρὸς τὸν Θεόν</x-color>.
 
 
 3 πάντα δι’ <x-color><param>orange</param>αὐτοῦ ἐγένετο</x-color>,
@@ -31,29 +27,25 @@ License: Public domain
 καὶ χωρὶς <x-color><param>orange</param>αὐτοῦ ἐγένετο</x-color> οὐδὲ ἕν ὃ γέγονεν.
 
 
-4 ἐν αὐτῷ <x-color><param>dodger blue</param>ζωὴ ἦν</x-color>,
+4 ἐν αὐτῷ <x-color><param>dodger blue</param>ζωὴ ἦν</x-color>, καὶ ἡ <x-color><param>dodger blue</param>ζωὴ ἦν</x-color> <x-color><param>saddle brown</param>τὸ φῶς</x-color> τῶν ἀνθρώπων.
 
-καὶ ἡ <x-color><param>dodger blue</param>ζωὴ ἦν</x-color> <x-color><param>saddle brown</param>τὸ φῶς</x-color> τῶν ἀνθρώπων.
-
-5 καὶ <x-color><param>saddle brown</param>τὸ φῶς</x-color> ἐν τῇ <x-color><param>dodger blue</param>σκοτίᾳ</x-color> φαίνει,
-
-καὶ ἡ <x-color><param>dodger blue</param>σκοτία</x-color> αὐτὸ οὐ κατέλαβεν.
+5 καὶ <x-color><param>saddle brown</param>τὸ φῶς</x-color> ἐν τῇ <x-color><param>dodger blue</param>σκοτίᾳ</x-color> φαίνει, καὶ ἡ <x-color><param>dodger blue</param>σκοτία</x-color> αὐτὸ οὐ κατέλαβεν.
 
 
 6 Ἐγένετο ἄνθρωπος, ἀπεσταλμένος παρὰ Θεοῦ, ὄνομα αὐτῷ Ἰωάνης
-7 οὗτος ἦλθεν εἰς μαρτυρίαν,
+7 οὗτος ἦλθεν εἰς <x-color><param>forest green</param>μαρτυρίαν</x-color>,
 
-ἵνα <x-color><param>forest green</param>μαρτυρήσῃ</x-color> περὶ τοῦ φωτός,
+ἵνα <x-color><param>forest green</param>μαρτυρήσῃ</x-color> περὶ <x-color><param>saddle brown</param>τοῦ φωτός</x-color>,
 
 ἵνα πάντες πιστεύσωσιν δι’ αὐτοῦ.
 
 
-8 οὐκ ἦν ἐκεῖνος τὸ φῶς,
+8 οὐκ ἦν ἐκεῖνος <x-color><param>saddle brown</param>τὸ φῶς</x-color>,
 
-ἀλλ’ ἵνα <x-color><param>forest green</param>μαρτυρήσῃ</x-color> περὶ τοῦ φωτός.
-9 Ἦν τὸ <x-color><param>orange</param>φῶς</x-color> τὸ ἀληθινὸν,
+ἀλλ’ ἵνα <x-color><param>forest green</param>μαρτυρήσῃ</x-color> περὶ <x-color><param>saddle brown</param>τοῦ φωτός</x-color>.
+9 Ἦν <x-color><param>saddle brown</param>τὸ φῶς</x-color> τὸ ἀληθινὸν,
 
-ὃ <x-color><param>orange</param>φωτίζει</x-color> πάντα ἄνθρωπον,
+ὃ <x-color><param>saddle brown</param>φωτίζει</x-color> πάντα ἄνθρωπον,
 
 
 ἐρχόμενον εἰς τὸν <x-color><param>magenta</param>κόσμον</x-color>.
@@ -96,29 +88,20 @@ License: Public domain
 
 * <bold>J1,15-J5,47</bold>
 
-+---<italic>J1,15-1,36 Ἰωάνης μαρτυρεῖ Świadectwo Jana</italic>
++---<italic>J1,15-36 <x-color><param>blue</param>Ἰωάνης μαρτυρεῖ Świadectwo Jana</x-color></italic>
 
-15 Ἰωάνης <x-color><param>red</param><bold>μαρτυρεῖ</bold></x-color> περὶ αὐτοῦ καὶ κέκραγεν λέγων
+15 Ἰωάνης <bold><x-color><param>blue</param>μαρτυρεῖ</x-color></bold> περὶ αὐτοῦ καὶ κέκραγεν λέγων
 
     +---
 
-    <x-color><param>dark violet</param>Οὗτος ἦν ὃν εἶπον</x-color>
+    <x-color><param>dark violet</param>Οὗτος</x-color> ἦν ὃν <x-color><param>dark violet</param>εἶπον Ὁ ὀπίσω μου ἐρχόμενος</x-color>
 
-    <x-color><param>dark violet</param>Ὁ ὀπίσω μου ἐρχόμενος</x-color>
-
-    <x-color><param>dark violet</param>ἔμπροσθέν μου γέγονεν,</x-color>
-
-    <x-color><param>dark violet</param>ὅτι πρῶτός μου ἦν.</x-color>
+    <x-color><param>dark violet</param>ἔμπροσθέν μου γέγονεν, ὅτι πρῶτός μου ἦν</x-color>.
         +---
 
-        16 <x-color><param>cyan</param>ὅτι</x-color> ἐκ τοῦ πληρώματος αὐτοῦ ἡμεῖς πάντες ἐλάβομεν,
+        16 <x-color><param>cyan</param>ὅτι</x-color> ἐκ τοῦ πληρώματος αὐτοῦ ἡμεῖς πάντες ἐλάβομεν, καὶ <x-color><param>dodger blue</param>χάριν</x-color> ἀντὶ <x-color><param>dodger blue</param>χάριτος</x-color>
 
-        καὶ <x-color><param>dodger blue</param>χάριν</x-color> ἀντὶ <x-color><param>dodger blue</param>χάριτος</x-color>
-
-
-        17 <x-color><param>cyan</param>ὅτι</x-color> ὁ νόμος διὰ <bold><x-color><param>red</param>Μωϋσέως</x-color></bold> ἐδόθη,
-
-        ἡ <x-color><param>dodger blue</param>χάρις</x-color> καὶ ἡ ἀλήθεια διὰ Ἰησοῦ Χριστοῦ ἐγένετο.
+        17 <x-color><param>cyan</param>ὅτι</x-color> ὁ νόμος διὰ <bold><x-color><param>red</param>Μωϋσέως</x-color></bold> ἐδόθη, ἡ <x-color><param>dodger blue</param>χάρις</x-color> καὶ ἡ ἀλήθεια διὰ Ἰησοῦ Χριστοῦ ἐγένετο.
 
 
         18 Θεὸν οὐδεὶς <bold><x-color><param>red</param>ἑώρακεν πώποτε</x-color></bold>
@@ -126,14 +109,14 @@ License: Public domain
         μονογενὴς Θεὸς ὁ ὢν εἰς τὸν κόλπον τοῦ Πατρὸς, ἐκεῖνος ἐξηγήσατο.
 
 
-       19 Καὶ αὕτη ἐστὶν ἡ <x-color><param>red</param><bold>μαρτυρία</bold></x-color> τοῦ Ἰωάνου
+        19 Καὶ αὕτη ἐστὶν ἡ <bold><x-color><param>blue</param>μαρτυρία</x-color></bold> τοῦ Ἰωάνου
 
         +---
 
         ὅτε <x-color><param>green</param>ἀπέστειλαν</x-color> πρὸς αὐτὸν οἱ Ἰουδαῖοι ἐξ Ἱεροσολύμων <x-color><param>orange</param>ἱερεῖς καὶ Λευείτας</x-color> ἵνα <x-color><param>magenta</param>ἐρωτήσωσιν</x-color> αὐτόν
 
         Σὺ τίς εἶ; 20 καὶ ὡμολόγησεν καὶ οὐκ ἠρνήσατο, καὶ ὡμολόγησεν ὅτι <bold><x-color><param>red</param>Ἐγὼ οὐκ εἰμὶ ὁ Χριστός</x-color></bold>.
-        21 καὶ ἠρώτησαν αὐτόν Τί οὖν; σὺ <x-color><param>forest green</param>Ἡλείας</x-color> εἶ; καὶ λέγει Οὐκ εἰμί.
+        21 καὶ <x-color><param>magenta</param>ἠρώτησαν</x-color> αὐτόν Τί οὖν; σὺ <x-color><param>forest green</param>Ἡλείας</x-color> εἶ; καὶ λέγει Οὐκ εἰμί.
 
         Ὁ <x-color><param>forest green</param>προφήτης</x-color> εἶ σύ; καὶ ἀπεκρίθη Οὔ.
         22 εἶπαν οὖν αὐτῷ
@@ -143,45 +126,34 @@ License: Public domain
 
         Ἐγὼ φωνὴ βοῶντος ἐν τῇ ἐρήμῳ Εὐθύνατε τὴν ὁδὸν Κυρίου, καθὼς εἶπεν Ἡσαΐας ὁ προφήτης.
 
-         ---
+        ---
         24 Καὶ <x-color><param>green</param>ἀπεσταλμένοι</x-color> ἦσαν ἐκ τῶν <x-color><param>orange</param>Φαρισαίων</x-color>. 25 καὶ <x-color><param>magenta</param>ἠρώτησαν</x-color> αὐτὸν καὶ εἶπαν αὐτῷ
         Τί οὖν βαπτίζεις εἰ σὺ οὐκ εἶ ὁ <x-color><param>forest green</param>Χριστὸς</x-color> οὐδὲ <x-color><param>forest green</param>Ἡλείας</x-color> οὐδὲ ὁ <x-color><param>forest green</param>προφήτης</x-color>;
-        26 <italic>ἀπεκρίθη</italic> αὐτοῖς ὁ Ἰωάνης λέγων Ἐγὼ βαπτίζω ἐν ὕδατι μέσος ὑμῶν στήκει ὃν ὑμεῖς οὐκ οἴδατε,
-        27 ὁ ὀπίσω μου ἐρχόμενος, οὗ οὐκ εἰμὶ ἐγὼ ἄξιος ἵνα λύσω αὐτοῦ τὸν ἱμάντα τοῦ ὑποδήματος.
+        26 ἀπεκρίθη αὐτοῖς ὁ Ἰωάνης λέγων Ἐγὼ βαπτίζω ἐν ὕδατι μέσος ὑμῶν στήκει ὃν ὑμεῖς οὐκ οἴδατε,
+        27 <x-color><param>dark violet</param>ὁ ὀπίσω μου ἐρχόμενος</x-color>, οὗ οὐκ εἰμὶ ἐγὼ ἄξιος ἵνα λύσω αὐτοῦ τὸν ἱμάντα τοῦ ὑποδήματος.
 
+        28 Ταῦτα ἐν Βηθανίᾳ ἐγένετο <bold><x-color><param>red</param>πέραν τοῦ Ἰορδάνου</x-color></bold>, ὅπου ἦν ὁ Ἰωάνης βαπτίζων.
 
-    28 Ταῦτα ἐν Βηθανίᾳ ἐγένετο <bold><x-color><param>red</param>πέραν τοῦ Ἰορδάνου</x-color></bold>, ὅπου ἦν ὁ Ἰωάνης βαπτίζων.
-
-    29 <x-color><param>magenta</param>Τῇ ἐπαύριον</x-color>
-
-    <x-color><param>magenta</param>βλέπει τὸν Ἰησοῦν</x-color>
-
-    <x-color><param>magenta</param>ἐρχόμενον πρὸς αὐτόν,</x-color>
-
-    <x-color><param>magenta</param>καὶ λέγει Ἴδε ὁ Ἀμνὸς τοῦ Θεοῦ</x-color>
+    29 <x-color><param>magenta</param>Τῇ ἐπαύριον</x-color> <x-color><param>magenta</param>βλέπει τὸν Ἰησοῦν</x-color> <x-color><param>magenta</param>ἐρχόμενον πρὸς αὐτόν,</x-color> <x-color><param>magenta</param>καὶ λέγει Ἴδε ὁ Ἀμνὸς τοῦ Θεοῦ</x-color>
 
 
    ὁ αἴρων τὴν ἁμαρτίαν τοῦ κόσμου.
 
     +---
-    30 <x-color><param>dark violet</param>οὗτός ἐστιν ὑπὲρ οὗ ἐγὼ εἶπον</x-color>
+    30 <x-color><param>dark violet</param>οὗτός</x-color> ἐστιν ὑπὲρ οὗ ἐγὼ <x-color><param>dark violet</param>εἶπον</x-color> <x-color><param>dark violet</param>Ὀπίσω μου ἔρχεται</x-color> ἀνὴρ
 
-    <x-color><param>dark violet</param>Ὀπίσω μου ἔρχεται ἀνὴρ</x-color>
-
-    <x-color><param>dark violet</param>ὃς ἔμπροσθέν μου γέγονεν,</x-color>
-
-    <x-color><param>dark violet</param>ὅτι πρῶτός μου ἦν.</x-color>
+    ὃς <x-color><param>dark violet</param>ἔμπροσθέν μου γέγονεν, ὅτι πρῶτός μου ἦν</x-color>.
         +---
 
         31 <x-color><param>cyan</param>κἀγὼ οὐκ ᾔδειν αὐτόν,</x-color>
 
         ἀλλ’ ἵνα φανερωθῇ τῷ Ἰσραὴλ, διὰ τοῦτο ἦλθον ἐγὼ <x-color><param>green</param>ἐν ὕδατι βαπτίζων</x-color>.
-        32 Καὶ <x-color><param>red</param><bold>ἐμαρτύρησεν</bold></x-color> Ἰωάνης λέγων
+        32 Καὶ <bold><x-color><param>blue</param>ἐμαρτύρησεν</x-color></bold> Ἰωάνης λέγων
 
         ὅτι <x-color><param>dodger blue</param>Τεθέαμαι τὸ Πνεῦμα καταβαῖνον</x-color> ὡς περιστερὰν <bold><x-color><param>red</param>ἐξ οὐρανοῦ</x-color>,</bold>
 
-        <x-color><param>orange</param>καὶ ἔμεινεν ἐπ’ αὐτόν.</x-color>
-         ...
+        <x-color><param>orange</param>καὶ ἔμεινεν ἐπ’ αὐτόν</x-color>.
+        ...
 
         33 <x-color><param>cyan</param>κἀγὼ οὐκ ᾔδειν αὐτόν,</x-color>
 
@@ -189,49 +161,47 @@ License: Public domain
 
         Ἐφ’ ὃν ἂν <x-color><param>dodger blue</param>ἴδῃς τὸ Πνεῦμα καταβαῖνον</x-color>
 
-        <x-color><param>orange</param>καὶ μένον ἐπ’ αὐτόν,</x-color> οὗτός ἐστιν ὁ βαπτίζων ἐν Πνεύματι Ἁγίῳ.
-        34 κἀγὼ ἑώρακα, καὶ <x-color><param>red</param><bold>μεμαρτύρηκα</bold></x-color> ὅτι οὗτός ἐστιν ὁ Υἱὸς τοῦ Θεοῦ.
+        <x-color><param>orange</param>καὶ μένον ἐπ’ αὐτόν</x-color>, οὗτός ἐστιν ὁ βαπτίζων ἐν Πνεύματι Ἁγίῳ.
+        34 κἀγὼ ἑώρακα, καὶ <bold><x-color><param>blue</param>μεμαρτύρηκα</x-color></bold> ὅτι οὗτός ἐστιν ὁ Υἱὸς τοῦ Θεοῦ.
 
 
     35 <x-color><param>magenta</param>Τῇ ἐπαύριον</x-color> πάλιν εἱστήκει ὁ Ἰωάνης καὶ ἐκ τῶν μαθητῶν αὐτοῦ δύο,
 
-    36 <x-color><param>magenta</param>καὶ ἐμβλέψας τῷ Ἰησοῦ</x-color>
-
-    <x-color><param>magenta</param>περιπατοῦντι</x-color>
-
-    <x-color><param>magenta</param>λέγει Ἴδε ὁ Ἀμνὸς τοῦ Θεοῦ.</x-color>
+    36 <x-color><param>magenta</param>καὶ ἐμβλέψας τῷ Ἰησοῦ</x-color> <x-color><param>magenta</param>περιπατοῦντι</x-color> <x-color><param>magenta</param>λέγει Ἴδε ὁ Ἀμνὸς τοῦ Θεοῦ.</x-color>
 
 
-    +===<italic>J1,37-51 ὥρα ἦν ὡς δεκάτη O godzinie dziesiątej</italic>
+    +===<italic>J1,37-51 O godzinie dziesiątej <x-color><param>cyan</param>ὥρα ἦν ὡς δεκάτη</x-color></italic>, <x-color><param>cyan</param><italic>ἐξελθεῖν εἰς τὴν Γαλιλαίαν</italic></x-color>
 
         +===
 
         37 καὶ ἤκουσαν οἱ δύο μαθηταὶ αὐτοῦ λαλοῦντος καὶ <x-color><param>blue</param>ἠκολούθησαν</x-color> τῷ Ἰησοῦ.
-        38 στραφεὶς δὲ ὁ Ἰησοῦς καὶ θεασάμενος αὐτοὺς ἀκολουθοῦντας λέγει αὐτοῖς <x-color><param>red</param>Τί ζητεῖτε</x-color>;
+        38 στραφεὶς δὲ ὁ Ἰησοῦς καὶ θεασάμενος αὐτοὺς <x-color><param>blue</param>ἀκολουθοῦντας</x-color> λέγει αὐτοῖς <x-color><param>red</param>Τί ζητεῖτε</x-color>;
 
 
         οἱ δὲ εἶπαν αὐτῷ Ῥαββεί, (ὃ λέγεται μεθερμηνευόμενον Διδάσκαλε,)    <x-color><param>orange</param>ποῦ μένεις</x-color>;
-        39 <x-color><param>blue</param>λέγει αὐτοῖς Ἔρχεσθε καὶ ὄψεσθε</x-color>.
+        39 λέγει αὐτοῖς <x-color><param>blue</param>Ἔρχεσθε καὶ ὄψεσθε</x-color>.
 
 
-        ἦλθαν οὖν καὶ εἶδαν ποῦ μένει, καὶ παρ’ αὐτῷ ἔμειναν τὴν ἡμέραν ἐκείνην
+        <x-color><param>blue</param>ἦλθαν οὖν καὶ εἶδαν</x-color> <x-color><param>orange</param>ποῦ μένει</x-color>, καὶ παρ’ αὐτῷ ἔμειναν τὴν ἡμέραν ἐκείνην
 
         <bold>ὥρα ἦν ὡς δεκάτη</bold>.
-        40 Ἦν <x-color><param>cyan</param>Ἀνδρέας</x-color> ὁ ἀδελφὸς Σίμωνος <x-color><param>cyan</param>Πέτρου</x-color> εἷς ἐκ τῶν δύο τῶν ἀκουσάντων παρὰ Ἰωάνου καὶ ἀκολουθησάντων αὐτῷ
+        40 Ἦν <x-color><param>cyan</param>Ἀνδρέας</x-color> ὁ ἀδελφὸς Σίμωνος <x-color><param>cyan</param>Πέτρου</x-color>
+
+        εἷς ἐκ τῶν δύο τῶν ἀκουσάντων παρὰ Ἰωάνου καὶ <x-color><param>blue</param>ἀκολουθησάντων</x-color> αὐτῷ
 
 
         41 <x-color><param>red</param>εὑρίσκει</x-color>       οὗτος πρῶτον τὸν ἀδελφὸν τὸν ἴδιον Σίμωνα
 
         <x-color><param>green</param>καὶ λέγει αὐτῷ</x-color>
 
-        <x-color><param>red</param>Εὑρήκαμεν</x-color>         τὸν Μεσσίαν      (ὅ ἐστιν μεθερμηνευόμενον Χριστός).
+        <x-color><param>red</param>Εὑρήκαμεν</x-color>         τὸν Μεσσίαν (ὅ ἐστιν μεθερμηνευόμενον Χριστός).
 
 
-        42 <x-color><param>magenta</param>ἤγαγεν αὐτὸν πρὸς τὸν Ἰησοῦν</x-color>.          <x-color><param>dodger blue</param>ἐμβλέψας αὐτῷ ὁ Ἰησοῦς</x-color>         <x-color><param>dark violet</param>εἶπεν</x-color>
+        42 <x-color><param>magenta</param>ἤγαγεν αὐτὸν πρὸς τὸν Ἰησοῦν</x-color>.      <x-color><param>dodger blue</param>ἐμβλέψας αὐτῷ ὁ Ἰησοῦς</x-color>    <x-color><param>dark violet</param>εἶπεν</x-color>
 
         Σὺ εἶ Σίμων ὁ υἱὸς Ἰωάνου, σὺ κληθήσῃ Κηφᾶς (ὃ ἑρμηνεύεται Πέτρος).
 
-      43 Τῇ ἐπαύριον ἠθέλησεν ἐξελθεῖν εἰς τὴν Γαλιλαίαν.
+      43 Τῇ ἐπαύριον ἠθέλησεν <x-color><param>cyan</param><bold>ἐξελθεῖν εἰς τὴν Γαλιλαίαν</bold></x-color>.
 
         +===
 
@@ -250,99 +220,100 @@ License: Public domain
         <x-color><param>red</param>εὑρήκαμεν</x-color>,        Ἰησοῦν           υἱὸν τοῦ Ἰωσὴφ τὸν ἀπὸ Ναζαρέτ.
 
 
-        46 καὶ εἶπεν αὐτῷ Ναθαναήλ            <x-color><param>orange</param>Ἐκ Ναζαρὲτ</x-color>              δύναταί τι ἀγαθὸν εἶναι;
+        46 καὶ εἶπεν αὐτῷ Ναθαναήλ   <x-color><param>orange</param>Ἐκ Ναζαρὲτ</x-color>    δύναταί τι ἀγαθὸν εἶναι;
 
         <x-color><param>blue</param>λέγει αὐτῷ ὁ Φίλιππος Ἔρχου καὶ ἴδε.</x-color>
 
 
-        47 <x-color><param>dodger blue</param>εἶδεν Ἰησοῦς τὸν Ναθαναὴλ</x-color>             <x-color><param>magenta</param>ἐρχόμενον πρὸς αὐτὸν           </x-color> καὶ <x-color><param>dark violet</param>λέγει</x-color> περὶ αὐτοῦ
+        47 <x-color><param>dodger blue</param>εἶδεν Ἰησοῦς τὸν Ναθαναὴλ</x-color>          <x-color><param>magenta</param>ἐρχόμενον πρὸς αὐτὸν      </x-color>καὶ <x-color><param>dark violet</param>λέγει</x-color> περὶ αὐτοῦ
 
         Ἴδε ἀληθῶς Ἰσραηλείτης, ἐν ᾧ δόλος οὐκ ἔστιν.
         48 λέγει αὐτῷ Ναθαναήλ Πόθεν με γινώσκεις;
 
         ἀπεκρίθη Ἰησοῦς καὶ εἶπεν αὐτῷ
 
-        Πρὸ τοῦ σε Φίλιππον φωνῆσαι ὄντα ὑπὸ τὴν συκῆν εἶδόν σε.
+        Πρὸ τοῦ σε Φίλιππον φωνῆσαι ὄντα <x-color><param>firebrick</param>ὑπὸ τὴν συκῆν εἶδόν σε</x-color>.
 
         49 ἀπεκρίθη αὐτῷ Ναθαναήλ Ῥαββεί, σὺ εἶ ὁ Υἱὸς τοῦ Θεοῦ, σὺ Βασιλεὺς εἶ τοῦ Ἰσραήλ.
         50 ἀπεκρίθη Ἰησοῦς καὶ εἶπεν αὐτῷ
 
-        Ὅτι εἶπόν σοι ὅτι εἶδόν σε ὑποκάτω τῆς συκῆς, πιστεύεις;
+        Ὅτι εἶπόν σοι ὅτι <x-color><param>firebrick</param>εἶδόν σε ὑποκάτω τῆς συκῆς</x-color>, πιστεύεις;
 
         μείζω τούτων ὄψῃ.
 
-        51 καὶ λέγει αὐτῷ Ἀμὴν ἀμὴν λέγω ὑμῖν,
+        51 καὶ λέγει αὐτῷ <x-color><param>red</param>Ἀμὴν ἀμὴν λέγω ὑμῖν</x-color>,
 
-        ὄψεσθε τὸν οὐρανὸν ἀνεῳγότα καὶ τοὺς ἀγγέλους τοῦ Θεοῦ ἀναβαίνοντας καὶ καταβαίνοντας ἐπὶ τὸν Υἱὸν τοῦ ἀνθρώπου.
-    +~~~<italic>J2,1-2,12 Κανὰ τῆς Γαλιλαίας Znak w Kanie Galilejskiej: zamiana wody w wino</italic>
+        ὄψεσθε τὸν οὐρανὸν ἀνεῳγότα καὶ τοὺς ἀγγέλους τοῦ Θεοῦ
+
+        ἀναβαίνοντας καὶ καταβαίνοντας ἐπὶ τὸν Υἱὸν τοῦ ἀνθρώπου.
+    +~~~<italic>J2,1-2,12 Znak w Kanie Galilejskiej: zamiana wody w wino </italic><x-color><param>green</param>ἐν Κανὰ τῆς Γαλιλαίας</x-color>
 
     1 Καὶ τῇ <x-color><param>red</param>ἡμέρᾳ</x-color> τῇ τρίτῃ
 
-    γάμος ἐγένετο <x-color><param>orange</param>ἐν Κανὰ τῆς Γαλιλαίας</x-color>,
+    γάμος ἐγένετο <x-color><param>green</param>ἐν Κανὰ τῆς Γαλιλαίας</x-color>,
 
     καὶ ἦν <x-color><param>forest green</param>ἡ μήτηρ τοῦ Ἰησοῦ</x-color> ἐκεῖ
 
     2 ἐκλήθη δὲ καὶ ὁ Ἰησοῦς καὶ <x-color><param>dodger blue</param>οἱ μαθηταὶ αὐτοῦ</x-color> εἰς τὸν γάμον.
 
-         +~~~
+        +~~~
 
-         3 καὶ ὑστερήσαντος <x-color><param>green</param>οἴνου</x-color>
+        3 καὶ ὑστερήσαντος <x-color><param>orange</param>οἴνου</x-color>
 
-         <x-color><param>dark violet</param>λέγει ἡ μήτηρ τοῦ Ἰησοῦ πρὸς αὐτόν</x-color>
+        <x-color><param>dark violet</param>λέγει ἡ μήτηρ τοῦ Ἰησοῦ πρὸς αὐτόν</x-color>
 
-         <x-color><param>green</param>Οἶνον</x-color> οὐκ ἔχουσιν.
-
-
-         4 καὶ <x-color><param>magenta</param>λέγει αὐτῇ ὁ Ἰησοῦς</x-color>
-
-         Τί ἐμοὶ καὶ σοί, γύναι;
-
-         οὔπω ἥκει ἡ ὥρα μου.
+        <x-color><param>orange</param>Οἶνον</x-color> οὐκ ἔχουσιν.
 
 
-         5 <x-color><param>dark violet</param>λέγει ἡ μήτηρ αὐτοῦ τοῖς διακόνοις</x-color>
+        4 καὶ <x-color><param>magenta</param>λέγει αὐτῇ ὁ Ἰησοῦς</x-color>
 
-         <x-color><param>dodger blue</param>Ὅ τι ἂν λέγῃ ὑμῖν, ποιήσατε.</x-color>
+        Τί ἐμοὶ καὶ σοί, γύναι;
 
-
-         6 ἦσαν δὲ ἐκεῖ λίθιναι ὑδρίαι ἓξ
-
-         κατὰ τὸν καθαρισμὸν τῶν Ἰουδαίων κείμεναι,
-
-         χωροῦσαι ἀνὰ μετρητὰς δύο ἢ τρεῖς.
+        οὔπω ἥκει ἡ ὥρα μου.
 
 
-         7 <x-color><param>magenta</param>λέγει αὐτοῖς ὁ Ἰησοῦς</x-color>
+        5 <x-color><param>dark violet</param>λέγει ἡ μήτηρ αὐτοῦ τοῖς διακόνοις</x-color>
 
-         Γεμίσατε τὰς ὑδρίας ὕδατος.
-
-         <x-color><param>dodger blue</param>καὶ ἐγέμισαν</x-color> αὐτὰς ἕως ἄνω.
+        <x-color><param>dodger blue</param>Ὅ τι ἂν λέγῃ ὑμῖν, ποιήσατε.</x-color>
 
 
-         8 <x-color><param>magenta</param>καὶ λέγει αὐτοῖς</x-color>
+        6 ἦσαν δὲ ἐκεῖ λίθιναι ὑδρίαι ἓξ
 
-         Ἀντλήσατε νῦν καὶ φέρετε <x-color><param>cyan</param>τῷ ἀρχιτρικλίνῳ</x-color>.
+        κατὰ τὸν καθαρισμὸν τῶν Ἰουδαίων κείμεναι,
 
-         <x-color><param>dodger blue</param>οἱ δὲ ἤνεγκαν</x-color>.
-
-
-         9 ὡς δὲ ἐγεύσατο <x-color><param>cyan</param>ὁ ἀρχιτρίκλινος</x-color> τὸ ὕδωρ <x-color><param>green</param>οἶνον</x-color> γεγενημένον,
-
-         καὶ οὐκ ᾔδει πόθεν ἐστίν,
-
-         οἱ δὲ διάκονοι ᾔδεισαν οἱ ἠντληκότες τὸ ὕδωρ,
+        χωροῦσαι ἀνὰ μετρητὰς δύο ἢ τρεῖς.
 
 
-         φωνεῖ <x-color><param>magenta</param>τὸν νυμφίον</x-color> <x-color><param>cyan</param>ὁ ἀρχιτρίκλινος</x-color>
+        7 <x-color><param>magenta</param>λέγει αὐτοῖς ὁ Ἰησοῦς</x-color>
 
-         10 <x-color><param>magenta</param>καὶ λέγει αὐτῷ </x-color> Πᾶς ἄνθρωπος     πρῶτον <x-color><param>green</param>τὸν καλὸν οἶνον</x-color> τίθησιν,
+        Γεμίσατε τὰς ὑδρίας ὕδατος.
 
-         καὶ ὅταν μεθυσθῶσιν τὸν ἐλάσσω
-
-                            σὺ               τετήρηκας <x-color><param>green</param>τὸν καλὸν οἶνον</x-color> ἕως ἄρτι.
+        <x-color><param>dodger blue</param>καὶ ἐγέμισαν</x-color> αὐτὰς ἕως ἄνω.
 
 
-    11 Ταύτην ἐποίησεν ἀρχὴν τῶν σημείων ὁ Ἰησοῦς <x-color><param>orange</param>ἐν Κανὰ τῆς Γαλιλαίας</x-color>
+        8 <x-color><param>magenta</param>καὶ λέγει αὐτοῖς</x-color>
+
+        Ἀντλήσατε νῦν καὶ φέρετε <x-color><param>cyan</param>τῷ ἀρχιτρικλίνῳ</x-color>.
+
+        <x-color><param>dodger blue</param>οἱ δὲ ἤνεγκαν</x-color>.
+
+
+        9 ὡς δὲ ἐγεύσατο <x-color><param>cyan</param>ὁ ἀρχιτρίκλινος</x-color> τὸ ὕδωρ <x-color><param>orange</param>οἶνον</x-color> γεγενημένον,
+
+        καὶ οὐκ ᾔδει πόθεν ἐστίν,
+
+        οἱ δὲ διάκονοι ᾔδεισαν οἱ ἠντληκότες τὸ ὕδωρ,
+
+
+        φωνεῖ <x-color><param>magenta</param>τὸν νυμφίον</x-color> <x-color><param>cyan</param>ὁ ἀρχιτρίκλινος</x-color>
+
+        10 <x-color><param>magenta</param>καὶ λέγει αὐτῷ </x-color> Πᾶς ἄνθρωπος     πρῶτον <x-color><param>orange</param>τὸν καλὸν οἶνον</x-color> τίθησιν,
+
+        καὶ ὅταν μεθυσθῶσιν τὸν ἐλάσσω
+
+                           σὺ               τετήρηκας <x-color><param>orange</param>τὸν καλὸν οἶνον</x-color> ἕως ἄρτι.
+
+    11 Ταύτην ἐποίησεν ἀρχὴν τῶν σημείων ὁ Ἰησοῦς <x-color><param>green</param>ἐν Κανὰ τῆς Γαλιλαίας</x-color>
 
     καὶ ἐφανέρωσεν τὴν δόξαν αὐτοῦ, καὶ ἐπίστευσαν εἰς αὐτὸν <x-color><param>dodger blue</param>οἱ μαθηταὶ αὐτοῦ</x-color>.
 
@@ -352,11 +323,11 @@ License: Public domain
 
     καὶ ἐκεῖ ἔμειναν οὐ πολλὰς <x-color><param>red</param>ἡμέρας</x-color>.
 
-    +^^^<italic>J2,13-2,23 Ἱεροσόλυμα W Jerozolimie: oczyszczenie świątyni</italic>
+    +---<italic>J2,13-2,23 <x-color><param>tomato</param>W Jerozolimie</x-color>: oczyszczenie świątyni Ἱεροσόλυμα</italic>
 
-    13 Καὶ ἐγγὺς ἦν <x-color><param>orange</param>τὸ πάσχα τῶν Ἰουδαίων</x-color>, καὶ ἀνέβη εἰς <x-color><param>red</param>Ἱεροσόλυμα</x-color> ὁ Ἰησοῦς.
+    13 Καὶ ἐγγὺς ἦν <x-color><param>orange</param>τὸ πάσχα τῶν Ἰουδαίων</x-color>, καὶ ἀνέβη εἰς <x-color><param>tomato</param>Ἱεροσόλυμα</x-color> ὁ Ἰησοῦς.
 
-        +^^^
+        +---
 
         14 καὶ εὗρεν ἐν <x-color><param>forest green</param>τῷ ἱερῷ</x-color>
 
@@ -379,11 +350,11 @@ License: Public domain
                 Ἄρατε ταῦτα ἐντεῦθεν, μὴ ποιεῖτε <x-color><param>forest green</param>τὸν οἶκον τοῦ Πατρός</x-color> μου οἶκον ἐμπορίου.
 
 
-        17 <x-color><param>dodger blue</param>ἐμνήσθησαν οἱ μαθηταὶ αὐτοῦ ὅτι   </x-color> <x-color><param>cyan</param>γεγραμμένον ἐστίν</x-color>
+        17 <x-color><param>dodger blue</param>ἐμνήσθησαν οἱ μαθηταὶ αὐτοῦ ὅτι    </x-color> <x-color><param>cyan</param>γεγραμμένον ἐστίν</x-color>
 
         Ὁ ζῆλος τοῦ οἴκου σου καταφάγεταί με.
 
-         ---
+        ---
 
         18 ἀπεκρίθησαν οὖν οἱ Ἰουδαῖοι καὶ εἶπαν αὐτῷ
 
@@ -403,15 +374,17 @@ License: Public domain
 
         καὶ ἐπίστευσαν τῇ γραφῇ καὶ τῷ λόγῳ ὃν εἶπεν ὁ Ἰησοῦς.
 
-    23 Ὡς δὲ ἦν ἐν τοῖς <x-color><param>red</param>Ἱεροσολύμοις</x-color> ἐν <x-color><param>orange</param>τῷ πάσχα ἐν τῇ ἑορτῇ</x-color>,
+    23 Ὡς δὲ ἦν ἐν τοῖς <x-color><param>tomato</param>Ἱεροσολύμοις</x-color> ἐν <x-color><param>orange</param>τῷ πάσχα ἐν τῇ ἑορτῇ</x-color>,
 
-    +===<italic>J2,24-3,21 Ἀμὴν ἀμὴν λέγω σοι Zaprawdę powiadam Ci, Nikodem</italic>
+    +===<italic>J2,24-3,21 Nikodem</italic>, <italic>Zaprawdę powiadam Ci <x-color><param>dark violet</param>Ἀμὴν ἀμὴν λέγω σοι</x-color></italic>
 
         +===
 
         πολλοὶ ἐπίστευσαν εἰς τὸ ὄνομα αὐτοῦ, θεωροῦντες αὐτοῦ <x-color><param>magenta</param>τὰ σημεῖα ἃ ἐποίει</x-color>
         24 αὐτὸς δὲ Ἰησοῦς οὐκ ἐπίστευεν αὑτὸν αὐτοῖς διὰ τὸ αὐτὸν γινώσκειν πάντας,
-        25 καὶ ὅτι οὐ χρείαν εἶχεν ἵνα τις μαρτυρήσῃ περὶ τοῦ ἀνθρώπου αὐτὸς γὰρ ἐγίνωσκεν τί ἦν ἐν τῷ ἀνθρώπῳ.
+        25 καὶ ὅτι οὐ χρείαν εἶχεν ἵνα τις μαρτυρήσῃ περὶ τοῦ ἀνθρώπου
+
+        αὐτὸς γὰρ ἐγίνωσκεν τί ἦν ἐν τῷ ἀνθρώπῳ.
 
 
         1 Ἦν δὲ ἄνθρωπος ἐκ τῶν Φαρισαίων, <x-color><param>blue</param>Νικόδημος</x-color> ὄνομα αὐτῷ, ἄρχων τῶν Ἰουδαίων
@@ -424,13 +397,9 @@ License: Public domain
         ἐὰν μὴ ᾖ ὁ Θεὸς μετ’ αὐτοῦ.
 
 
-        3 <x-color><param>cyan</param>ἀπεκρίθη Ἰησοῦς</x-color> καὶ εἶπεν αὐτῷ
+        3 <x-color><param>cyan</param>ἀπεκρίθη Ἰησοῦς</x-color> καὶ εἶπεν αὐτῷ <bold><x-color><param>dark violet</param>Ἀμὴν ἀμὴν λέγω σοι</x-color></bold>,
 
-        <x-color><param>red</param><bold>Ἀμὴν ἀμὴν λέγω σοι</bold></x-color>,
-
-        ἐὰν μή τις γεννηθῇ ἄνωθεν,
-
-        οὐ δύναται ἰδεῖν τὴν βασιλείαν τοῦ Θεοῦ.
+        ἐὰν μή τις γεννηθῇ ἄνωθεν, οὐ δύναται ἰδεῖν τὴν βασιλείαν τοῦ Θεοῦ.
         +===
 
         4 λέγει πρὸς αὐτὸν ὁ <x-color><param>blue</param>Νικόδημος</x-color>
@@ -440,9 +409,7 @@ License: Public domain
         μὴ δύναται εἰς τὴν κοιλίαν τῆς μητρὸς αὐτοῦ δεύτερον εἰσελθεῖν καὶ <x-color><param>orange</param>γεννηθῆναι</x-color>;
 
 
-        5 <x-color><param>cyan</param>ἀπεκρίθη Ἰησοῦς</x-color>
-
-        <x-color><param>red</param><bold>Ἀμὴν ἀμὴν λέγω σοι</bold></x-color>,
+        5 <x-color><param>cyan</param>ἀπεκρίθη Ἰησοῦς</x-color> <x-color><param>red</param><bold>Ἀμὴν ἀμὴν λέγω σοι</bold></x-color>,
 
         ἐὰν μή τις γεννηθῇ ἐξ ὕδατος καὶ Πνεύματος, οὐ δύναται εἰσελθεῖν εἰς τὴν βασιλείαν τοῦ Θεοῦ.
         6 τὸ γεγεννημένον ἐκ τῆς σαρκὸς σάρξ ἐστιν, καὶ τὸ γεγεννημένον ἐκ τοῦ Πνεύματος πνεῦμά ἐστιν.
@@ -459,7 +426,7 @@ License: Public domain
         ὅτι ὃ οἴδαμεν λαλοῦμεν καὶ ὃ ἑωράκαμεν μαρτυροῦμεν, καὶ τὴν μαρτυρίαν ἡμῶν οὐ λαμβάνετε.
         12 εἰ τὰ ἐπίγεια εἶπον ὑμῖν καὶ οὐ πιστεύετε, πῶς ἐὰν εἴπω ὑμῖν τὰ ἐπουράνια πιστεύσετε;
         13 καὶ οὐδεὶς ἀναβέβηκεν εἰς τὸν οὐρανὸν εἰ μὴ ὁ ἐκ τοῦ οὐρανοῦ καταβάς, ὁ Υἱὸς τοῦ ἀνθρώπου.
-        14 καὶ καθὼς Μωϋσῆς ὕψωσεν τὸν ὄφιν ἐν τῇ ἐρήμῳ, οὕτως ὑψωθῆναι δεῖ τὸν Υἱὸν τοῦ ἀνθρώπου,
+        14 καὶ καθὼς Μωϋσῆς <x-color><param>orange</param>ὕψωσεν</x-color> τὸν ὄφιν ἐν τῇ ἐρήμῳ, οὕτως <x-color><param>orange</param>ὑψωθῆναι</x-color> δεῖ τὸν Υἱὸν τοῦ ἀνθρώπου,
         15 ἵνα πᾶς ὁ πιστεύων ἐν αὐτῷ ἔχῃ ζωὴν αἰώνιον.
         16 Οὕτως γὰρ ἠγάπησεν ὁ Θεὸς τὸν κόσμον, ὥστε τὸν Υἱὸν τὸν μονογενῆ ἔδωκεν, ἵνα πᾶς ὁ πιστεύων εἰς αὐτὸν μὴ ἀπόληται ἀλλ’ ἔχῃ ζωὴν αἰώνιον.
         17 οὐ γὰρ ἀπέστειλεν ὁ Θεὸς τὸν Υἱὸν εἰς τὸν κόσμον ἵνα κρίνῃ τὸν κόσμον, ἀλλ’ ἵνα σωθῇ ὁ κόσμος δι’ αὐτοῦ.
@@ -467,15 +434,11 @@ License: Public domain
         19 αὕτη δέ ἐστιν ἡ κρίσις, ὅτι τὸ φῶς ἐλήλυθεν εἰς τὸν κόσμον καὶ ἠγάπησαν οἱ ἄνθρωποι μᾶλλον τὸ σκότος ἢ τὸ φῶς ἦν γὰρ αὐτῶν πονηρὰ τὰ ἔργα.
         20 πᾶς γὰρ ὁ φαῦλα πράσσων μισεῖ τὸ φῶς καὶ οὐκ ἔρχεται πρὸς τὸ φῶς, ἵνα μὴ ἐλεγχθῇ τὰ ἔργα αὐτοῦ
         21 ὁ δὲ ποιῶν τὴν ἀλήθειαν ἔρχεται πρὸς τὸ φῶς, ἵνα φανερωθῇ αὐτοῦ τὰ ἔργα ὅτι ἐν Θεῷ ἐστιν εἰργασμένα.
-+---<italic>J3,22-4,3a Ἰωάνης Jan o Jezusie</italic>
++---J3,22-4,3a Jan o Jezusie <italic><x-color><param>blue</param>Ἰωάνης</x-color></italic>
 
-22 Μετὰ ταῦτα ἦλθεν ὁ <x-color><param>dark violet</param>Ἰησοῦς</x-color>
+22 Μετὰ ταῦτα ἦλθεν ὁ <x-color><param>dark violet</param>Ἰησοῦς</x-color> καὶ <x-color><param>dark violet</param>οἱ μαθηταὶ αὐτοῦ</x-color> εἰς <x-color><param>dark violet</param>τὴν Ἰουδαίαν</x-color> γῆν,
 
-καὶ <x-color><param>dark violet</param>οἱ μαθηταὶ αὐτοῦ</x-color>
-
-εἰς <x-color><param>dark violet</param>τὴν Ἰουδαίαν</x-color> γῆν,
-
-καὶ ἐκεῖ διέτριβεν <x-display><param>(disable-eval (disable-eval (disable-eval (disable-eval (disable-eval (height 0.5))))))</param>przebywał</x-display> μετ’ αὐτῶν καὶ <x-color><param>dark violet</param>ἐβάπτιζεν</x-color>.
+καὶ ἐκεῖ διέτριβεν <x-display><param>(disable-eval (disable-eval (disable-eval (disable-eval (disable-eval (disable-eval (disable-eval (height 0.5))))))))</param>przebywał</x-display> μετ’ αὐτῶν καὶ <x-color><param>dark violet</param>ἐβάπτιζεν</x-color>.
 
     +---
 
@@ -494,21 +457,19 @@ License: Public domain
 
     Ῥαββεί, ὃς ἦν μετὰ σοῦ <x-color><param>red</param><bold>πέραν τοῦ Ἰορδάνου</bold></x-color><bold>,</bold> ᾧ σὺ <x-color><param>red</param><bold>μεμαρτύρηκας</bold></x-color>,
 
-    ἴδε οὗτος <x-color><param>cyan</param>βαπτίζει</x-color>
-
-    καὶ <x-color><param>dodger blue</param>πάντες ἔρχονται πρὸς αὐτόν</x-color>.
+    ἴδε οὗτος <x-color><param>cyan</param>βαπτίζει</x-color> καὶ <x-color><param>dodger blue</param>πάντες ἔρχονται πρὸς αὐτόν</x-color>.
         +---
 
         27 <italic>ἀπεκρίθη</italic> Ἰωάνης καὶ εἶπεν
 
         Οὐ δύναται ἄνθρωπος λαμβάνειν οὐδὲν
 
-           ἐὰν μὴ ᾖ δεδομένον αὐτῷ <bold><x-color><param>red</param>ἐκ τοῦ οὐρανοῦ</x-color></bold>.
+            ἐὰν μὴ ᾖ δεδομένον αὐτῷ <bold><x-color><param>red</param>ἐκ τοῦ οὐρανοῦ</x-color></bold>.
         28 αὐτοὶ ὑμεῖς μοι <x-color><param>red</param><bold>μαρτυρεῖτε</bold></x-color>
 
-           ὅτι εἶπον   <bold><x-color><param>red</param>Οὐκ εἰμὶ ἐγὼ ὁ Χριστός</x-color></bold>,
+            ὅτι εἶπον   <bold><x-color><param>red</param>Οὐκ εἰμὶ ἐγὼ ὁ Χριστός</x-color></bold>,
 
-           ἀλλ’ ὅτι    <x-color><param>magenta</param>Ἀπεσταλμένος</x-color> εἰμὶ ἔμπροσθεν ἐκείνου.
+            ἀλλ’ ὅτι    <x-color><param>magenta</param>Ἀπεσταλμένος</x-color> εἰμὶ ἔμπροσθεν ἐκείνου.
 
             +---
 
@@ -521,9 +482,7 @@ License: Public domain
             αὕτη οὖν ἡ <x-color><param>blue</param>χαρὰ</x-color>   ἡ ἐμὴ πεπλήρωται.
                 +---
 
-                30 <x-color><param>saddle brown</param>ἐκεῖνον δεῖ αὐξάνειν</x-color>,
-
-                <x-color><param>saddle brown</param>ἐμὲ δὲ ἐλαττοῦσθαι</x-color>.
+                30 <x-color><param>saddle brown</param>ἐκεῖνον δεῖ αὐξάνειν</x-color>, <x-color><param>saddle brown</param>ἐμὲ δὲ ἐλαττοῦσθαι</x-color>.
 
 
             31 <x-color><param>forest green</param>Ὁ ἄνωθεν ἐρχόμενος</x-color>        <x-color><param>forest green</param>ἐπάνω πάντων ἐστίν</x-color>
@@ -560,25 +519,16 @@ License: Public domain
                                      ἀλλ’ ἡ ὀργὴ τοῦ Θεοῦ μένει ἐπ’ αὐτόν.
 
 
-    1 Ὡς οὖν ἔγνω ὁ Κύριος
+    1 Ὡς οὖν ἔγνω ὁ Κύριος ὅτι ἤκουσαν οἱ Φαρισαῖοι
 
-    ὅτι ἤκουσαν οἱ Φαρισαῖοι
-
-    ὅτι <x-color><param>dodger blue</param>Ἰησοῦς πλείονας μαθητὰς ποιεῖ</x-color>
-
-    καὶ <x-color><param>cyan</param>βαπτίζει ἢ Ἰωάνης</x-color>,
+    ὅτι <x-color><param>dodger blue</param>Ἰησοῦς πλείονας μαθητὰς ποιεῖ</x-color> καὶ <x-color><param>cyan</param>βαπτίζει ἢ Ἰωάνης</x-color>,
 
 
-2 καίτοιγε <x-display><param>(disable-eval (disable-eval (disable-eval (disable-eval (disable-eval (height 0.5))))))</param>chociaż</x-display> <x-color><param>dark violet</param>Ἰησοῦς</x-color> αὐτὸς
-
-οὐκ <x-color><param>dark violet</param>ἐβάπτιζεν</x-color>
-
-ἀλλ’ <x-color><param>dark violet</param>οἱ μαθηταὶ αὐτοῦ</x-color>,
-3 ἀφῆκεν <x-color><param>dark violet</param>τὴν Ἰουδαίαν</x-color>
+2 καίτοιγε <x-color><param>dark violet</param>Ἰησοῦς</x-color> αὐτὸς οὐκ <x-color><param>dark violet</param>ἐβάπτιζεν</x-color> ἀλλ’ <x-color><param>dark violet</param>οἱ μαθηταὶ αὐτοῦ</x-color>, 3 ἀφῆκεν <x-color><param>dark violet</param>τὴν Ἰουδαίαν</x-color>
 
 
-    +===<italic>J4,3b-4,43 ὥρα ἦν ὡς ἕκτη </italic>O godzinie szóstej, W Samarii
-    καὶ <x-color><param>blue</param>ἀπῆλθεν</x-color> πάλιν <x-color><param>blue</param>εἰς τὴν Γαλιλαίαν</x-color>.
+    +===J4,3b-4,45 Do Galilei, O godzinie szóstej <italic><x-color><param>cyan</param>ὥρα ἦν ὡς ἕκτη</x-color></italic>, <italic><x-color><param>cyan</param>ἐξῆλθεν</x-color></italic>…<x-color><param>cyan</param><italic>εἰς τὴν Γαλιλαίαν</italic></x-color>
+    καὶ <x-color><param>cyan</param><bold>ἀπῆλθεν</bold></x-color> πάλιν <x-color><param>cyan</param><bold>εἰς τὴν Γαλιλαίαν</bold></x-color>.
         +===
         4 Ἔδει δὲ αὐτὸν διέρχεσθαι διὰ τῆς Σαμαρίας.
         5 ἔρχεται οὖν εἰς πόλιν τῆς Σαμαρίας λεγομένην Συχὰρ,
@@ -605,7 +555,9 @@ License: Public domain
             Εἰ ᾔδεις τὴν δωρεὰν τοῦ Θεοῦ, καὶ τίς ἐστιν ὁ λέγων σοι <x-color><param>dark violet</param>Δός μοι πεῖν</x-color>,
 
             σὺ ἂν ᾔτησας αὐτὸν καὶ ἔδωκεν ἄν σοι <x-color><param>dodger blue</param>ὕδωρ ζῶν</x-color>.
-            11 λέγει αὐτῷ Κύριε, οὔτε ἄντλημα ἔχεις καὶ τὸ φρέαρ ἐστὶν βαθύ πόθεν οὖν ἔχεις <x-color><param>dodger blue</param>τὸ ὕδωρ τὸ ζῶν</x-color>;
+            11 λέγει αὐτῷ Κύριε, οὔτε ἄντλημα ἔχεις καὶ τὸ φρέαρ ἐστὶν βαθύ
+
+            πόθεν οὖν ἔχεις <x-color><param>dodger blue</param>τὸ ὕδωρ τὸ ζῶν</x-color>;
             12 μὴ σὺ μείζων εἶ τοῦ πατρὸς ἡμῶν Ἰακώβ,
 
             ὃς ἔδωκεν ἡμῖν τὸ φρέαρ, καὶ αὐτὸς ἐξ αὐτοῦ <x-color><param>dodger blue</param>ἔπιεν</x-color> καὶ οἱ υἱοὶ αὐτοῦ καὶ τὰ θρέμματα αὐτοῦ;
@@ -614,12 +566,10 @@ License: Public domain
             13 <x-color><param>green</param>ἀπεκρίθη Ἰησοῦς καὶ εἶπεν αὐτῇ</x-color>
 
             Πᾶς ὁ <x-color><param>dodger blue</param>πίνων</x-color> ἐκ τοῦ <x-color><param>dodger blue</param>ὕδατος</x-color> τούτου <x-color><param>dodger blue</param>διψήσει</x-color> πάλιν
-            14 ὃς δ’ ἂν <x-color><param>dodger blue</param>πίῃ</x-color> ἐκ τοῦ <x-color><param>dodger blue</param>ὕδατος</x-color> οὗ ἐγὼ δώσω αὐτῷ,
+            14 ὃς δ’ ἂν <x-color><param>dodger blue</param>πίῃ</x-color> ἐκ τοῦ <x-color><param>dodger blue</param>ὕδατος</x-color> οὗ ἐγὼ δώσω αὐτῷ, οὐ μὴ <x-color><param>dodger blue</param>διψήσει</x-color> εἰς τὸν <x-color><param>dark khaki</param>αἰῶνα</x-color>,
 
-            οὐ μὴ <x-color><param>dodger blue</param>διψήσει</x-color> εἰς τὸν αἰῶνα,
-
-            ἀλλὰ τὸ <x-color><param>dodger blue</param>ὕδωρ</x-color> ὃ δώσω αὐτῷ γενήσεται ἐν αὐτῷ πηγὴ <x-color><param>dodger blue</param>ὕδατος</x-color> ἁλλομένου εἰς ζωὴν αἰώνιον.
-            15 λέγει πρὸς αὐτὸν ἡ γυνή Κύριε, δός μοι τοῦτο τὸ <x-color><param>dodger blue</param>ὕδωρ</x-color>, ἵνα μὴ <x-color><param>dodger blue</param>διψῶ</x-color> μηδὲ διέρχωμαι ἐνθάδε ἀντλεῖν.
+            ἀλλὰ τὸ <x-color><param>dodger blue</param>ὕδωρ</x-color> ὃ δώσω αὐτῷ γενήσεται ἐν αὐτῷ πηγὴ <x-color><param>dodger blue</param>ὕδατος</x-color> ἁλλομένου εἰς ζωὴν <x-color><param>dark khaki</param>αἰώνιον</x-color>.
+            15 λέγει πρὸς αὐτὸν ἡ γυνή Κύριε, <x-color><param>dark violet</param>δός μοι τοῦτο τὸ ὕδωρ</x-color>, ἵνα μὴ <x-color><param>dodger blue</param>διψῶ</x-color> μηδὲ διέρχωμαι ἐνθάδε ἀντλεῖν.
 
                 +===
 
@@ -633,7 +583,7 @@ License: Public domain
                     <x-color><param>orange</param>καὶ νῦν ὃν ἔχεις οὐκ ἔστιν σου ἀνήρ τοῦτο ἀληθὲς εἴρηκας</x-color>.
                 19 <x-color><param>magenta</param>λέγει αὐτῷ ἡ γυνή</x-color>
 
-                    <x-color><param>dark violet</param>Κύριε, θεωρῶ ὅτι προφήτης εἶ σύ.</x-color>
+                    <x-color><param>dark violet</param>Κύριε, θεωρῶ ὅτι προφήτης εἶ σύ</x-color>.
 
                     +===
 
@@ -664,21 +614,23 @@ License: Public domain
                     <x-color><param>orange</param>ἐν πνεύματι καὶ ἀληθείᾳ</x-color> δεῖ <x-color><param>red</param>προσκυνεῖν</x-color>.
                 25 <x-color><param>magenta</param>λέγει αὐτῷ ἡ γυνή</x-color>
 
-                    <x-color><param>red</param>Οἶδα ὅτι Μεσσίας ἔρχεται, ὁ λεγόμενος Χριστός ὅταν ἔλθῃ ἐκεῖνος, ἀναγγελεῖ ἡμῖν ἅπαντα</x-color>.
+                    <x-color><param>red</param>Οἶδα ὅτι Μεσσίας ἔρχεται, ὁ λεγόμενος Χριστός</x-color>
+
+                    <x-color><param>red</param>ὅταν ἔλθῃ ἐκεῖνος, ἀναγγελεῖ ἡμῖν ἅπαντα</x-color>.
                 26 <x-color><param>magenta</param>λέγει αὐτῇ ὁ Ἰησοῦς</x-color>
 
                     <x-color><param>red</param>Ἐγώ εἰμι, ὁ λαλῶν σοι</x-color>.
 
-            27 <x-color><param>blue</param>Καὶ ἐπὶ τούτῳ ἦλθαν οἱ μαθηταὶ αὐτοῦ, καὶ ἐθαύμαζον ὅτι μετὰ γυναικὸς ἐλάλει οὐδεὶς μέντοι εἶπεν</x-color>
-
-            <x-color><param>blue</param>Τί ζητεῖς ἢ τί λαλεῖς μετ’ αὐτῆς</x-color>;
+            27 <x-color><param>blue</param>Καὶ ἐπὶ τούτῳ ἦλθαν οἱ μαθηταὶ αὐτοῦ, καὶ ἐθαύμαζον ὅτι μετὰ γυναικὸς ἐλάλει</x-color>
+            <x-color><param>blue</param>οὐδεὶς μέντοι εἶπεν</x-color> <x-color><param>blue</param>Τί ζητεῖς ἢ τί λαλεῖς μετ’ αὐτῆς</x-color>;
 
             28 <x-color><param>cyan</param>ἀφῆκεν οὖν τὴν ὑδρίαν αὐτῆς ἡ γυνὴ καὶ ἀπῆλθεν εἰς τὴν πόλιν</x-color>,
 
             ...
 
             καὶ λέγει τοῖς ἀνθρώποις
-            29 Δεῦτε ἴδετε ἄνθρωπον ὃς <x-color><param>orange</param>εἶπέν μοι πάντα ἃ ἐποίησα</x-color> <x-color><param>dark violet</param>μήτι οὗτός ἐστιν ὁ Χριστός</x-color>;
+            29 Δεῦτε ἴδετε ἄνθρωπον ὃς <x-color><param>orange</param>εἶπέν μοι πάντα ἃ ἐποίησα</x-color>
+            <x-color><param>dark violet</param>μήτι οὗτός ἐστιν ὁ Χριστός</x-color>;
             30 ἐξῆλθον ἐκ τῆς πόλεως καὶ ἤρχοντο πρὸς αὐτόν.
 
             ...
@@ -692,11 +644,13 @@ License: Public domain
         35 οὐχ ὑμεῖς λέγετε ὅτι Ἔτι τετράμηνός ἐστιν καὶ ὁ <x-color><param>blue</param>θερισμὸς</x-color> ἔρχεται;
 
         ἰδοὺ λέγω ὑμῖν, ἐπάρατε τοὺς ὀφθαλμοὺς ὑμῶν καὶ θεάσασθε τὰς χώρας, ὅτι λευκαί εἰσιν πρὸς <x-color><param>blue</param>θερισμόν</x-color>. ἤδη
-        36 ὁ θερίζων μισθὸν λαμβάνει καὶ συνάγει καρπὸν εἰς ζωὴν αἰώνιον, ἵνα ὁ σπείρων ὁμοῦ χαίρῃ καὶ ὁ <x-color><param>blue</param>θερίζων</x-color>.
+        36 ὁ θερίζων μισθὸν λαμβάνει καὶ συνάγει καρπὸν εἰς ζωὴν αἰώνιον,
+
+        ἵνα ὁ σπείρων ὁμοῦ χαίρῃ καὶ ὁ <x-color><param>blue</param>θερίζων</x-color>.
         37 ἐν γὰρ τούτῳ ὁ λόγος ἐστὶν ἀληθινὸς ὅτι ἄλλος ἐστὶν ὁ σπείρων καὶ ἄλλος ὁ <x-color><param>blue</param>θερίζων</x-color>.
         38 ἐγὼ ἀπέστειλα ὑμᾶς <x-color><param>blue</param>θερίζειν</x-color> ὃ οὐχ ὑμεῖς <x-color><param>saddle brown</param>κεκοπιάκατε</x-color> ἄλλοι <x-color><param>saddle brown</param>κεκοπιάκασιν</x-color>,
 
-        καὶ ὑμεῖς εἰς τὸν κόπον αὐτῶν εἰσεληλύθατε.
+        καὶ ὑμεῖς εἰς τὸν <x-color><param>saddle brown</param>κόπον</x-color> αὐτῶν εἰσεληλύθατε.
 
         ...
 
@@ -716,29 +670,22 @@ License: Public domain
         41 καὶ πολλῷ πλείους ἐπίστευσαν διὰ τὸν λόγον αὐτοῦ,
         42 τῇ τε γυναικὶ ἔλεγον
 
-        ὅτι <x-color><param>forest green</param>Οὐκέτι διὰ τὴν σὴν λαλιὰν</x-color> <x-color><param>forest green</param>πιστεύομεν</x-color> αὐτοὶ
+        ὅτι <x-color><param>forest green</param>Οὐκέτι διὰ τὴν σὴν λαλιὰν πιστεύομεν αὐτοὶ</x-color>
 
         γὰρ ἀκηκόαμεν, καὶ οἴδαμεν ὅτι οὗτός ἐστιν ἀληθῶς ὁ Σωτὴρ τοῦ κόσμου.
 
-    43 Μετὰ δὲ τὰς δύο ἡμέρας <x-color><param>blue</param>ἐξῆλθεν</x-color> ἐκεῖθεν <x-color><param>blue</param>εἰς τὴν Γαλιλαίαν</x-color>.
+    43 Μετὰ δὲ τὰς δύο ἡμέρας <x-color><param>cyan</param><bold>ἐξῆλθεν</bold></x-color> ἐκεῖθεν <x-color><param>cyan</param><bold>εἰς τὴν Γαλιλαίαν</bold></x-color>.
 
-    +~~~<italic>J4,44-5,1 Κανὰ τῆς Γαλιλαίας Znak w Kanie Galilejskiej: uzdrowienie na odległość</italic>
+    44 αὐτὸς γὰρ Ἰησοῦς ἐμαρτύρησεν ὅτι προφήτης ἐν τῇ ἰδίᾳ πατρίδι τιμὴν οὐκ ἔχει.
+    45 ὅτε οὖν <x-color><param>cyan</param><bold>ἦλθεν εἰς τὴν Γαλιλαίαν</bold></x-color>, ἐδέξαντο αὐτὸν οἱ Γαλιλαῖοι,
 
-    44 αὐτὸς γὰρ Ἰησοῦς ἐμαρτύρησεν
+    πάντα ἑωρακότες ὅσα ἐποίησεν ἐν Ἱεροσολύμοις ἐν <x-color><param>dark khaki</param>τῇ ἑορτῇ</x-color>
 
-    ὅτι προφήτης ἐν τῇ ἰδίᾳ πατρίδι τιμὴν οὐκ ἔχει.
-    45 ὅτε οὖν <x-color><param>orange</param>ἦλθεν εἰς τὴν Γαλιλαίαν</x-color>,
+    καὶ αὐτοὶ γὰρ ἦλθον εἰς <x-color><param>dark khaki</param>τὴν ἑορτήν</x-color>.
 
-    ἐδέξαντο αὐτὸν οἱ Γαλιλαῖοι,
+    +~~~<italic>J4,46-5,1 Znak w Kanie Galilejskiej: uzdrowienie na odległość </italic><x-color><param>green</param>Κανὰ τῆς Γαλιλαίας</x-color>
 
-    πάντα ἑωρακότες ὅσα ἐποίησεν ἐν Ἱεροσολύμοις ἐν <x-color><param>cyan</param>τῇ ἑορτῇ</x-color>
-
-    καὶ αὐτοὶ γὰρ ἦλθον εἰς <x-color><param>cyan</param>τὴν ἑορτήν</x-color>.
-
-
-    46 Ἦλθεν οὖν πάλιν εἰς <x-color><param>blue</param>τὴν Κανὰ τῆς Γαλιλαίας</x-color>,
-
-    ὅπου ἐποίησεν τὸ ὕδωρ οἶνον.
+    46 Ἦλθεν οὖν πάλιν εἰς <x-color><param>green</param>τὴν Κανὰ τῆς Γαλιλαίας</x-color>, ὅπου ἐποίησεν τὸ ὕδωρ οἶνον.
 
 
     Καὶ ἦν τις βασιλικὸς οὗ ὁ υἱὸς ἠσθένει ἐν Καφαρναούμ
@@ -770,9 +717,9 @@ License: Public domain
     <x-color><param>dark violet</param>λέγοντες</x-color> ὅτι                                          <x-color><param>magenta</param>ὁ παῖς αὐτοῦ ζῇ</x-color>.
 
 
-    52 ἐπύθετο οὖν           τὴν <x-color><param>dodger blue</param>ὥραν</x-color> παρ’ αὐτῶν ἐν ᾗ     <x-color><param>magenta</param>κομψότερον ἔσχεν</x-color>
+    52 <x-color><param>dark violet</param>ἐπύθετο</x-color> οὖν           τὴν <x-color><param>dodger blue</param>ὥραν</x-color> παρ’ αὐτῶν ἐν ᾗ     <x-color><param>magenta</param>κομψότερον ἔσχεν</x-color>
 
-    εἶπαν οὖν αὐτῷ ὅτι         Ἐχθὲς <x-color><param>dodger blue</param>ὥραν</x-color> ἑβδόμην         <x-color><param>magenta</param>ἀφῆκεν αὐτὸν ὁ πυρετός</x-color>.
+    <x-color><param>dark violet</param>εἶπαν</x-color> οὖν αὐτῷ ὅτι       Ἐχθὲς <x-color><param>dodger blue</param>ὥραν</x-color> ἑβδόμην           <x-color><param>magenta</param>ἀφῆκεν αὐτὸν ὁ πυρετός</x-color>.
     53 ἔγνω οὖν ὁ πατὴρ ὅτι  ἐκείνῃ τῇ <x-color><param>dodger blue</param>ὥρᾳ</x-color> ἐν ᾗ
 
     <x-color><param>dark violet</param>εἶπεν αὐτῷ ὁ Ἰησοῦς</x-color>                                   <x-color><param>magenta</param>Ὁ υἱός σου ζῇ</x-color>
@@ -785,17 +732,26 @@ License: Public domain
 
     <x-color><param>orange</param>ἐλθὼν ἐκ τῆς Ἰουδαίας εἰς τὴν Γαλιλαίαν</x-color>.
 
+    +---<italic>J5,1-5,15 W Jerozolimie: uzdrowienie koło sadzawki <x-color><param>tomato</param>Ἱεροσόλυμα</x-color></italic>
 
-    1 Μετὰ ταῦτα ἦν ἑορτὴ τῶν Ἰουδαίων, καὶ ἀνέβη Ἰησοῦς εἰς Ἱεροσόλυμα.
-
-    +^^^<italic>J5,2-5,15 Ἱεροσόλυμα W Jerozolimie: uzdrowienie koło sadzawki</italic>
+    1 Μετὰ ταῦτα ἦν ἑορτὴ τῶν Ἰουδαίων, καὶ ἀνέβη Ἰησοῦς εἰς <x-color><param>tomato</param>Ἱεροσόλυμα</x-color>.
 
     2 Ἔστιν δὲ ἐν τοῖς Ἱεροσολύμοις ἐπὶ τῇ προβατικῇ κολυμβήθρα, ἡ ἐπιλεγομένη Ἑβραϊστὶ Βηθζαθά, πέντε στοὰς ἔχουσα.
-    3 ἐν ταύταις κατέκειτο πλῆθος τῶν ἀσθενούντων, τυφλῶν, χωλῶν, ξηρῶν<<, ἐκδεχομένων τὴν τοῦ ὕδατος κίνησιν.
-    4 ἄγγελος γὰρ κατὰ καιρὸν κατέβαινεν ἐν τῇ κολυμβήθρᾳ καὶ ἐτάρασσε τὸ ὕδωρ ὁ οὖν πρῶτος ἐμβὰς μετὰ τὴν ταραχὴν τοῦ ὕδατος ὑγιὴς ἐγίνετο, ᾧ δήποτε κατείχετο νοσήματι>.
+    3 ἐν ταύταις κατέκειτο πλῆθος τῶν ἀσθενούντων, τυφλῶν, χωλῶν, ξηρῶν
+
+    <<, ἐκδεχομένων τὴν τοῦ ὕδατος κίνησιν.
+    4 ἄγγελος γὰρ κατὰ καιρὸν κατέβαινεν ἐν τῇ κολυμβήθρᾳ καὶ ἐτάρασσε τὸ ὕδωρ
+
+    ὁ οὖν πρῶτος ἐμβὰς μετὰ τὴν ταραχὴν τοῦ ὕδατος ὑγιὴς ἐγίνετο, ᾧ δήποτε κατείχετο νοσήματι>.
     5 ἦν δέ τις ἄνθρωπος ἐκεῖ τριάκοντα καὶ ὀκτὼ ἔτη ἔχων ἐν τῇ ἀσθενείᾳ αὐτοῦ
-    6 τοῦτον ἰδὼν ὁ Ἰησοῦς κατακείμενον, καὶ γνοὺς ὅτι πολὺν ἤδη χρόνον ἔχει, λέγει αὐτῷ Θέλεις ὑγιὴς γενέσθαι;
-    7 ἀπεκρίθη αὐτῷ ὁ ἀσθενῶν Κύριε, ἄνθρωπον οὐκ ἔχω, ἵνα ὅταν ταραχθῇ τὸ ὕδωρ βάλῃ με εἰς τὴν κολυμβήθραν ἐν ᾧ δὲ ἔρχομαι ἐγὼ, ἄλλος πρὸ ἐμοῦ καταβαίνει.
+    6 τοῦτον ἰδὼν ὁ Ἰησοῦς κατακείμενον, καὶ γνοὺς ὅτι πολὺν ἤδη χρόνον ἔχει,
+
+    λέγει αὐτῷ Θέλεις ὑγιὴς γενέσθαι;
+    7 ἀπεκρίθη αὐτῷ ὁ ἀσθενῶν
+
+    Κύριε, ἄνθρωπον οὐκ ἔχω, ἵνα ὅταν ταραχθῇ τὸ ὕδωρ βάλῃ με εἰς τὴν κολυμβήθραν
+
+    ἐν ᾧ δὲ ἔρχομαι ἐγὼ, ἄλλος πρὸ ἐμοῦ καταβαίνει.
     8 λέγει αὐτῷ ὁ Ἰησοῦς
 
             Ἔγειρε <x-color><param>red</param>ἆρον τὸν κράβαττόν σου καὶ περιπάτει</x-color>.
@@ -809,9 +765,7 @@ License: Public domain
     10 ἔλεγον οὖν οἱ Ἰουδαῖοι τῷ τεθεραπευμένῳ Σάββατόν ἐστιν,
 
     καὶ οὐκ ἔξεστίν σοι <x-color><param>red</param>ἆραι τὸν κράβαττον</x-color>.
-    11 ὃς δὲ ἀπεκρίθη αὐτοῖς Ὁ ποιήσας με ὑγιῆ,
-
-    ἐκεῖνός μοι εἶπεν
+    11 ὃς δὲ ἀπεκρίθη αὐτοῖς Ὁ ποιήσας με ὑγιῆ, ἐκεῖνός μοι εἶπεν
 
     <x-color><param>red</param>Ἆρον τὸν κράβαττόν σου καὶ περιπάτει</x-color>.
 
@@ -822,38 +776,37 @@ License: Public domain
 
 
     13 ὁ δὲ ἰαθεὶς οὐκ ᾔδει τίς ἐστιν ὁ γὰρ Ἰησοῦς ἐξένευσεν ὄχλου ὄντος ἐν τῷ τόπῳ.
-    14 Μετὰ ταῦτα εὑρίσκει αὐτὸν ὁ Ἰησοῦς ἐν τῷ ἱερῷ καὶ εἶπεν αὐτῷ Ἴδε ὑγιὴς γέγονας μηκέτι ἁμάρτανε, ἵνα μὴ χεῖρόν σοί τι γένηται.
+    14 Μετὰ ταῦτα εὑρίσκει αὐτὸν ὁ Ἰησοῦς ἐν τῷ ἱερῷ καὶ εἶπεν αὐτῷ
+
+    Ἴδε ὑγιὴς γέγονας μηκέτι ἁμάρτανε, ἵνα μὴ χεῖρόν σοί τι γένηται.
     15 ἀπῆλθεν ὁ ἄνθρωπος καὶ εἶπεν τοῖς Ἰουδαίοις ὅτι Ἰησοῦς ἐστιν ὁ ποιήσας αὐτὸν ὑγιῆ.
 
-    +===<italic>J5,16-5,30 Ἀμὴν ἀμὴν λέγω ὑμῖν Zaprawdę powiadam Wam</italic>
+    +===<italic>J5,16-5,30 Zaprawdę powiadam Wam <x-color><param>dark violet</param>Ἀμὴν ἀμὴν λέγω ὑμῖν</x-color></italic>
 
         +===
 
         16 καὶ διὰ τοῦτο ἐδίωκον οἱ Ἰουδαῖοι τὸν Ἰησοῦν, ὅτι ταῦτα ἐποίει ἐν <x-color><param>orange</param>σαββάτῳ</x-color>.
         17 ὁ δὲ ἀπεκρίνατο αὐτοῖς <x-color><param>magenta</param>Ὁ Πατήρ</x-color> μου ἕως ἄρτι ἐργάζεται, κἀγὼ ἐργάζομαι
-         ---
+        ---
 
         18 διὰ τοῦτο οὖν μᾶλλον ἐζήτουν αὐτὸν οἱ Ἰουδαῖοι ἀποκτεῖναι,
 
         ὅτι οὐ μόνον ἔλυεν τὸ <x-color><param>orange</param>σάββατον</x-color>,
 
-        ἀλλὰ καὶ <x-color><param>magenta</param>Πατέρα</x-color> ἴδιον ἔλεγεν <x-color><param>blue</param>τὸν Θεόν</x-color>,
-
-        ἴσον ἑαυτὸν ποιῶν <x-color><param>blue</param>τῷ Θεῷ</x-color>.
+        ἀλλὰ καὶ <x-color><param>magenta</param>Πατέρα</x-color> ἴδιον ἔλεγεν <x-color><param>blue</param>τὸν Θεόν</x-color>, ἴσον ἑαυτὸν ποιῶν <x-color><param>blue</param>τῷ Θεῷ</x-color>.
 
         +===
 
         19 Ἀπεκρίνατο οὖν ὁ Ἰησοῦς καὶ ἔλεγεν αὐτοῖς <x-color><param>red</param><bold>Ἀμὴν ἀμὴν λέγω ὑμῖν</bold></x-color>,
 
-         ...
+        ...
 
-        οὐ δύναται <x-color><param>magenta</param>ὁ Υἱὸς</x-color> <x-color><param>green</param>ποιεῖν</x-color> ἀφ’ ἑαυτοῦ οὐδὲν,
+        οὐ δύναται <x-color><param>magenta</param>ὁ Υἱὸς</x-color> <x-color><param>green</param>ποιεῖν</x-color> ἀφ’ ἑαυτοῦ οὐδὲν, ἂν μή τι βλέπῃ <x-color><param>magenta</param>τὸν Πατέρα</x-color> <x-color><param>green</param>ποιοῦντα</x-color>
 
-        ἂν μή τι βλέπῃ <x-color><param>magenta</param>τὸν Πατέρα</x-color> <x-color><param>green</param>ποιοῦντα</x-color> ἃ γὰρ ἂν ἐκεῖνος ποιῇ,
+        ἃ γὰρ ἂν <x-color><param>magenta</param>ἐκεῖνος</x-color> <x-color><param>green</param>ποιῇ</x-color>, ταῦτα καὶ <x-color><param>magenta</param>ὁ Υἱὸς</x-color> ὁμοίως <x-color><param>green</param>ποιεῖ</x-color>.
+        20 ὁ γὰρ <x-color><param>magenta</param>Πατὴρ</x-color> φιλεῖ <x-color><param>magenta</param>τὸν Υἱὸν</x-color> καὶ πάντα δείκνυσιν αὐτῷ ἃ αὐτὸς <x-color><param>green</param>ποιεῖ</x-color>,
 
-
-        ταῦτα καὶ <x-color><param>magenta</param>ὁ Υἱὸς</x-color> ὁμοίως <x-color><param>green</param>ποιεῖ</x-color>.
-        20 ὁ γὰρ <x-color><param>magenta</param>Πατὴρ</x-color> φιλεῖ <x-color><param>magenta</param>τὸν Υἱὸν</x-color> καὶ πάντα δείκνυσιν αὐτῷ ἃ αὐτὸς ποιεῖ, καὶ μείζονα τούτων δείξει αὐτῷ ἔργα, ἵνα ὑμεῖς θαυμάζητε.
+        καὶ μείζονα τούτων δείξει αὐτῷ ἔργα, ἵνα ὑμεῖς θαυμάζητε.
 
 
         21 <x-color><param>orange</param>ὥσπερ</x-color> γὰρ <x-color><param>magenta</param>ὁ Πατὴρ</x-color> ἐγείρει τοὺς νεκροὺς καὶ <x-color><param>orange</param>ζωοποιεῖ</x-color>,
@@ -866,20 +819,15 @@ License: Public domain
         ἀλλὰ τὴν <x-color><param>red</param>κρίσιν</x-color> πᾶσαν δέδωκεν <x-color><param>magenta</param>τῷ Υἱῷ</x-color>,
 
 
-        23 ἵνα πάντες τιμῶσι <x-color><param>magenta</param>τὸν Υἱὸν</x-color>
+        23 ἵνα πάντες <x-color><param>dark khaki</param>τιμῶσι</x-color> <x-color><param>magenta</param>τὸν Υἱὸν</x-color> καθὼς <x-color><param>dark khaki</param>τιμῶσι</x-color> <x-color><param>magenta</param>τὸν Πατέρα</x-color>.
 
-        καθὼς τιμῶσι <x-color><param>magenta</param>τὸν Πατέρα</x-color>.
-
-
-        ὁ μὴ τιμῶν <x-color><param>magenta</param>τὸν Υἱὸν</x-color>
-
-        οὐ τιμᾷ <x-color><param>magenta</param>τὸν Πατέρα</x-color> τὸν πέμψαντα αὐτόν.
+        ὁ μὴ <x-color><param>dark khaki</param>τιμῶν</x-color> <x-color><param>magenta</param>τὸν Υἱὸν</x-color> οὐ <x-color><param>dark khaki</param>τιμᾷ</x-color> <x-color><param>magenta</param>τὸν Πατέρα</x-color> τὸν <x-color><param>dodger blue</param>πέμψαντα</x-color> αὐτόν.
 
         +===
 
         24 <x-color><param>red</param><bold>ἀμὴν ἀμὴν λέγω ὑμῖν</bold></x-color>
 
-        ὅτι ὁ τὸν λόγον μου ἀκούων    καὶ πιστεύων τῷ πέμψαντί με
+        ὅτι ὁ τὸν λόγον μου ἀκούων    καὶ πιστεύων τῷ <x-color><param>dodger blue</param>πέμψαντί</x-color> με
 
         ἔχει <x-color><param>blue</param>ζωὴν</x-color> αἰώνιον,
 
@@ -891,12 +839,12 @@ License: Public domain
 
         25 <x-color><param>red</param><bold>ἀμὴν ἀμὴν λέγω ὑμῖν</bold></x-color>
 
-         ...
+        ...
 
         ὅτι <x-color><param>green</param>ἔρχεται ὥρα</x-color> καὶ νῦν ἐστιν
 
 
-        ὅτε <x-color><param>cyan</param>οἱ νεκροὶ</x-color> <x-color><param>dark violet</param>ἀκούσουσιν τῆς φωνῆς τοῦ Υἱοῦ</x-color> τοῦ Θεοῦ
+        ὅτε <x-color><param>cyan</param>οἱ νεκροὶ</x-color> <x-color><param>dark violet</param>ἀκούσουσιν τῆς φωνῆς τοῦ Υἱοῦ τοῦ Θεοῦ</x-color>
 
         καὶ οἱ <x-color><param>dark violet</param>ἀκούσαντες</x-color> ζήσουσιν.
 
@@ -906,10 +854,8 @@ License: Public domain
         <x-color><param>orange</param>οὕτως</x-color> καὶ <x-color><param>magenta</param>τῷ Υἱῷ</x-color> ἔδωκεν <x-color><param>forest green</param>ζωὴν ἔχειν ἐν ἑαυτῷ</x-color>.
 
 
-        27 καὶ ἐξουσίαν ἔδωκεν αὐτῷ <x-color><param>red</param>κρίσιν</x-color> ποιεῖν,
-
-        ὅτι Υἱὸς ἀνθρώπου ἐστίν.
-         ...
+        27 καὶ ἐξουσίαν ἔδωκεν αὐτῷ <x-color><param>red</param>κρίσιν</x-color> ποιεῖν, ὅτι Υἱὸς ἀνθρώπου ἐστίν.
+        ...
 
         28 μὴ θαυμάζετε τοῦτο, ὅτι <x-color><param>green</param>ἔρχεται ὥρα</x-color> ἐν ᾗ
 
@@ -917,13 +863,9 @@ License: Public domain
         πάντες <x-color><param>cyan</param>οἱ ἐν τοῖς μνημείοις</x-color> <x-color><param>dark violet</param>ἀκούσουσιν τῆς φωνῆς αὐτοῦ</x-color>
 
 
-        29 καὶ ἐκπορεύσονται οἱ τὰ ἀγαθὰ ποιήσαντες
+        29 καὶ ἐκπορεύσονται οἱ τὰ ἀγαθὰ ποιήσαντες    <x-color><param>forest green</param>εἰς ἀνάστασιν ζωῆς</x-color>,
 
-            <x-color><param>forest green</param>εἰς ἀνάστασιν ζωῆς</x-color>,
-
-        οἱ τὰ φαῦλα πράξαντες
-
-            <x-color><param>forest green</param>εἰς ἀνάστασιν κρίσεως</x-color>.
+        οἱ τὰ φαῦλα πράξαντες                          <x-color><param>forest green</param>εἰς ἀνάστασιν κρίσεως</x-color>.
 
 
         30 Οὐ δύναμαι ἐγὼ ποιεῖν ἀπ’ ἐμαυτοῦ οὐδέν καθὼς ἀκούω <x-color><param>red</param>κρίνω</x-color>,
@@ -931,11 +873,9 @@ License: Public domain
         καὶ ἡ <x-color><param>red</param>κρίσις</x-color> ἡ ἐμὴ δικαία ἐστίν,
 
 
-        ὅτι οὐ ζητῶ <x-color><param>saddle brown</param>τὸ θέλημα</x-color> τὸ ἐμὸν
+        ὅτι οὐ ζητῶ <x-color><param>saddle brown</param>τὸ θέλημα</x-color> τὸ ἐμὸν ἀλλὰ <x-color><param>saddle brown</param>τὸ θέλημα</x-color> τοῦ <x-color><param>dodger blue</param>πέμψαντός</x-color> με.
 
-        ἀλλὰ <x-color><param>saddle brown</param>τὸ θέλημα</x-color> τοῦ πέμψαντός με.
-
-+---<italic>J5,31-47 μαρτυρία</italic>
++---<italic>J5,31-47 <x-color><param>blue</param>μαρτυρία</x-color></italic>
 
 31 Ἐὰν ἐγὼ <x-color><param>red</param><bold>μαρτυρῶ</bold></x-color> περὶ ἐμαυτοῦ,
 
@@ -954,14 +894,16 @@ License: Public domain
 
 αὐτὰ τὰ <x-color><param>green</param>ἔργα</x-color> ἃ ποιῶ, <x-color><param>red</param><bold>μαρτυρεῖ</bold></x-color> περὶ ἐμοῦ
 
-ὅτι <x-color><param>magenta</param>ὁ Πατήρ</x-color> με ἀπέσταλκεν.
-37 καὶ ὁ πέμψας <x-color><param>magenta</param>με Πατὴρ</x-color>, ἐκεῖνος <x-color><param>red</param><bold>μεμαρτύρηκεν</bold></x-color> περὶ ἐμοῦ.
+ὅτι <x-color><param>magenta</param>ὁ Πατήρ</x-color> με <x-color><param>forest green</param>ἀπέσταλκεν</x-color>.
+37 καὶ ὁ <x-color><param>forest green</param>πέμψας</x-color> <x-color><param>magenta</param>με Πατὴρ</x-color>, ἐκεῖνος <x-color><param>red</param><bold>μεμαρτύρηκεν</bold></x-color> περὶ ἐμοῦ.
 
 οὔτε <bold>φωνὴν αὐτοῦ πώποτε ἀκηκόατε οὔτε εἶδος αὐτοῦ ἑωράκατε</bold>,
 38 καὶ τὸν λόγον αὐτοῦ οὐκ ἔχετε ἐν ὑμῖν μένοντα,
 
 ὅτι ὃν ἀπέστειλεν ἐκεῖνος, τούτῳ ὑμεῖς οὐ πιστεύετε.
-39 ἐραυνᾶτε τὰς γραφάς, ὅτι ὑμεῖς δοκεῖτε ἐν αὐταῖς ζωὴν αἰώνιον ἔχειν καὶ ἐκεῖναί εἰσιν αἱ <x-color><param>red</param><bold>μαρτυροῦσαι</bold></x-color> περὶ ἐμοῦ
+39 ἐραυνᾶτε τὰς γραφάς, ὅτι ὑμεῖς δοκεῖτε ἐν αὐταῖς ζωὴν αἰώνιον ἔχειν
+
+καὶ ἐκεῖναί εἰσιν αἱ <x-color><param>red</param><bold>μαρτυροῦσαι</bold></x-color> περὶ ἐμοῦ
 40 καὶ οὐ θέλετε ἐλθεῖν πρός με ἵνα ζωὴν ἔχητε.
 41 Δόξαν παρὰ ἀνθρώπων οὐ λαμβάνω,
 42 ἀλλὰ ἔγνωκα ὑμᾶς ὅτι τὴν ἀγάπην τοῦ Θεοῦ οὐκ ἔχετε ἐν ἑαυτοῖς.
@@ -971,83 +913,121 @@ License: Public domain
 44 πῶς δύνασθε ὑμεῖς πιστεῦσαι, δόξαν παρὰ ἀλλήλων λαμβάνοντες,
 
 καὶ τὴν δόξαν τὴν παρὰ τοῦ μόνου Θεοῦ οὐ ζητεῖτε;
-45 μὴ δοκεῖτε ὅτι ἐγὼ κατηγορήσω ὑμῶν πρὸς <x-color><param>magenta</param>τὸν Πατέρα</x-color> ἔστιν ὁ κατηγορῶν ὑμῶν <bold><x-color><param>red</param>Μωϋσῆς</x-color></bold>, εἰς ὃν ὑμεῖς ἠλπίκατε.
-46 εἰ γὰρ ἐπιστεύετε <x-color><param>magenta</param>Μωϋσεῖ</x-color>, ἐπιστεύετε ἂν ἐμοί περὶ γὰρ ἐμοῦ ἐκεῖνος ἔγραψεν.
+45 μὴ δοκεῖτε ὅτι ἐγὼ κατηγορήσω ὑμῶν πρὸς <x-color><param>magenta</param>τὸν Πατέρα</x-color> ἔστιν ὁ κατηγορῶν ὑμῶν <bold><x-color><param>red</param>Μωϋσῆς</x-color></bold>,
+
+εἰς ὃν ὑμεῖς ἠλπίκατε.
+46 εἰ γὰρ ἐπιστεύετε <x-color><param>red</param><bold>Μωϋσεῖ</bold></x-color>, ἐπιστεύετε ἂν ἐμοί περὶ γὰρ ἐμοῦ ἐκεῖνος ἔγραψεν.
 47 εἰ δὲ τοῖς ἐκείνου γράμμασιν οὐ πιστεύετε, πῶς τοῖς ἐμοῖς ῥήμασιν πιστεύσετε;
 
-* J6
+* <bold>J6,1-71</bold>
 
-6:1 Μετὰ ταῦτα ἀπῆλθεν ὁ Ἰησοῦς πέραν τῆς θαλάσσης τῆς Γαλιλαίας τῆς Τιβεριάδος.
-6:2 ἠκολούθει δὲ αὐτῷ ὄχλος πολύς, ὅτι ἑώρων τὰ σημεῖα ἃ ἐποίει ἐπὶ τῶν ἀσθενούντων.
-6:3 ἀνῆλθεν δὲ εἰς τὸ ὄρος Ἰησοῦς, καὶ ἐκεῖ ἐκάθητο μετὰ τῶν μαθητῶν αὐτοῦ.
-6:4 ἦν δὲ ἐγγὺς τὸ πάσχα, ἡ ἑορτὴ τῶν Ἰουδαίων.
-6:5 ἐπάρας οὖν τοὺς ὀφθαλμοὺς ὁ Ἰησοῦς καὶ θεασάμενος ὅτι πολὺς ὄχλος ἔρχεται πρὸς αὐτὸν, λέγει πρὸς Φίλιππον Πόθεν ἀγοράσωμεν ἄρτους ἵνα φάγωσιν οὗτοι;
-6:6 τοῦτο δὲ ἔλεγεν πειράζων αὐτόν αὐτὸς γὰρ ᾔδει τί ἔμελλεν ποιεῖν.
-6:7 ἀπεκρίθη αὐτῷ ὁ Φίλιππος Διακοσίων δηναρίων ἄρτοι οὐκ ἀρκοῦσιν αὐτοῖς, ἵνα ἕκαστος βραχύ τι λάβῃ.
-6:8 λέγει αὐτῷ εἷς ἐκ τῶν μαθητῶν αὐτοῦ, Ἀνδρέας ὁ ἀδελφὸς Σίμωνος Πέτρου
-6:9 Ἔστιν παιδάριον ὧδε ὃς ἔχει πέντε ἄρτους κριθίνους καὶ δύο ὀψάρια ἀλλὰ ταῦτα τί ἐστιν εἰς τοσούτους;
-6:10 εἶπεν ὁ Ἰησοῦς Ποιήσατε τοὺς ἀνθρώπους ἀναπεσεῖν. ἦν δὲ χόρτος πολὺς ἐν τῷ τόπῳ. ἀνέπεσαν οὖν οἱ ἄνδρες τὸν ἀριθμὸν ὡς πεντακισχίλιοι.
-6:11 ἔλαβεν οὖν τοὺς ἄρτους ὁ Ἰησοῦς καὶ εὐχαριστήσας διέδωκεν τοῖς ἀνακειμένοις, ὁμοίως καὶ ἐκ τῶν ὀψαρίων ὅσον ἤθελον.
-6:12 ὡς δὲ ἐνεπλήσθησαν, λέγει τοῖς μαθηταῖς αὐτοῦ Συναγάγετε τὰ περισσεύσαντα κλάσματα, ἵνα μή τι ἀπόληται.
-6:13 συνήγαγον οὖν, καὶ ἐγέμισαν δώδεκα κοφίνους κλασμάτων ἐκ τῶν πέντε ἄρτων τῶν κριθίνων ἃ ἐπερίσσευσαν τοῖς βεβρωκόσιν.
-6:14 Οἱ οὖν ἄνθρωποι ἰδόντες ὃ ἐποίησεν σημεῖον ἔλεγον ὅτι Οὗτός ἐστιν ἀληθῶς ὁ προφήτης ὁ ἐρχόμενος εἰς τὸν κόσμον.
-6:15 Ἰησοῦς οὖν γνοὺς ὅτι μέλλουσιν ἔρχεσθαι καὶ ἁρπάζειν αὐτὸν ἵνα ποιήσωσιν βασιλέα, ἀνεχώρησεν πάλιν εἰς τὸ ὄρος αὐτὸς μόνος.
-6:16 Ὡς δὲ ὀψία ἐγένετο, κατέβησαν οἱ μαθηταὶ αὐτοῦ ἐπὶ τὴν θάλασσαν,
-6:17 καὶ ἐμβάντες εἰς πλοῖον ἤρχοντο πέραν τῆς θαλάσσης εἰς Καφαρναούμ. καὶ σκοτία ἤδη ἐγεγόνει καὶ οὔπω ἐληλύθει πρὸς αὐτοὺς ὁ Ἰησοῦς,
-6:18 ἥ τε θάλασσα ἀνέμου μεγάλου πνέοντος διεγείρετο.
-6:19 ἐληλακότες οὖν ὡς σταδίους εἴκοσι πέντε ἢ τριάκοντα θεωροῦσιν τὸν Ἰησοῦν περιπατοῦντα ἐπὶ τῆς θαλάσσης καὶ ἐγγὺς τοῦ πλοίου γινόμενον, καὶ ἐφοβήθησαν.
-6:20 ὁ δὲ λέγει αὐτοῖς Ἐγώ εἰμι, μὴ φοβεῖσθε.
-6:21 ἤθελον οὖν λαβεῖν αὐτὸν εἰς τὸ πλοῖον, καὶ εὐθέως ἐγένετο τὸ πλοῖον ἐπὶ τῆς γῆς εἰς ἣν ὑπῆγον.
-6:22 Τῇ ἐπαύριον ὁ ὄχλος ὁ ἑστηκὼς πέραν τῆς θαλάσσης εἶδον ὅτι πλοιάριον ἄλλο οὐκ ἦν ἐκεῖ εἰ μὴ ἕν, καὶ ὅτι οὐ συνεισῆλθεν τοῖς μαθηταῖς αὐτοῦ ὁ Ἰησοῦς εἰς τὸ πλοῖον ἀλλὰ μόνοι οἱ μαθηταὶ αὐτοῦ ἀπῆλθον
-6:23 ἀλλὰ ἦλθεν πλοιάρια ἐκ Τιβεριάδος ἐγγὺς τοῦ τόπου ὅπου ἔφαγον τὸν ἄρτον εὐχαριστήσαντος τοῦ Κυρίου.
-6:24 ὅτε οὖν εἶδεν ὁ ὄχλος ὅτι Ἰησοῦς οὐκ ἔστιν ἐκεῖ οὐδὲ οἱ μαθηταὶ αὐτοῦ, ἐνέβησαν αὐτοὶ εἰς τὰ πλοιάρια καὶ ἦλθον εἰς Καφαρναοὺμ ζητοῦντες τὸν Ἰησοῦν.
-6:25 καὶ εὑρόντες αὐτὸν πέραν τῆς θαλάσσης εἶπον αὐτῷ Ῥαββεί, πότε ὧδε γέγονας;
-6:26 ἀπεκρίθη αὐτοῖς ὁ Ἰησοῦς καὶ εἶπεν Ἀμὴν ἀμὴν λέγω ὑμῖν, ζητεῖτέ με οὐχ ὅτι εἴδετε σημεῖα, ἀλλ’ ὅτι ἐφάγετε ἐκ τῶν ἄρτων καὶ ἐχορτάσθητε.
-6:27 ἐργάζεσθε μὴ τὴν βρῶσιν τὴν ἀπολλυμένην, ἀλλὰ τὴν βρῶσιν τὴν μένουσαν εἰς ζωὴν αἰώνιον, ἣν ὁ Υἱὸς τοῦ ἀνθρώπου ὑμῖν δώσει τοῦτον γὰρ ὁ Πατὴρ ἐσφράγισεν ὁ Θεός.
-6:28 εἶπον οὖν πρὸς αὐτόν Τί ποιῶμεν ἵνα ἐργαζώμεθα τὰ ἔργα τοῦ Θεοῦ;
-6:29 ἀπεκρίθη Ἰησοῦς καὶ εἶπεν αὐτοῖς Τοῦτό ἐστιν τὸ ἔργον τοῦ Θεοῦ, ἵνα πιστεύητε εἰς ὃν ἀπέστειλεν ἐκεῖνος.
-6:30 εἶπον οὖν αὐτῷ Τί οὖν ποιεῖς σὺ σημεῖον, ἵνα ἴδωμεν καὶ πιστεύσωμέν σοι; τί ἐργάζῃ;
-6:31 οἱ πατέρες ἡμῶν τὸ μάννα ἔφαγον ἐν τῇ ἐρήμῳ, καθώς ἐστιν γεγραμμένον Ἄρτον ἐκ τοῦ οὐρανοῦ ἔδωκεν αὐτοῖς φαγεῖν.
-6:32 εἶπεν οὖν αὐτοῖς ὁ Ἰησοῦς Ἀμὴν ἀμὴν λέγω ὑμῖν, οὐ Μωϋσῆς δέδωκεν ὑμῖν τὸν ἄρτον ἐκ τοῦ οὐρανοῦ, ἀλλ’ ὁ Πατήρ μου δίδωσιν ὑμῖν τὸν ἄρτον ἐκ τοῦ οὐρανοῦ τὸν ἀληθινόν
-6:33 ὁ γὰρ ἄρτος τοῦ Θεοῦ ἐστιν ὁ καταβαίνων ἐκ τοῦ οὐρανοῦ καὶ ζωὴν διδοὺς τῷ κόσμῳ.
-6:34 εἶπον οὖν πρὸς αὐτόν Κύριε, πάντοτε δὸς ἡμῖν τὸν ἄρτον τοῦτον.
-6:35 εἶπεν αὐτοῖς ὁ Ἰησοῦς Ἐγώ εἰμι ὁ ἄρτος τῆς ζωῆς ὁ ἐρχόμενος πρὸς ἐμὲ οὐ μὴ πεινάσῃ, καὶ ὁ πιστεύων εἰς ἐμὲ οὐ μὴ διψήσει πώποτε.
-6:36 ἀλλ’ εἶπον ὑμῖν ὅτι καὶ ἑωράκατέ με καὶ οὐ πιστεύετε.
-6:37 Πᾶν ὃ δίδωσίν μοι ὁ Πατὴρ πρὸς ἐμὲ ἥξει, καὶ τὸν ἐρχόμενον πρός με οὐ μὴ ἐκβάλω ἔξω,
-6:38 ὅτι καταβέβηκα ἀπὸ τοῦ οὐρανοῦ οὐχ ἵνα ποιῶ τὸ θέλημα τὸ ἐμὸν ἀλλὰ τὸ θέλημα τοῦ πέμψαντός με.
-6:39 τοῦτο δέ ἐστιν τὸ θέλημα τοῦ πέμψαντός με, ἵνα πᾶν ὃ δέδωκέν μοι μὴ ἀπολέσω ἐξ αὐτοῦ, ἀλλὰ ἀναστήσω αὐτὸ ἐν τῇ ἐσχάτῃ ἡμέρᾳ.
-6:40 τοῦτο γάρ ἐστιν τὸ θέλημα τοῦ Πατρός μου, ἵνα πᾶς ὁ θεωρῶν τὸν Υἱὸν καὶ πιστεύων εἰς αὐτὸν ἔχῃ ζωὴν αἰώνιον, καὶ ἀναστήσω αὐτὸν ἐγὼ ἐν τῇ ἐσχάτῃ ἡμέρᾳ.
-6:41 Ἐγόγγυζον οὖν οἱ Ἰουδαῖοι περὶ αὐτοῦ ὅτι εἶπεν Ἐγώ εἰμι ὁ ἄρτος ὁ καταβὰς ἐκ τοῦ οὐρανοῦ,
-6:42 καὶ ἔλεγον Οὐχ οὗτός ἐστιν Ἰησοῦς ὁ υἱὸς Ἰωσήφ, οὗ ἡμεῖς οἴδαμεν τὸν πατέρα καὶ τὴν μητέρα; πῶς νῦν λέγει ὅτι Ἐκ τοῦ οὐρανοῦ καταβέβηκα;
-6:43 ἀπεκρίθη Ἰησοῦς καὶ εἶπεν αὐτοῖς Μὴ γογγύζετε μετ’ ἀλλήλων.
-6:44 οὐδεὶς δύναται ἐλθεῖν πρός με ἐὰν μὴ ὁ Πατὴρ ὁ πέμψας με ἑλκύσῃ αὐτόν, κἀγὼ ἀναστήσω αὐτὸν ἐν τῇ ἐσχάτῃ ἡμέρᾳ.
-6:45 ἔστιν γεγραμμένον ἐν τοῖς προφήταις Καὶ ἔσονται πάντες διδακτοὶ Θεοῦ πᾶς ὁ ἀκούσας παρὰ τοῦ Πατρὸς καὶ μαθὼν ἔρχεται πρὸς ἐμέ.
-6:46 οὐχ ὅτι τὸν Πατέρα ἑώρακέν τις, εἰ μὴ ὁ ὢν παρὰ τοῦ Θεοῦ, οὗτος ἑώρακεν τὸν Πατέρα.
-6:47 ἀμὴν ἀμὴν λέγω ὑμῖν, ὁ πιστεύων ἔχει ζωὴν αἰώνιον.
-6:48 ἐγώ εἰμι ὁ ἄρτος τῆς ζωῆς.
-6:49 οἱ πατέρες ὑμῶν ἔφαγον ἐν τῇ ἐρήμῳ τὸ μάννα καὶ ἀπέθανον
-6:50 οὗτός ἐστιν ὁ ἄρτος ὁ ἐκ τοῦ οὐρανοῦ καταβαίνων, ἵνα τις ἐξ αὐτοῦ φάγῃ καὶ μὴ ἀποθάνῃ.
-6:51 ἐγώ εἰμι ὁ ἄρτος ὁ ζῶν ὁ ἐκ τοῦ οὐρανοῦ καταβάς ἐάν τις φάγῃ ἐκ τούτου τοῦ ἄρτου, ζήσει εἰς τὸν αἰῶνα καὶ ὁ ἄρτος δὲ ὃν ἐγὼ δώσω ἡ σάρξ μού ἐστιν ὑπὲρ τῆς τοῦ κόσμου ζωῆς.
-6:52 Ἐμάχοντο οὖν πρὸς ἀλλήλους οἱ Ἰουδαῖοι λέγοντες Πῶς δύναται οὗτος ἡμῖν δοῦναι τὴν σάρκα φαγεῖν;
-6:53 εἶπεν οὖν αὐτοῖς ὁ Ἰησοῦς Ἀμὴν ἀμὴν λέγω ὑμῖν, ἐὰν μὴ φάγητε τὴν σάρκα τοῦ Υἱοῦ τοῦ ἀνθρώπου καὶ πίητε αὐτοῦ τὸ αἷμα, οὐκ ἔχετε ζωὴν ἐν ἑαυτοῖς.
-6:54 ὁ τρώγων μου τὴν σάρκα καὶ πίνων μου τὸ αἷμα ἔχει ζωὴν αἰώνιον, κἀγὼ ἀναστήσω αὐτὸν τῇ ἐσχάτῃ ἡμέρᾳ.
-6:55 ἡ γὰρ σάρξ μου ἀληθής ἐστιν βρῶσις, καὶ τὸ αἷμά μου ἀληθής ἐστιν πόσις.
-6:56 ὁ τρώγων μου τὴν σάρκα καὶ πίνων μου τὸ αἷμα ἐν ἐμοὶ μένει κἀγὼ ἐν αὐτῷ.
-6:57 καθὼς ἀπέστειλέν με ὁ ζῶν Πατὴρ κἀγὼ ζῶ διὰ τὸν Πατέρα, καὶ ὁ τρώγων με κἀκεῖνος ζήσει δι’ ἐμέ.
-6:58 οὗτός ἐστιν ὁ ἄρτος ὁ ἐξ οὐρανοῦ καταβάς, οὐ καθὼς ἔφαγον οἱ πατέρες καὶ ἀπέθανον ὁ τρώγων τοῦτον τὸν ἄρτον ζήσει εἰς τὸν αἰῶνα.
-6:59 Ταῦτα εἶπεν ἐν συναγωγῇ διδάσκων ἐν Καφαρναούμ.
-6:60 Πολλοὶ οὖν ἀκούσαντες ἐκ τῶν μαθητῶν αὐτοῦ εἶπαν Σκληρός ἐστιν ὁ λόγος οὗτος τίς δύναται αὐτοῦ ἀκούειν;
-6:61 εἰδὼς δὲ ὁ Ἰησοῦς ἐν ἑαυτῷ ὅτι γογγύζουσιν περὶ τούτου οἱ μαθηταὶ αὐτοῦ, εἶπεν αὐτοῖς Τοῦτο ὑμᾶς σκανδαλίζει;
-6:62 ἐὰν οὖν θεωρῆτε τὸν Υἱὸν τοῦ ἀνθρώπου ἀναβαίνοντα ὅπου ἦν τὸ πρότερον;
-6:63 τὸ πνεῦμά ἐστιν τὸ ζωοποιοῦν, ἡ σὰρξ οὐκ ὠφελεῖ οὐδέν τὰ ῥήματα ἃ ἐγὼ λελάληκα ὑμῖν πνεῦμά ἐστιν καὶ ζωή ἐστιν.
-6:64 ἀλλ’ εἰσὶν ἐξ ὑμῶν τινες οἳ οὐ πιστεύουσιν. ᾔδει γὰρ ἐξ ἀρχῆς ὁ Ἰησοῦς τίνες εἰσὶν οἱ μὴ πιστεύοντες καὶ τίς ἐστιν ὁ παραδώσων αὐτόν.
-6:65 καὶ ἔλεγεν Διὰ τοῦτο εἴρηκα ὑμῖν ὅτι οὐδεὶς δύναται ἐλθεῖν πρός με ἐὰν μὴ ᾖ δεδομένον αὐτῷ ἐκ τοῦ Πατρός.
-6:66 Ἐκ τούτου πολλοὶ τῶν μαθητῶν αὐτοῦ ἀπῆλθον εἰς τὰ ὀπίσω καὶ οὐκέτι μετ’ αὐτοῦ περιεπάτουν.
-6:67 εἶπεν οὖν ὁ Ἰησοῦς τοῖς δώδεκα Μὴ καὶ ὑμεῖς θέλετε ὑπάγειν;
-6:68 ἀπεκρίθη αὐτῷ Σίμων Πέτρος Κύριε, πρὸς τίνα ἀπελευσόμεθα; ῥήματα ζωῆς αἰωνίου ἔχεις
-6:69 καὶ ἡμεῖς πεπιστεύκαμεν καὶ ἐγνώκαμεν ὅτι σὺ εἶ ὁ Ἅγιος τοῦ Θεοῦ.
-6:70 ἀπεκρίθη αὐτοῖς ὁ Ἰησοῦς Οὐκ ἐγὼ ὑμᾶς τοὺς δώδεκα ἐξελεξάμην; καὶ ἐξ ὑμῶν εἷς διάβολός ἐστιν.
-6:71 ἔλεγεν δὲ τὸν Ἰούδαν Σίμωνος Ἰσκαριώτου οὗτος γὰρ ἔμελλεν παραδιδόναι αὐτόν, εἷς ἐκ τῶν δώδεκα.
++---J6,1-15 <x-color><param>blue</param>Rozmnożenie chleba</x-color>
+
+1 Μετὰ ταῦτα ἀπῆλθεν ὁ Ἰησοῦς πέραν τῆς θαλάσσης τῆς Γαλιλαίας τῆς Τιβεριάδος.
+2 ἠκολούθει δὲ αὐτῷ ὄχλος πολύς, ὅτι ἑώρων <x-color><param>red</param>τὰ σημεῖα</x-color> ἃ ἐποίει ἐπὶ τῶν ἀσθενούντων.
+3 ἀνῆλθεν δὲ εἰς τὸ ὄρος Ἰησοῦς, καὶ ἐκεῖ ἐκάθητο μετὰ τῶν μαθητῶν αὐτοῦ.
+4 ἦν δὲ ἐγγὺς τὸ πάσχα, ἡ ἑορτὴ τῶν Ἰουδαίων.
+5 ἐπάρας οὖν τοὺς ὀφθαλμοὺς ὁ Ἰησοῦς καὶ θεασάμενος ὅτι πολὺς ὄχλος ἔρχεται πρὸς αὐτὸν,
+
+<x-color><param>dark khaki</param>λέγει πρὸς Φίλιππον</x-color> Πόθεν ἀγοράσωμεν <x-color><param>blue</param>ἄρτους</x-color> ἵνα φάγωσιν οὗτοι;
+6 τοῦτο δὲ ἔλεγεν πειράζων αὐτόν αὐτὸς γὰρ ᾔδει τί ἔμελλεν ποιεῖν.
+7 <x-color><param>dark khaki</param>ἀπεκρίθη αὐτῷ ὁ Φίλιππος</x-color> Διακοσίων δηναρίων <x-color><param>blue</param>ἄρτοι</x-color> οὐκ ἀρκοῦσιν αὐτοῖς,
+
+ἵνα ἕκαστος βραχύ τι λάβῃ.
+8 λέγει αὐτῷ εἷς ἐκ τῶν μαθητῶν αὐτοῦ, Ἀνδρέας ὁ ἀδελφὸς Σίμωνος Πέτρου
+9 Ἔστιν παιδάριον ὧδε ὃς ἔχει <x-color><param>yellow green</param>πέντε</x-color> <x-color><param>blue</param>ἄρτους</x-color> κριθίνους καὶ δύο ὀψάρια
+
+ἀλλὰ ταῦτα τί ἐστιν εἰς τοσούτους;
+10 εἶπεν ὁ Ἰησοῦς Ποιήσατε τοὺς ἀνθρώπους ἀναπεσεῖν. ἦν δὲ χόρτος πολὺς ἐν τῷ τόπῳ.
+
+ἀνέπεσαν οὖν οἱ ἄνδρες τὸν ἀριθμὸν ὡς <x-color><param>yellow green</param>πεντακισχίλιοι</x-color>.
+11 ἔλαβεν οὖν τοὺς <x-color><param>blue</param>ἄρτους</x-color> ὁ Ἰησοῦς καὶ εὐχαριστήσας διέδωκεν τοῖς ἀνακειμένοις,
+
+ὁμοίως καὶ ἐκ τῶν ὀψαρίων ὅσον ἤθελον.
+12 ὡς δὲ ἐνεπλήσθησαν, λέγει τοῖς μαθηταῖς αὐτοῦ
+
+<x-color><param>orange</param>Συναγάγετε</x-color> τὰ περισσεύσαντα <x-color><param>firebrick</param>κλάσματα</x-color>, ἵνα μή τι ἀπόληται.
+13 <x-color><param>orange</param>συνήγαγον</x-color> οὖν, καὶ ἐγέμισαν δώδεκα κοφίνους <x-color><param>firebrick</param>κλασμάτων</x-color> ἐκ τῶν <x-color><param>yellow green</param>πέντε</x-color> <x-color><param>blue</param>ἄρτων</x-color> τῶν κριθίνων
+
+ἃ ἐπερίσσευσαν τοῖς βεβρωκόσιν.
+14 Οἱ οὖν ἄνθρωποι ἰδόντες ὃ ἐποίησεν <x-color><param>red</param>σημεῖον</x-color> ἔλεγον
+
+ὅτι Οὗτός ἐστιν ἀληθῶς ὁ προφήτης ὁ ἐρχόμενος εἰς τὸν κόσμον.
+15 Ἰησοῦς οὖν γνοὺς ὅτι μέλλουσιν ἔρχεσθαι καὶ ἁρπάζειν αὐτὸν ἵνα ποιήσωσιν βασιλέα,
+
+ἀνεχώρησεν πάλιν εἰς τὸ ὄρος αὐτὸς μόνος.
++---J6,16-21 <x-color><param>cyan</param>Jezus chodzi po jeziorze</x-color>
+
+16 Ὡς δὲ ὀψία ἐγένετο, κατέβησαν οἱ μαθηταὶ αὐτοῦ ἐπὶ τὴν θάλασσαν,
+17 καὶ ἐμβάντες εἰς πλοῖον ἤρχοντο πέραν τῆς θαλάσσης εἰς Καφαρναούμ.
+
+καὶ σκοτία ἤδη ἐγεγόνει καὶ οὔπω ἐληλύθει πρὸς αὐτοὺς ὁ Ἰησοῦς,
+18 ἥ τε θάλασσα ἀνέμου μεγάλου πνέοντος διεγείρετο.
+19 ἐληλακότες οὖν ὡς σταδίους εἴκοσι πέντε ἢ τριάκοντα
+
+θεωροῦσιν τὸν Ἰησοῦν περιπατοῦντα ἐπὶ τῆς θαλάσσης
+
+καὶ ἐγγὺς τοῦ πλοίου γινόμενον, καὶ <x-color><param>green</param>ἐφοβήθησαν</x-color>.
+20 ὁ δὲ λέγει αὐτοῖς <x-color><param>red</param>Ἐγώ εἰμι</x-color>, <x-color><param>green</param>μὴ φοβεῖσθε</x-color>.
+21 ἤθελον οὖν λαβεῖν αὐτὸν εἰς τὸ πλοῖον, καὶ εὐθέως ἐγένετο τὸ πλοῖον ἐπὶ τῆς γῆς εἰς ἣν ὑπῆγον.
+
++---J6,22-25 <x-color><param>forest green</param>Lud szuka Jezusa</x-color>
+22 Τῇ ἐπαύριον ὁ ὄχλος ὁ ἑστηκὼς πέραν τῆς θαλάσσης εἶδον
+
+ὅτι πλοιάριον ἄλλο οὐκ ἦν ἐκεῖ εἰ μὴ ἕν, καὶ ὅτι οὐ συνεισῆλθεν τοῖς μαθηταῖς αὐτοῦ ὁ Ἰησοῦς εἰς τὸ πλοῖον
+
+ἀλλὰ μόνοι οἱ μαθηταὶ αὐτοῦ ἀπῆλθον
+23 ἀλλὰ ἦλθεν πλοιάρια ἐκ Τιβεριάδος ἐγγὺς τοῦ τόπου ὅπου ἔφαγον τὸν ἄρτον εὐχαριστήσαντος τοῦ Κυρίου.
+24 ὅτε οὖν εἶδεν ὁ ὄχλος ὅτι Ἰησοῦς οὐκ ἔστιν ἐκεῖ οὐδὲ οἱ μαθηταὶ αὐτοῦ, ἐνέβησαν αὐτοὶ εἰς τὰ πλοιάρια καὶ ἦλθον εἰς Καφαρναοὺμ ζητοῦντες τὸν Ἰησοῦν.
+25 καὶ εὑρόντες αὐτὸν πέραν τῆς θαλάσσης εἶπον αὐτῷ Ῥαββεί, πότε ὧδε γέγονας;
++---J6,26 <x-color><param>green</param>???</x-color>
+
+26 ἀπεκρίθη αὐτοῖς ὁ Ἰησοῦς καὶ εἶπεν <x-color><param>red</param>Ἀμὴν ἀμὴν λέγω ὑμῖν</x-color>, ζητεῖτέ με οὐχ ὅτι εἴδετε σημεῖα, ἀλλ’ ὅτι ἐφάγετε ἐκ τῶν ἄρτων καὶ ἐχορτάσθητε.
+27 ἐργάζεσθε μὴ τὴν βρῶσιν τὴν ἀπολλυμένην, ἀλλὰ τὴν βρῶσιν τὴν μένουσαν εἰς ζωὴν αἰώνιον, ἣν ὁ Υἱὸς τοῦ ἀνθρώπου ὑμῖν δώσει τοῦτον γὰρ ὁ Πατὴρ ἐσφράγισεν ὁ Θεός.
+28 εἶπον οὖν πρὸς αὐτόν Τί ποιῶμεν ἵνα ἐργαζώμεθα τὰ ἔργα τοῦ Θεοῦ;
+29 ἀπεκρίθη Ἰησοῦς καὶ εἶπεν αὐτοῖς Τοῦτό ἐστιν τὸ ἔργον τοῦ Θεοῦ, ἵνα πιστεύητε εἰς ὃν ἀπέστειλεν ἐκεῖνος.
+30 εἶπον οὖν αὐτῷ Τί οὖν ποιεῖς σὺ σημεῖον, ἵνα ἴδωμεν καὶ πιστεύσωμέν σοι; τί ἐργάζῃ;
+31 οἱ πατέρες ἡμῶν τὸ μάννα ἔφαγον ἐν τῇ ἐρήμῳ, καθώς ἐστιν γεγραμμένον Ἄρτον ἐκ τοῦ οὐρανοῦ ἔδωκεν αὐτοῖς φαγεῖν.
+32 εἶπεν οὖν αὐτοῖς ὁ Ἰησοῦς Ἀμὴν ἀμὴν λέγω ὑμῖν, οὐ Μωϋσῆς δέδωκεν ὑμῖν τὸν ἄρτον ἐκ τοῦ οὐρανοῦ, ἀλλ’ ὁ Πατήρ μου δίδωσιν ὑμῖν τὸν ἄρτον ἐκ τοῦ οὐρανοῦ τὸν ἀληθινόν
+33 ὁ γὰρ ἄρτος τοῦ Θεοῦ ἐστιν ὁ καταβαίνων ἐκ τοῦ οὐρανοῦ καὶ ζωὴν διδοὺς τῷ κόσμῳ.
+34 εἶπον οὖν πρὸς αὐτόν Κύριε, πάντοτε δὸς ἡμῖν τὸν ἄρτον τοῦτον.
+35 εἶπεν αὐτοῖς ὁ Ἰησοῦς Ἐγώ εἰμι ὁ ἄρτος τῆς ζωῆς ὁ ἐρχόμενος πρὸς ἐμὲ οὐ μὴ πεινάσῃ, καὶ ὁ πιστεύων εἰς ἐμὲ οὐ μὴ διψήσει πώποτε.
+36 ἀλλ’ εἶπον ὑμῖν ὅτι καὶ ἑωράκατέ με καὶ οὐ πιστεύετε.
+37 Πᾶν ὃ δίδωσίν μοι ὁ Πατὴρ πρὸς ἐμὲ ἥξει, καὶ τὸν ἐρχόμενον πρός με οὐ μὴ ἐκβάλω ἔξω,
+38 ὅτι καταβέβηκα ἀπὸ τοῦ οὐρανοῦ οὐχ ἵνα ποιῶ τὸ θέλημα τὸ ἐμὸν ἀλλὰ τὸ θέλημα τοῦ πέμψαντός με.
+39 τοῦτο δέ ἐστιν τὸ θέλημα τοῦ πέμψαντός με, ἵνα πᾶν ὃ δέδωκέν μοι μὴ ἀπολέσω ἐξ αὐτοῦ, ἀλλὰ ἀναστήσω αὐτὸ ἐν τῇ ἐσχάτῃ ἡμέρᾳ.
+40 τοῦτο γάρ ἐστιν τὸ θέλημα τοῦ Πατρός μου, ἵνα πᾶς ὁ θεωρῶν τὸν Υἱὸν καὶ πιστεύων εἰς αὐτὸν ἔχῃ ζωὴν αἰώνιον, καὶ ἀναστήσω αὐτὸν ἐγὼ ἐν τῇ ἐσχάτῃ ἡμέρᾳ.
+41 Ἐγόγγυζον οὖν οἱ Ἰουδαῖοι περὶ αὐτοῦ ὅτι εἶπεν Ἐγώ εἰμι ὁ ἄρτος ὁ καταβὰς ἐκ τοῦ οὐρανοῦ,
+42 καὶ ἔλεγον Οὐχ οὗτός ἐστιν Ἰησοῦς ὁ υἱὸς Ἰωσήφ, οὗ ἡμεῖς οἴδαμεν τὸν πατέρα καὶ τὴν μητέρα; πῶς νῦν λέγει ὅτι Ἐκ τοῦ οὐρανοῦ καταβέβηκα;
+43 ἀπεκρίθη Ἰησοῦς καὶ εἶπεν αὐτοῖς Μὴ γογγύζετε μετ’ ἀλλήλων.
+44 οὐδεὶς δύναται ἐλθεῖν πρός με ἐὰν μὴ ὁ Πατὴρ ὁ πέμψας με ἑλκύσῃ αὐτόν, κἀγὼ ἀναστήσω αὐτὸν ἐν τῇ ἐσχάτῃ ἡμέρᾳ.
+45 ἔστιν γεγραμμένον ἐν τοῖς προφήταις Καὶ ἔσονται πάντες διδακτοὶ Θεοῦ πᾶς ὁ ἀκούσας παρὰ τοῦ Πατρὸς καὶ μαθὼν ἔρχεται πρὸς ἐμέ.
+46 οὐχ ὅτι τὸν Πατέρα ἑώρακέν τις, εἰ μὴ ὁ ὢν παρὰ τοῦ Θεοῦ, οὗτος ἑώρακεν τὸν Πατέρα.
+47 ἀμὴν ἀμὴν λέγω ὑμῖν, ὁ πιστεύων ἔχει ζωὴν αἰώνιον.
+48 ἐγώ εἰμι ὁ ἄρτος τῆς ζωῆς.
+49 οἱ πατέρες ὑμῶν ἔφαγον ἐν τῇ ἐρήμῳ τὸ μάννα καὶ ἀπέθανον
+50 οὗτός ἐστιν ὁ ἄρτος ὁ ἐκ τοῦ οὐρανοῦ καταβαίνων, ἵνα τις ἐξ αὐτοῦ φάγῃ καὶ μὴ ἀποθάνῃ.
+51 ἐγώ εἰμι ὁ ἄρτος ὁ ζῶν ὁ ἐκ τοῦ οὐρανοῦ καταβάς ἐάν τις φάγῃ ἐκ τούτου τοῦ ἄρτου, ζήσει εἰς τὸν αἰῶνα καὶ ὁ ἄρτος δὲ ὃν ἐγὼ δώσω ἡ σάρξ μού ἐστιν ὑπὲρ τῆς τοῦ κόσμου ζωῆς.
+52 Ἐμάχοντο οὖν πρὸς ἀλλήλους οἱ Ἰουδαῖοι λέγοντες Πῶς δύναται οὗτος ἡμῖν δοῦναι τὴν σάρκα φαγεῖν;
+53 εἶπεν οὖν αὐτοῖς ὁ Ἰησοῦς Ἀμὴν ἀμὴν λέγω ὑμῖν, ἐὰν μὴ φάγητε τὴν σάρκα τοῦ Υἱοῦ τοῦ ἀνθρώπου καὶ πίητε αὐτοῦ τὸ αἷμα, οὐκ ἔχετε ζωὴν ἐν ἑαυτοῖς.
+54 ὁ τρώγων μου τὴν σάρκα καὶ πίνων μου τὸ αἷμα ἔχει ζωὴν αἰώνιον, κἀγὼ ἀναστήσω αὐτὸν τῇ ἐσχάτῃ ἡμέρᾳ.
+55 ἡ γὰρ σάρξ μου ἀληθής ἐστιν βρῶσις, καὶ τὸ αἷμά μου ἀληθής ἐστιν πόσις.
+56 ὁ τρώγων μου τὴν σάρκα καὶ πίνων μου τὸ αἷμα ἐν ἐμοὶ μένει κἀγὼ ἐν αὐτῷ.
+57 καθὼς ἀπέστειλέν με ὁ ζῶν Πατὴρ κἀγὼ ζῶ διὰ τὸν Πατέρα, καὶ ὁ τρώγων με κἀκεῖνος ζήσει δι’ ἐμέ.
+58 οὗτός ἐστιν ὁ ἄρτος ὁ ἐξ οὐρανοῦ καταβάς, οὐ καθὼς ἔφαγον οἱ πατέρες καὶ ἀπέθανον ὁ τρώγων τοῦτον τὸν ἄρτον ζήσει εἰς τὸν αἰῶνα.
+59 Ταῦτα εἶπεν ἐν συναγωγῇ διδάσκων ἐν Καφαρναούμ.
+60 Πολλοὶ οὖν ἀκούσαντες ἐκ τῶν μαθητῶν αὐτοῦ εἶπαν Σκληρός ἐστιν ὁ λόγος οὗτος τίς δύναται αὐτοῦ ἀκούειν;
+61 εἰδὼς δὲ ὁ Ἰησοῦς ἐν ἑαυτῷ ὅτι γογγύζουσιν περὶ τούτου οἱ μαθηταὶ αὐτοῦ, εἶπεν αὐτοῖς Τοῦτο ὑμᾶς σκανδαλίζει;
+62 ἐὰν οὖν θεωρῆτε τὸν Υἱὸν τοῦ ἀνθρώπου ἀναβαίνοντα ὅπου ἦν τὸ πρότερον;
+63 τὸ πνεῦμά ἐστιν τὸ ζωοποιοῦν, ἡ σὰρξ οὐκ ὠφελεῖ οὐδέν τὰ ῥήματα ἃ ἐγὼ λελάληκα ὑμῖν πνεῦμά ἐστιν καὶ ζωή ἐστιν.
+64 ἀλλ’ εἰσὶν ἐξ ὑμῶν τινες οἳ οὐ πιστεύουσιν. ᾔδει γὰρ ἐξ ἀρχῆς ὁ Ἰησοῦς τίνες εἰσὶν οἱ μὴ πιστεύοντες καὶ τίς ἐστιν ὁ παραδώσων αὐτόν.
+65 καὶ ἔλεγεν Διὰ τοῦτο εἴρηκα ὑμῖν ὅτι οὐδεὶς δύναται ἐλθεῖν πρός με ἐὰν μὴ ᾖ δεδομένον αὐτῷ ἐκ τοῦ Πατρός.
+66 Ἐκ τούτου πολλοὶ τῶν μαθητῶν αὐτοῦ ἀπῆλθον εἰς τὰ ὀπίσω καὶ οὐκέτι μετ’ αὐτοῦ περιεπάτουν.
+67 εἶπεν οὖν ὁ Ἰησοῦς τοῖς δώδεκα Μὴ καὶ ὑμεῖς θέλετε ὑπάγειν;
+68 ἀπεκρίθη αὐτῷ Σίμων Πέτρος Κύριε, πρὸς τίνα ἀπελευσόμεθα; ῥήματα ζωῆς αἰωνίου ἔχεις
+69 καὶ ἡμεῖς πεπιστεύκαμεν καὶ ἐγνώκαμεν ὅτι σὺ εἶ ὁ Ἅγιος τοῦ Θεοῦ.
+70 ἀπεκρίθη αὐτοῖς ὁ Ἰησοῦς Οὐκ ἐγὼ ὑμᾶς τοὺς δώδεκα ἐξελεξάμην; καὶ ἐξ ὑμῶν εἷς διάβολός ἐστιν.
+71 ἔλεγεν δὲ τὸν Ἰούδαν Σίμωνος Ἰσκαριώτου οὗτος γὰρ ἔμελλεν παραδιδόναι αὐτόν, εἷς ἐκ τῶν δώδεκα.
 
 * J7
 
